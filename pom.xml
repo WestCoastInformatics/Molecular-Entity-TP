@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <!-- Module Metadata -->
+  <!-- Parent is TBD <parent> <groupId>org.ihtsdo.otf</groupId> <artifactId>otf-parent</artifactId> 
+    <version>1.0.0-SNAPSHOT</version> <relativePath/> </parent> -->
+
+  <groupId>org.ihtsdo.data</groupId>
+  <artifactId>ihtsdo-molecular-entity</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>Molecular Entity project</name>
+  <description>Produces techncial preview files for molecular entity</description>
+
+  <properties>
+
+    <!-- Inputs to the process -->
+    <module.id>705115006</module.id>
+    <effective.time>20150401</effective.time>
+    <expiration.time>20150731</expiration.time>
+    <package.type>MolecularEntityTechPreview</package.type>
+    <package.name>SnomedCT_${package.type}_INT_${effective.time}</package.name>
+    <release.version>20150131</release.version>
+    <core.dir>c:/data/SNOMED/SnomedCT_RF2Release_INT_20150131/Snapshot/Terminology</core.dir>
+    <core.concept.file.base>sct2_Concept_Snapshot_INT_${release.version}.txt</core.concept.file.base>
+    <tp.concept.file.base>xsct2_Concept_${package.type}_INT_${effective.time}.txt</tp.concept.file.base>
+    <core.rels.file.base>sct2_StatedRelationship_Snapshot_INT_${release.version}.txt</core.rels.file.base>
+    <tp.rels.file.base>xsct2_StatedRelationship_${package.type}_INT_${effective.time}.txt</tp.rels.file.base>
+    <core.inferred.rels.file.base>sct2_Relationship_Snapshot_INT_${release.version}.txt</core.inferred.rels.file.base>
+    <tp.inferred.rels.file.base>xsct2_Relationship_${package.type}_INT_${effective.time}.txt</tp.inferred.rels.file.base>
+
+    <!-- Set default maven settings -->
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    <releaseVersion>${project.version}</releaseVersion>
+    <maven.compiler.plugin.version>3.0</maven.compiler.plugin.version>
+    <maven.plugin.api.version>3.1.1</maven.plugin.api.version>
+    <maven.resources.version>2.7</maven.resources.version>
+
+    <!-- Third party dependencies -->
+    <rf2.classification.version>1.0.2-SNAPSHOT</rf2.classification.version>
+    <rf2.json.version>1.0-SNAPSHOT</rf2.json.version>
+    <id.assignment.version>2.0.1</id.assignment.version>
+    <slf4j.log4j12.version>1.7.5</slf4j.log4j12.version>
+    <build.helper.maven.version>1.9.1</build.helper.maven.version>
+    <truezip.maven.version>1.2</truezip.maven.version>
+  </properties>
+  <dependencyManagement>
+    <dependencies>
+      <!-- IHTSDO dependencies. -->
+      <dependency>
+        <groupId>org.ihtsdo.data</groupId>
+        <artifactId>ihtsdo-molecular-entity-build</artifactId>
+        <version>${releaseVersion}</version>
+        <type>zip</type>
+      </dependency>
+
+      <dependency>
+        <groupId>org.ihtsdo.idgen</groupId>
+        <artifactId>id-generation-api</artifactId>
+        <version>${id.assignment.version}</version>
+      </dependency>
+
+      <dependency>
+        <groupId>org.ihtsdo</groupId>
+        <artifactId>rf2-classification-snorocket</artifactId>
+        <version>${rf2.classification.version}</version>
+      </dependency>
+
+      <dependency>
+        <groupId>org.ihtsdo</groupId>
+        <artifactId>rf2-to-json-conversion</artifactId>
+        <version>${rf2.json.version}</version>
+      </dependency>
+
+      <!-- Maven Plugin API -->
+      <dependency>
+        <groupId>org.apache.maven</groupId>
+        <artifactId>maven-plugin-api</artifactId>
+        <version>${maven.plugin.api.version}</version>
+      </dependency>
+
+      <!-- Logging -->
+      <dependency>
+        <groupId>org.slf4j</groupId>
+        <artifactId>slf4j-log4j12</artifactId>
+        <version>${slf4j.log4j12.version}</version>
+      </dependency>
+    </dependencies>
+  </dependencyManagement>
+
+
+  <build>
+
+    <!-- Declare Project Plugin Versions -->
+    <pluginManagement>
+      <plugins>
+
+        <!-- Maven plugins -->
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-plugin-plugin</artifactId>
+          <version>3.3</version>
+        </plugin>
+
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-compiler-plugin</artifactId>
+          <version>${maven.compiler.plugin.version}</version>
+          <configuration>
+            <source>1.7</source>
+            <target>1.7</target>
+          </configuration>
+        </plugin>
+
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-resources-plugin</artifactId>
+          <version>${maven.resources.version}</version>
+        </plugin>
+
+        <!-- For attaching zip artifacts -->
+        <plugin>
+          <groupId>org.codehaus.mojo</groupId>
+          <artifactId>build-helper-maven-plugin</artifactId>
+          <version>${build.helper.maven.version}</version>
+        </plugin>
+
+        <!-- For building zip files -->
+        <plugin>
+          <groupId>org.codehaus.mojo</groupId>
+          <artifactId>truezip-maven-plugin</artifactId>
+          <version>${truezip.maven.version}</version>
+        </plugin>
+
+      </plugins>
+    </pluginManagement>
+
+  </build>
+
+  <!-- Modules -->
+
+  <modules>
+    <module>plugin</module>
+    <module>build</module>
+    <module>browser</module>
+  </modules>
+
+  <!-- <distributionManagement> <repository> <id>ihtsdo-public-nexus</id> <name>IHTSDO 
+    Public Nexus Releases</name> <url>https://maven.ihtsdotools.org/content/repositories/releases/</url> 
+    </repository> <snapshotRepository> <id>ihtsdo-public-nexus</id> <name>IHTSDO Public 
+    Nexus Snapshots</name> <url>https://maven.ihtsdotools.org/content/repositories/snapshots/</url> 
+    </snapshotRepository> </distributionManagement> -->
+</project>

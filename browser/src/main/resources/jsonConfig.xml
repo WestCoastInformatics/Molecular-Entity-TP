@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <processInMemory>true</processInMemory>
+    <defaultTermLangCode>en</defaultTermLangCode>
+    <defaultTermDescriptionType>900000000000003001</defaultTermDescriptionType>
+    <defaultTermLanguageRefset>900000000000509007</defaultTermLanguageRefset>
+    <normalizeTextIndex>true</normalizeTextIndex>
+    <createCompleteConceptsFile>true</createCompleteConceptsFile>
+    <editionName>${package.type} Edition</editionName>
+    <databaseName>${package.type}-edition</databaseName>
+    <effectiveTime>${effective.time}</effectiveTime>
+    <expirationTime>${expiration.time}</expirationTime>
+    <outputFolder>${json.dir}</outputFolder>
+    <foldersBaselineLoad>
+        <folder>${core.dir}</folder>
+    </foldersBaselineLoad>
+    <modulesToIgnoreBaselineLoad>
+    </modulesToIgnoreBaselineLoad>
+    <foldersExtensionLoad>
+        <folder>${tp.dir}</folder>
+    </foldersExtensionLoad>
+    <modulesToIgnoreExtensionLoad>
+    </modulesToIgnoreExtensionLoad>
+</config>

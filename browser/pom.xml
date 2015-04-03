@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <!-- Module Metadata -->
+  <parent>
+    <groupId>org.ihtsdo.data</groupId>
+    <artifactId>ihtsdo-molecular-entity</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+  </parent>
+
+  <artifactId>ihtsdo-molecular-entity-browser</artifactId>
+  <packaging>pom</packaging>
+  <name>Molecular Entity browser data builder</name>
+  <description>Project for building browser ready tech preview files for molecular entity</description>
+
+  <properties>
+    <!-- Dirs for various stages of processing -->
+    <tp.dir>${project.build.directory}/${package.name}/Terminology</tp.dir>
+    <json.dir>${project.build.directory}/json</json.dir>
+    <!-- Files for classification -->
+    <core.concept.file>${core.dir}/${core.concept.file.base}</core.concept.file>
+    <tp.concept.file>${tp.dir}/${tp.concept.file.base}</tp.concept.file>
+    <core.rels.file>${core.dir}/${core.rels.file.base}</core.rels.file>
+    <tp.rels.file>${tp.dir}/${tp.rels.file.base}</tp.rels.file>
+    <core.inferred.rels.file>${core.dir}/${core.inferred.rels.file.base}</core.inferred.rels.file>
+    <tp.inferred.rels.file>${tp.dir}/${tp.inferred.rels.file.base}</tp.inferred.rels.file>
+  </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.ihtsdo.data</groupId>
+      <artifactId>ihtsdo-molecular-entity-build</artifactId>
+      <type>zip</type>
+    </dependency>
+
+    <dependency>
+      <groupId>org.ihtsdo</groupId>
+      <artifactId>rf2-to-json-conversion</artifactId>
+
+    </dependency>
+  </dependencies>
+
+  <!-- Initialization -->
+  <profiles>
+    <profile>
+      <id>browser</id>
+      <build>
+        <resources>
+          <resource>
+            <directory>src/main/resources</directory>
+          </resource>
+        </resources>
+        <plugins>
+
+          <!-- Unpack the tech preview -->
+          <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-dependency-plugin</artifactId>
+            <executions>
+              <execution>
+                <id>unpack</id>
+                <phase>initialize</phase>
+                <goals>
+                  <goal>unpack</goal>
+                </goals>
+                <configuration>
+                  <artifactItems>
+                    <artifactItem>
+                      <groupId>org.ihtsdo</groupId>
+                      <artifactId>rf2-to-json-conversion</artifactId>
+                      <version>${rf2.json.version}</version>
+                      <type>jar</type>
+                      <classifier>jar-with-dependencies</classifier>
+                      <outputDirectory>${project.build.directory}/dist</outputDirectory>
+                    </artifactItem>
+                    <artifactItem>
+                      <groupId>org.ihtsdo.data</groupId>
+                      <artifactId>ihtsdo-molecular-entity-build</artifactId>
+                      <version>${releaseVersion}</version>
+                      <type>zip</type>
+                      <outputDirectory>${project.build.directory}/${package.name}</outputDirectory>
+                    </artifactItem>
+                  </artifactItems>
+                </configuration>
+              </execution>
+            </executions>
+          </plugin>
+
+          <!-- Copy the config files so they are filtered -->
+          <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-resources-plugin</artifactId>
+            <version>${maven.resources.version}</version>
+            <executions>
+              <execution>
+                <id>copy</id>
+                <phase>generate-sources</phase>
+                <goals>
+                  <goal>copy-resources</goal>
+                </goals>
+                <configuration>
+                  <resources>
+                    <resource>
+                      <directory>src/main/resources</directory>
+                      <filtering>true</filtering>
+                    </resource>
+                  </resources>
+                  <outputDirectory>${project.build.directory}/config</outputDirectory>
+                  <filtering>true</filtering>
+                </configuration>
+              </execution>
+            </executions>
+          </plugin>
+
+          <!-- Run mojos -->
+          <plugin>
+            <groupId>org.ihtsdo.data</groupId>
+            <artifactId>ihtsdo-molecular-entity-plugin</artifactId>
+            <version>${releaseVersion}</version>
+            <executions>
+              <!-- Run classifier for inferred rels -->
+              <execution>
+                <id>classify-rf2</id>
+                <phase>generate-resources</phase>
+                <goals>
+                  <goal>classify-rf2</goal>
+                </goals>
+                <configuration>
+                  <configFile>${project.build.directory}/config/classifyConfig.xml</configFile>
+                </configuration>
+              </execution>
+
+              <!-- No need to combine because tooling takes multiple folders -->
+
+              <!-- Convert RF2 to json <execution> <id>rf2-json</id> <phase>compile</phase> 
+                <goals> <goal>rf2-json</goal> </goals> <configuration> <configFile>${project.build.directory}/config/jsonConfig.xml</configFile> 
+                </configuration> </execution> -->
+            </executions>
+          </plugin>
+
+          <!-- Convert RF2 to json, requires execution with fork so that system classpath 
+            can be properly resolved -->
+          <plugin>
+            <artifactId>maven-antrun-plugin</artifactId>
+            <version>1.8</version>
+            <executions>
+              <execution>
+                <phase>compile</phase>
+                <configuration>
+                  <target>
+
+                    <java classname="org.ihtsdo.json.runners.ConfigRunner"
+                      fork="true" failonerror="true" maxmemory="8g">
+                      <arg value="${project.build.directory}/config/jsonConfig.xml" />
+                      <classpath>
+                        <pathelement location="${project.build.directory}/dist" />
+                        <pathelement path="${java.class.path}" />
+                      </classpath>
+                    </java>
+
+                  </target>
+                </configuration>
+                <goals>
+                  <goal>run</goal>
+                </goals>
+              </execution>
+            </executions>
+          </plugin>
+          <!-- Package tools -->
+          <plugin>
+            <groupId>org.codehaus.mojo</groupId>
+            <artifactId>truezip-maven-plugin</artifactId>
+            <executions>
+              <execution>
+                <id>copy-rf2</id>
+                <goals>
+                  <goal>copy</goal>
+                </goals>
+                <phase>package</phase>
+                <configuration>
+                  <fileset>
+                    <directory>${project.build.directory}/${package.name}</directory>
+                    <outputDirectory>${project.build.directory}/${package.name}.zip</outputDirectory>
+                  </fileset>
+                </configuration>
+              </execution>
+              <execution>
+                <id>copy-json</id>
+                <goals>
+                  <goal>copy</goal>
+                </goals>
+                <phase>package</phase>
+                <configuration>
+                  <fileset>
+                    <directory>${project.build.directory}/json</directory>
+                    <outputDirectory>${project.build.directory}/${package.name}-json.zip</outputDirectory>
+                  </fileset>
+                </configuration>
+              </execution>
+            </executions>
+          </plugin>
+
+          <!-- Attach .zip file artifact -->
+          <plugin>
+            <groupId>org.codehaus.mojo</groupId>
+            <artifactId>build-helper-maven-plugin</artifactId>
+            <executions>
+              <execution>
+                <id>attach-rf2</id>
+                <phase>package</phase>
+                <goals>
+                  <goal>attach-artifact</goal>
+                </goals>
+                <configuration>
+                  <artifacts>
+                    <artifact>
+                      <file>${project.build.directory}/${package.name}.zip</file>
+                      <type>zip</type>
+                    </artifact>
+                  </artifacts>
+                </configuration>
+              </execution>
+              <execution>
+                <id>attach-json</id>
+                <phase>package</phase>
+                <goals>
+                  <goal>attach-artifact</goal>
+                </goals>
+                <configuration>
+                  <artifacts>
+                    <artifact>
+                      <file>${project.build.directory}/${package.name}-json.zip</file>
+                      <type>zip</type>
+                    </artifact>
+                  </artifacts>
+                </configuration>
+              </execution>
+            </executions>
+          </plugin>
+
+        </plugins>
+      </build>
+    </profile>
+
+  </profiles>
+
+</project>

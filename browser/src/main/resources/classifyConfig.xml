@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+  <!-- default module id for relationships of metadata root concept -->
+  <moduleId>${module.id}</moduleId>
+  <!-- effective time for inferred relationships -->
+  <release_date>20140731</release_date>
+  <!-- concept files -->
+  <concept_snapshot_files>
+    <file>${core.concept.file}</file>
+    <file>${tp.concept.file}</file>
+  </concept_snapshot_files>
+  <!-- stated relationship files -->
+  <relationship_snapshot_files>
+    <file>${core.rels.file}</file>
+    <file>${tp.rels.file}</file>
+  </relationship_snapshot_files>
+  <!-- detected cycles output file -->
+  <detected_cycles_output_file>n/a</detected_cycles_output_file>
+  <!-- equivalent concepts output file -->
+  <equivalent_concept_output_file>${project.build.directory}/equivalent.txt</equivalent_concept_output_file>
+  <!-- -optional- previous inferred relationship files to reconciliate groups number -->
+  <previous_inferred_relationship_snapshot_files>
+    <file>${core.inferred.rels.file}</file>
+  </previous_inferred_relationship_snapshot_files>
+  <!-- inferred relationship output file -->
+  <inferred_relationships_output_file>${tp.inferred.rels.file}</inferred_relationships_output_file>
+</params>
