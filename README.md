@@ -1,4 +1,4 @@
-This is a two-step process.
+This is a seven-step process.
 
 STEP 0: download and install the RF2 snorocket and json conversion utilities
         and build these projects (so we can refer to the
@@ -42,4 +42,5 @@ STEP 5: load mongodb
 STEP 6: run the rest API in Node.js (from the "Node.js command prompt")
   * node app.js (from the sct-snapshot-rest-api folder)
     * Check http://127.0.0.1:3000/server/releases
+
 STEP 7: Open the sct-browser-frontend/index.html page
