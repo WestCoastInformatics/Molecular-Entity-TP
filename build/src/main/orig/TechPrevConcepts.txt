@@ -1,0 +1,816 @@
+Molecular entity (molecular entity)|Molecular entity||0|CHEBI:23367|Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer etc., identifiable as a separately distinguishable entity.
+Realizable entity (qualifier value)|Realizable entity||0||
+Disposition (qualifier value)|Disposition||0||A disposition is particular behaviour which is always exhibited by a material entity.
+Molecule (molecular entity)|Molecule||0|CHEBI:25367|Any polyatomic entity that is an electrically neutral entity consisting of more than one atom.
+Heteroatomic molecular entity (molecular entity)|Heteroatomic molecular entity||0|CHEBI:37577|A molecular entity consisting of two or more chemical elements.
+Ion (molecular entity)|Ion||0|CHEBI:24870|A molecular entity having a net electric charge.
+Enzyme inhibitor (qualifier value)|Enzyme inhibitor||0|CHEBI:23924|A substance that combines with an enzyme resulting in prevention of the normal substrate-enzyme combination and the catalytic reaction.
+Hydrolase inhibitor (qualifier value)|Hydrolase inhibitor||0|CHEBI:76759|An enzyme inhibitor that interferes with the action of a hydrolase.
+Angiogenesis inhibitor (qualifier value)|Angiogenesis inhibitor||0|CHEBI:48422|A compound that antagonizes or inhibits the development of new blood vessels.
+Angiotensin-converting enzyme inhibitor (qualifier value)|Angiotensin-converting enzyme inhibitor||0|CHEBI:35457|A compound that interferes with the action of peptidyl-dipeptidase A.
+Aromatase inhibitor (qualifier value)|Aromatase inhibitor||0|CHEBI:50790|An enzyme inhibitor which interferes with the action of aromatase,
+Bradykinin receptor antagonist (qualifier value)|Bradykinin receptor antagonist||0|CHEBI:68557|An antagonist at the bradykinin receptor.
+BRAF inhibitor (qualifier value)|BRAF inhibitor||0|CHEBI:75047|A compound that specifically inhibits human mutant serine/threonine kinase.
+Carbonic anhydrase inhibitor (qualifier value)|Carbonic anhydrase inhibitor||0|CHEBI:23018|A hydrolyase inhibitor that interferes with the action of carbonic anhydrase.
+Cyclooxygenase 2 inhibitor (qualifier value)|Cyclooxygenase 2 inhibitor||0|CHEBI:50629|
+Janus kinase inhibitor (qualifier value)|Janus kinase inhibitor||0|CHEBI:66921|A tyrosine kinase inhibitor that specifically blocks the action of Janus kinase.
+Microtubule inhibitor (qualifier value)|Microtubule inhibitor||0|CHEBI:61951|Any compound that interacts with tubulin to inhibit polymerisation of microtubules.
+Mitotic inhibitor (qualifier value)|Mitotic inhibitor||0|CHEBI:64911|Any compound that inhibits cell division.
+Monoamine oxidase inhibitor (qualifier value)|Monoamine oxidase inhibitor||0|CHEBI:38623|A compound that interferes with the action of monoamine oxidase.
+Neuraminidase inhibitor (qualifier value)|Neuraminidase inhibitor||0|CHEBI:52425|A compound which blocks the function of the viral neuraminidase protein.
+Nucleotidyltransferase inhibitor (qualifier value)|Nucleotidyltransferase inhibitor||0|CHEBI:76815|A transferase inhibitor that interferes with the action of any nucleotidyltransferase.
+Pentosyltransferase inhibitor (qualifier value)|Pentosyltransferase inhibitor||0|CHEBI:76790|A glycosyltransferase inhibitor that interferes with the action of any pentosyltransferase.
+Protein kinase inhibitor (qualifier value)|Protein kinase inhibitor||0|CHEBI:37699|A transferase inhibitor that interferes with the action of protein kinases.
+Tyrosine kinase inhibitor (qualifier value)|Tyrosine kinase inhibitor||0|CHEBI:38637|A protein kinase inhibitor that interferes with the action of tyrosine kinase.
+Proton pump inhibitor (qualifier value)|Proton pump inhibitor||0|CHEBI:49200|A compound that inhibits H,K-ATPase.
+Purine nucleoside phosphorylase inhibitor (qualifier value)|Purine nucleoside phosphorylase inhibitor||0|CHEBI:63090|A pentosyltransferase inhibitor that interferes with the action of purine nucleoside phosphorylase.
+HIV-1 reverse transcriptase inhibitor (qualifier value)|HIV-1 reverse transcriptase inhibitor||0|CHEBI:53756|A compound which inhibits the activity of HIV-1 reverse transcriptase.
+Coagulation factor Xa inhibitor (qualifier value)|Coagulation factor Xa inhibitor||0|CHEBI:68581|A serine endopeptidase inhibitor that interferes with the action of coagulation factor Xa.
+Serotonin re-uptake inhibitor (qualifier value)|Serotonin re-uptake inhibitor||0|CHEBI:50949|A compound that specifically inhibits the reuptake of serotonin in the brain.
+Serine proteinase inhibitor (qualifier value)|Serine proteinase inhibitor||1|CHEBI:48353|Any protease inhibitor that restricts the action of a serine protease.
+Sodium-glucose cotransporter subtype 2 inhibitor (qualifier value)|Sodium-glucose cotransporter subtype 2 inhibitor||0|CHEBI:73273|An inhibitor that interferes with the action of sodium-glucose transport protein subtype 2.
+Thymidylate synthase inhibitor (qualifier value)|Thymidylate synthase inhibitor||0|CHEBI:63720|A methyltransferase inhibitor that interferes with the action of thymidylate synthase.
+Topoisomerase inhibitor (qualifier value)|Topoisomerase inhibitor||0|CHEBI:70727|An enzyme inhibitor that interferes with the action of any of the topoisomerases.
+Transferase inhibitor (qualifier value)|Transferase inhibitor||0|CHEBI:71300|An enzyme inhibitor that interferes with the action of a transferase.
+Xanthine oxidase inhibitor (qualifier value)|Xanthine oxidase inhibitor||0|CHEBI:35634|An enzyme inhibitor that interferes with the action of xanthine oxidase.
+Serotonergic (qualifier value)|Serotonergic||0|CHEBI:48278|
+Tubulin modulator (qualifier value)|Tubulin modulator||0|CHEBI:60832|A compound that interacts with tubulin to inhibit or promote polymerisation of microtubules.
+Oxidoreductase inhibitor (qualifier value)|Oxidoreductase inhibitor||0|CHEBI:76725|An enzyme inhibitor which interferes with the action of an oxidoreductase.
+Amikacin (molecular entity)|Amikacin||0|CHEBI:2637|
+Amikacin disulfate (molecular entity)|Amikacin disulfate||0|CHEBI:2638|
+Apramycin (molecular entity)|Apramycin||0|CHEBI:2790|
+Gentamicin (molecular entity)|Gentamicin||0|CHEBI:17833|
+Kanamycin (molecular entity)|Kanamycin||0|CHEBI:6104|
+Neomycin (molecular entity)|Neomycin||0|CHEBI:7507|
+Neomycin C (molecular entity)|Neomycin C||0|CHEBI:53634|
+Neomycin sulfate (molecular entity)|Neomycin sulfate||0|CHEBI:31635|
+Netilmicin (molecular entity)|Netilmicin||0|CHEBI:7528|
+Paromomycin (molecular entity)|Paromomycin||0|CHEBI:7934|
+Paromomycin sulfate (molecular entity)|Paromomycin sulfate||0|CHEBI:7935|
+Spectinomycin (molecular entity)|Spectinomycin||0|CHEBI:9215|
+Spectinomycin dihydrochloride (molecular entity)|Spectinomycin dihydrochloride||0|CHEBI:9216|
+Streptomycin (molecular entity)|Streptomycin||0|CHEBI:17076|
+Tobramycin (molecular entity)|Tobramycin||0|CHEBI:28864|
+Aminoglycoside (molecular entity)|Aminoglycoside||0|CHEBI:47779|
+Framycetin (molecular entity)|Framycetin||0|CHEBI:7508|
+Amikacin(4+) (molecular entity)|Amikacin(4+)||0|CHEBI:84739|
+Amino cyclitol glycoside (molecular entity)|Amino cyclitol glycoside||0|CHEBI:22479|
+Sulfate salt (molecular entity)|Sulfate salt||0|CHEBI:35175|
+Salt (molecular entity)|Salt||0|CHEBI:24866|A salt is an assembly of cations and anions.
+Cation (molecular entity)|Cation||0|CHEBI:36916|A monoatomic or polyatomic species having one or more elementary charges of the proton.
+Anion (molecular entity)|Anion||0|CHEBI:22563|A monoatomic or polyatomic species having one or more elementary charges of the electron.
+Chloride salt (molecular entity)|Chloride salt||0|CHEBI:23114|
+Hydrochloride (molecular entity)_|Hydrochloride||0|CHEBI:36807|A salt formally resulting from the reaction of hydrochloric acid with an organic base.
+Protein synthesis inhibitor (qualifier value)|Protein synthesis inhibitor||0|CHEBI:48001|A compound which inhibits the synthesis of a protein.
+Streptomycin(3+) (molecular entity)|Streptomycin(3+)||0|CHEBI:58007|
+Spectinomycin(2+) (molecular entity)|Spectinomycin(2+)||0|CHEBI:77315|
+Ammonium ion (molecular entity)|Ammonium ion||0|CHEBI:35274|
+Tobramycin(5+) (molecular entity)|Tobramycin(5+)||0|CHEBI:73678|
+Isomerase inhibitor (qualifier value)|Isomerase inhibitor||0|CHEBI:75596|An enzyme inhibitor that inhibits the action of an isomerase.
+Prostaglandin-endoperoxide synthase inhibitor (qualifier value)|Prostaglandin-endoperoxide synthase inhibitor||0|CHEBI:35544|A substance that combines with cyclooxygenases and prevents its substrate-enzyme combination with arachidonic acid and the formation of icosanoids, prostaglandins, and thromboxanes.
+Pathway inhibitor (qualifier value)|Pathway inhibitor||0|CHEBI:76932|An enzyme inhibitor that interferes with one or more steps in a metabolic pathway.
+Acrivastine (molecular entity)|Acrivastine||0|CHEBI:83168|
+H1-receptor antagonist (qualifier value)|H1-receptor antagonist||1|CHEBI:37955|A substance that selectively binds to but does not activate histamine H1 receptors, thereby blocking the actions of endogenous histamine.
+Histamine antagonist (qualifier value)|Histamine antagonist||0|CHEBI:37956|
+Histaminergic (qualifier value)|Histaminergic||0|CHEBI:37957|A substance used for its action on the histaminergic system.
+Pyridine derivative (molecular entity)|Pyridine derivative||0|CHEBI:26421|A heterocyclic compound based on a pyridine skeleton and its substituted derivatives.
+Monocarboxylic acid (molecular entity)|Monocarboxylic acid||0|CHEBI:25384|
+Carboxylic acid (molecular entity)|Carboxylic acid||0|CHEBI:33575|
+Alcaftadine (molecular entity)|Alcaftadine||0|CHEBI:71023|
+Amlexanox (molecular entity)|Amlexanox||0|CHEBI:31205|
+Astemizole (molecular entity)|Astemizole||0|CHEBI:2896|
+Azatadine (molecular entity)|Azatadine||0|CHEBI:2946|
+Azatadine maleate (molecular entity)|Azatadine maleate||0|CHEBI:2947|
+Azelastine (molecular entity)|Azelastine||0|CHEBI:2950|
+Azelastine hydrochloride (molecular entity)|Azelastine hydrochloride||0|CHEBI:2951|
+Bepotastine (molecular entity)|Bepotastine||0|CHEBI:71204|
+Bepotastine besylate (molecular entity)|Bepotastine besylate||0|CHEBI:31281|
+Bromazine (molecular entity)|Bromazine||0|CHEBI:59177|
+Bromazine hydrochloride (molecular entity)|Bromazine hydrochloride||0|CHEBI:59178|
+Brompheniramine (molecular entity)|Brompheniramine||0|CHEBI:3183|
+Brompheniramine maleate (molecular entity)|Brompheniramine maleate||0|CHEBI:3184|
+Buclizine (molecular entity)|Buclizine||0|CHEBI:3205|
+Buclizine dihydrochloride (molecular entity)|Buclizine dihydrochloride||0|CHEBI:61193|
+Carbinoxamine (molecular entity)|Carbinoxamine||0|CHEBI:3398|
+Carbinoxamine maleate (molecular entity)|Carbinoxamine maleate||0|CHEBI:31353|
+Cetirizine (molecular entity)|Cetirizine||0|CHEBI:3561|
+Chlorphenamine (molecular entity)|Chlorphenamine||0|CHEBI:52010|
+Cinnarizine (molecular entity)|Cinnarizine||0|CHEBI:31403|
+Clemastine (molecular entity)|Clemastine||0|CHEBI:3738|
+Clemastine fumarate (molecular entity)|Clemastine fumarate||0|CHEBI:3739|
+Clemizole (molecular entity)|Clemizole||0|CHEBI:52140|
+Cyclizine (molecular entity)|Cyclizine||0|CHEBI:3994|
+Piperidine derivative (molecular entity)|Piperidine derivative||0|CHEBI:26151|
+Aldehyde (molecular entity)|Aldehyde||0|CHEBI:17478|A compound RC(=O)H, in which a carbonyl group is bonded to one hydrogen atom and to one R group.
+Benzimidazole (molecular entity)|Benzimidazole||0|CHEBI:22715|An organic heterocyclic compound containing a benzene ring fused to an imidazole ring.
+Maleate salt (molecular entity)|Maleate salt||0|CHEBI:50221|Salts from maleic acid.
+(R)-azelastine (molecular entity)|(R)-azelastine||1|CHEBI:55362|
+(S)-azelastine (molecular entity)|(S)-azelastine||1|CHEBI:55363|
+Platelet aggregation inhibitor (qualifier value)|Platelet aggregation inhibitor||0|CHEBI:50427|A compound which antagonizes or impairs any mechanism leading to blood platelet aggregation.
+Phthalazine derivative (molecular entity)|Phthalazine derivative||0|CHEBI:38768|
+Bepotastine(1+) (molecular entity)|Bepotastine(1+)||0|CHEBI:71202|
+Organosulfonate salt (molecular entity)|Organosulfonate salt||0|CHEBI:64382|Any organic salt prepared using an organosulfonic acid as the acid component.
+Cyclizine hydrochloride (molecular entity)|Cyclizine hydrochloride||0|CHEBI:51045|
+Cyproheptadine (molecular entity)|Cyproheptadine||0|CHEBI:4046|
+Cyproheptadine hydrochloride (molecular entity)|Cyproheptadine hydrochloride||0||
+Desloratadine (molecular entity)|Desloratadine||0|CHEBI:291342|
+Dexbrompheniramine (molecular entity)|Dexbrompheniramine||0|CHEBI:59269|
+Dexbrompheniramine maleate (molecular entity)|Dexbrompheniramine maleate||0|CHEBI:59273|
+Dexchlorpheniramine (molecular entity)|Dexchlorpheniramine||0|CHEBI:4464|
+Dimenhydrinate (molecular entity)|Dimenhydrinate||0|CHEBI:4604|
+Diphenhydramine (molecular entity)|Diphenhydramine||0|CHEBI:4636|
+Diphenhydramine hydrochloride (molecular entity)|Diphenhydramine hydrochloride||0|CHEBI:4637|
+Diphenylpyraline (molecular entity)|Diphenylpyraline||0|CHEBI:59788|
+Doxylamine (molecular entity)|Doxylamine||0|CHEBI:51380|
+Emedastine (molecular entity)|Emedastine||0|CHEBI:4779|
+Emedastine difumarate (molecular entity)|Emedastine difumarate||0|CHEBI:59865|
+Epinastine (molecular entity)|Epinastine||0|CHEBI:51032|
+Epinastine hydrochloride (molecular entity)|Epinastine hydrochloride||0|CHEBI:51037|
+Fexofenadine (molecular entity)|Fexofenadine||0|CHEBI:5050|
+Hydroxyzine (molecular entity)|Hydroxyzine||0|CHEBI:5818|
+Hydroxyzine hydrochloride (molecular entity)|Hydroxyzine hydrochloride||0|CHEBI:5819|
+Hydroxyzine pamoate (molecular entity)|Hydroxyzine pamoate||0|CHEBI:31680|
+Methapyrilene (molecular entity)|Methapyrilene||0|CHEBI:6820|
+Nedocromil (molecular entity)|Nedocromil||0|CHEBI:7492|
+Nedocromil sodium (molecular entity)|Nedocromil sodium||0|CHEBI:7493|
+Pizotifen (molecular entity)|Pizotifen||0|CHEBI:50212|
+Promethazine (molecular entity)|Promethazine||0|CHEBI:8461|
+Promethazine hydrochloride (molecular entity)|Promethazine hydrochloride||0|CHEBI:8462|
+Trimethobenzamide (molecular entity)|Trimethobenzamide||0|CHEBI:27796|
+Triprolidine (molecular entity)|Triprolidine||0|CHEBI:84116|
+Triprolidine hydrochloride (molecular entity)|Triprolidine hydrochloride||0||
+Monochlorobenzene derivative (molecular entity)|Monochlorobenzene derivative||0|CHEBI:83403|Any member of the class of chlorobenzenes containing a mono- or poly-substituted benzene ring in which only one substituent is chlorine.
+Chlorobenzene derivative (qualifier value)|Chlorobenzene derivative||0|CHEBI:23132|Any organochlorine compound containing a benzene ring which is substituted by one or more chlorines.
+Benzene derivative (molecular entity)|Benzene derivative||0|CHEBI:22712|
+Ether derivative (molecular entity)|Ether derivative||0|CHEBI:25698|An organooxygen compound with formula ROR, where R is not hydrogen.
+Muscarinic antagonist (qualifier value)|Muscarinic antagonist||0|CHEBI:48876|A drug that binds to but does not activate muscarinic cholinergic receptors, thereby blocking the actions of endogenous acetylcholine or exogenous agonists.
+Cholinergic antagonist (qualifier value)|Cholinergic antagonist||0|CHEBI:48873|Any drug that binds to but does not activate cholinergic receptors, thereby blocking the actions of acetylcholine or cholinergic agonists.
+Cholinergic (qualifier value)|Cholinergic||0|CHEBI:38323|Any drug used for its actions on cholinergic systems.
+(R)-bromazine (molecular entity)|(R)-bromazine||1|CHEBI:59301|
+(R)-bromazine hydrochloride (molecular entity)|(R)-bromazine hydrochloride||1|CHEBI:59304|
+(S)-bromazine (molecular entity)|(S)-bromazine||1|CHEBI:59302|
+(S)-bromazine hydrochloride (molecular entity)|(S)-bromazine hydrochloride||1|CHEBI:59305|
+Fumarate salt (molecular entity)|Fumarate salt||0|CHEBI:50921|An organic salt derived from fumaric acid.
+Pyrrolidine derivative (molecular entity)|Pyrrolidine derivative||0|CHEBI:38260|Any of a class of heterocyclic amines having a saturated five-membered ring.
+N-alkylpyrrolidine derivative (molecular entity)|N-alkylpyrrolidine derivative||0|CHEBI:46775|
+R-epinastine (molecular entity)|R-epinastine||1|CHEBI:51035|
+S-epinastine (molecular entity)|S-epinastine||1|CHEBI:51036|
+Diphenylpyraline hydrochloride (molecular entity)|Diphenylpyraline hydrochloride||0|CHEBI:31508|
+Promethazine(1+) (molecular entity)|Promethazine(1+)||0|CHEBI:61214|
+Pizotifen maleate (molecular entity)|Pizotifen maleate||0|CHEBI:50214|
+Pizotifen(1+) (molecular entity)|Pizotifen(1+)||0|CHEBI:50214|
+Pizotifen malate (molecular entity)|Pizotifen malate||0|CHEBI:50213|
+Malate salt (molecular entity)|Malate salt||0|CHEBI:50220|
+Serotonergic antagonist (qualifier value)|Serotonergic antagonist||0|CHEBI:48279|Drugs that bind to but do not activate serotonin receptors, thereby blocking the actions of serotonin or serotonergic agonists.
+Piperazine derivative (molecular entity)|Piperazine derivative||0|CHEBI:26144|
+N-alkylpiperazine derivative (qualifier value)|N-alkylpiperazine derivative||1|CHEBI:46845|
+Buclizine(2+) (molecular entity)|Buclizine(2+)||0|CHEBI:61192|
+Benzamide derivative (molecular entity)|Benzamide derivative||0|CHEBI:22702|An aromatic amide that consists of benzene bearing a single carboxamido substituent.
+Triprolidine(1+) (molecular entity)|Triprolidine(1+)||0|CHEBI:84117|
+Benzazepine derivative (molecular entity)|Benzazepine derivative||0|CHEBI:35676|A group of two-ring heterocyclic compounds consisting of a benzene ring fused to an azepine ring.
+Clemizole(1+) (molecular entity)|Clemizole(1+)||0|CHEBI:52146|
+Guanidine derivative (molecular entity)|Guanidine derivative||0|CHEBI:24436|Any organonitrogen compound containing a carbamimidamido (guanidino) group.
+Phenothiazine derivative (molecular entity)|Phenothiazine derivative||0|CHEBI:38093|
+Sodium salt (molecular entity)|Sodium salt||0|CHEBI:26714|Any alkali metal salt having sodium(1+) as the cation.
+Nedocromil(2-) (molecular entity)|Nedocromil(2-)||0|CHEBI:51029|
+Dicarboxylic acid (molecular entity)|Dicarboxylic acid||0|CHEBI:35692|An oxoacid containing two carboxy groups.
+Carboxylic acid anion (molecular entity)|Carboxylic acid anion||0|CHEBI:29067|The conjugate base formed when the carboxy group of a carboxylic acid is deprotonated.
+Azithromycin (molecular entity)|Azithromycin||0|CHEBI:2955|
+Azithromycin dihydrate (molecular entity)|Azithromycin dihydrate||0|CHEBI:34546|
+Clarithromycin (molecular entity)|Clarithromycin||0|CHEBI:3732|
+Dirithromycin (molecular entity)|Dirithromycin||0|CHEBI:474014|
+Erythromycin (molecular entity)|Erythromycin||0|CHEBI:48923|
+Erythromycin estolate (molecular entity)|Erythromycin estolate||0|CHEBI:4846|
+Fidaxomicin (molecular entity)|Fidaxomicin||0|CHEBI:68590|
+Oleandomycin (molecular entity)|Oleandomycin||0|CHEBI:16869|
+Roxithromycin (molecular entity)|Roxithromycin||0|CHEBI:48844|
+Amoxicillin (molecular entity)|Amoxicillin||0|CHEBI:2676|
+Amoxicillin sodium (molecular entity)|Amoxicillin sodium||0|CHEBI:51255|
+Amoxicillin trihydrate (molecular entity)|Amoxicillin trihydrate||0|CHEBI:51254|
+Ampicillin (molecular entity)|Ampicillin||0|CHEBI:28971|
+Ampicillin sodium (molecular entity)|Ampicillin sodium||0|CHEBI:34535|
+Ampicillin trihydrate (molecular entity)|Ampicillin trihydrate||0|CHEBI:31209|
+Antipseudomonal penicillin (molecular entity)|Antipseudomonal penicillin||0||
+Azlocillin (molecular entity)|Azlocillin||0|CHEBI:2956|
+Azlocillin sodium (molecular entity)|Azlocillin sodium||0|CHEBI:51864|
+Aztreonam (molecular entity)|Aztreonam||0|CHEBI:161680|
+Bacampicillin (molecular entity)|Bacampicillin||0|CHEBI:2968|
+Bacampicillin hydrochloride (molecular entity)|Bacampicillin hydrochloride||0|CHEBI:2969|
+Benzylpenicillin (molecular entity)|Benzylpenicillin|Penicillin G|0|CHEBI:18208|
+Broad spectrum penicillin (molecular entity)|Broad spectrum penicillin||0||
+Carbapenem (molecular entity)|Carbapenem||0|CHEBI:46765|
+Carbenicillin (molecular entity)|Carbenicillin||0|CHEBI:3393|
+Carbenicillin disodium (molecular entity)|Carbenicillin disodium||0|CHEBI:34609|
+Carfecillin (molecular entity)|Carfecillin||0|CHEBI:3414|
+Carfecillin sodium (molecular entity)|Carfecillin sodium||0|CHEBI:34612|
+Cefaclor (molecular entity)|Cefaclor||0|CHEBI:3478|
+Cefadroxil (molecular entity)|Cefadroxil||0|CHEBI:3479|
+Cefadroxil monohydrate (molecular entity)|Cefadroxil monohydrate||0|CHEBI:53667|
+Cefamandole (molecular entity)|Cefamandole||0|CHEBI:3480|
+Cefamandole nafate (molecular entity)|Cefamandole nafate||0|CHEBI:3481|
+Cefdinir (molecular entity)|Cefdinir||0|CHEBI:3485|
+Cefditoren pivoxil (molecular entity)|Cefditoren pivoxil||0|CHEBI:560555|
+Cefepime (molecular entity)|Cefepime||0|CHEBI:478164|
+Cefepime hydrochloride (molecular entity)|Cefepime hydrochloride||0|CHEBI:31368|
+Cefixime (molecular entity)|Cefixime||0|CHEBI:472657|
+Cefmetazole (molecular entity)|Cefmetazole||0|CHEBI:3489|
+Cefmetazole sodium (molecular entity)|Cefmetazole sodium||0|CHEBI:3490|
+Cefodizime (molecular entity)|Cefodizime||0|CHEBI:63214|
+Cefonicid (molecular entity)|Cefonicid||0|CHEBI:3491|
+Cefonicid sodium (molecular entity)|Cefonicid sodium||0|CHEBI:3492|
+Cefoperazone (molecular entity)|Cefoperazone||0|CHEBI:3493|
+Ceforanide (molecular entity)|Ceforanide||0|CHEBI:3495|
+Cefotaxime (molecular entity)|Cefotaxime||0|CHEBI:204928|
+Cefotaxime sodium (molecular entity)|Cefotaxime sodium||0|CHEBI:3498|
+Cefotetan (molecular entity)|Cefotetan||0|CHEBI:3499|
+Cefotetan disodium (molecular entity)|Cefotetan disodium||0|CHEBI:34617|
+Cefotiam (molecular entity)|Cefotiam||0|CHEBI:355510|
+Cefoxitin (molecular entity)|Cefoxitin||0|CHEBI:209807|
+Cefpodoxime (molecular entity)|Cefpodoxime||0|CHEBI:3504|
+Cefpodoxime proxetil (molecular entity)|Cefpodoxime proxetil||0|CHEBI:3505|
+Cefprozil (molecular entity)|Cefprozil||0|CHEBI:3506|
+Cefsulodin (molecular entity)|Cefsulodin||0|CHEBI:3507|
+Ceftaroline (molecular entity)|Ceftaroline||0|CHEBI:70729|
+Ceftaroline fosamil (molecular entity)|Ceftaroline fosamil||0|CHEBI:70718|
+Ceftazidime (molecular entity)|Ceftazidime||0|CHEBI:3508|
+Ceftibuten (molecular entity)|Ceftibuten||0|CHEBI:3510|
+Ceftizoxime (molecular entity)|Ceftizoxime||0|CHEBI:553473|
+Ceftizoxime sodium (molecular entity)|Ceftizoxime sodium||0|CHEBI:3512|
+Ceftriaxone (molecular entity)|Ceftriaxone||0|CHEBI:29007|
+Cefuroxime (molecular entity)|Cefuroxime||0|CHEBI:3515|
+Cephalexin (molecular entity)|Cephalexin||0|CHEBI:3534|
+Cephalexin monohydrate (molecular entity)|Cephalexin monohydrate||0|CHEBI:3535|
+Cephaloglycin (molecular entity)|Cephaloglycin||0|CHEBI:34613|
+Cephaloridine (molecular entity)|Cephaloridine||0|CHEBI:3537|
+Cephalosporin (molecular entity)|Cephalosporin||0|CHEBI:23066|
+Cephalothin (molecular entity)|Cephalothin||0|CHEBI:124991|
+Cephalothin sodium (molecular entity)|Cephalothin sodium||0|CHEBI:3542|
+Cephamycin (molecular entity)|Cephamycin||0|CHEBI:55429|
+Cephapirin (molecular entity)|Cephapirin||0|CHEBI:554446|
+Cephapirin sodium (molecular entity)|Cephapirin sodium||0|CHEBI:3545|
+Cefazolin (molecular entity)|Cefazolin||0|CHEBI:474053|
+Cefazolin sodium (molecular entity)|Cefazolin sodium||0|CHEBI:3483|
+Cephradine (molecular entity)|Cephradine||0|CHEBI:3547|
+Clavulanic acid (molecular entity)|Clavulanic acid||0|CHEBI:48947|
+Cloxacillin (molecular entity)|Cloxacillin||0|CHEBI:49566|
+Cloxacillin benzathine (molecular entity)|Cloxacillin benzathine||0|CHEBI:51351|
+Cloxacillin sodium (molecular entity)|Cloxacillin sodium||0|CHEBI:51357|
+Cyclacillin (molecular entity)|Cyclacillin||0|CHEBI:31444|
+Dicloxacillin (molecular entity)|Dicloxacillin||0|CHEBI:4511|
+Dicloxacillin sodium (molecular entity)|Dicloxacillin sodium||0|CHEBI:34691|
+Epicillin (molecular entity)|Epicillin||0|CHEBI:58974|
+Ertapenem (molecular entity)|Ertapenem||0|CHEBI:404903|
+Ertapenem sodium (molecular entity)|Ertapenem sodium||0|CHEBI:60070|
+Extended spectrum penicillin (molecular entity)|Extended spectrum penicillin||0||
+First generation cephalosporin (molecular entity)|First generation cephalosporin||0||
+Flucloxacillin sodium (molecular entity)|Flucloxacillin sodium|Floxacillin sodium|0|CHEBI:52040|
+Fourth generation cephalosporin (molecular entity)|Fourth generation cephalosporin||0||
+Hetacillin (molecular entity)|Hetacillin||0|CHEBI:5683|
+Imipenem (molecular entity)|Imipenem||0|CHEBI:471744|
+Loracarbef (molecular entity)|Loracarbef||0|CHEBI:47544|
+Meropenem (molecular entity)|Meropenem||0|CHEBI:43968|
+Methicillin (molecular entity)|Methicillin||0|CHEBI:6827|
+Methicillin sodium (molecular entity)|Methicillin sodium||0|CHEBI:52065|
+Mezlocillin (molecular entity)|Mezlocillin||0|CHEBI:6919|
+Mezlocillin sodium (molecular entity)|Mezlocillin sodium||0|CHEBI:52067|
+Monobactam (molecular entity)|Monobactam||0|CHEBI:50695|
+Moxalactam (molecular entity)|Moxalactam||0|CHEBI:599928|
+Nafcillin (molecular entity)|Nafcillin||0|CHEBI:7447|
+Nafcillin sodium (molecular entity)|Nafcillin sodium||0|CHEBI:7448|
+Natural penicillin (molecular entity)|Natural penicillin||0||
+Oxacillin (molecular entity)|Oxacillin||0|CHEBI:7809|
+Oxacillin sodium (molecular entity)|Oxacillin sodium||0|CHEBI:52134|
+Penicillin (molecular entity)|Penicillin||0|CHEBI:17334|Any member of the group of substituted penams containing two methyl substituents at position 2, a carboxylate substituent at position 3 and a carboxamido group at position 6.
+Benzylpenicillin benzathine (molecular entity)|Benzylpenicillin benzathine|Penicillin G benzathine|0|CHEBI:51352|
+Benzylpenicillin potassium (molecular entity)|Benzylpenicillin potassium|Penicillin G potassium|0|CHEBI:7963|
+Benzylpenicillin sodium (molecular entity)|Benzylpenicillin sodium|Penicillin G sodium|0|CHEBI:51765|
+Phenoxymethylpenicillin (molecular entity)|Phenoxymethylpenicillin|Penicillin V|0|CHEBI:27446|
+Phenoxymethylpenicillin potassium (molecular entity)|Phenoxymethylpenicillin potassium|Penicillin V potassium|0|CHEBI:7967|
+Penicillinase sensitive penicillin (molecular entity)|Penicillinase sensitive penicillin||0||
+Penicillinase-resistant penicillin (molecular entity)|Penicillinase-resistant penicillin||0||
+Phenethicillin (molecular entity)|Phenethicillin||0|CHEBI:52427|
+Piperacillin (molecular entity)|Piperacillin||0|CHEBI:8232|
+Piperacillin sodium (molecular entity)|Piperacillin sodium||0|CHEBI:8233|
+Pivampicillin (molecular entity)|Pivampicillin||0|CHEBI:51210|
+Pivmecillinam hydrochloride (molecular entity)|Pivmecillinam hydrochloride||0|CHEBI:51213|
+Second generation cephalosporin (molecular entity)|Second generation cephalosporin||0||
+Talampicillin (molecular entity)|Talampicillin||0|CHEBI:9391|
+Talampicillin hydrochloride (molecular entity)|Talampicillin hydrochloride||0|CHEBI:34993|
+Temocillin (molecular entity)|Temocillin||0|CHEBI:51817|
+Temocillin sodium (molecular entity)|Temocillin sodium||0|CHEBI:52434|
+Third generation cephalosporin (molecular entity)|Third generation cephalosporin||0||
+Ticarcillin (molecular entity)|Ticarcillin||0|CHEBI:9587|
+Ticarcillin disodium (molecular entity)|Ticarcillin disodium||0|CHEBI:35017|
+Ticarcillin(2-) (molecular entity)|Ticarcillin(2-)||0|CHEBI:51811|
+Temocillin(2-) (molecular entity)|Temocillin(2-)||0|CHEBI:52438|
+Piperacillin(1-) (molecular entity)|Piperacillin(1-)||0|CHEBI:52433|
+Amoxicillin(1-) (molecular entity)|Amoxicillin(1-)||0|CHEBI:51256|
+Ampicillin(1-) (molecular entity)|Ampicillin(1-)||0|CHEBI:50658|
+Azlocillin(1-) (molecular entity)|Azlocillin(1-)||0|CHEBI:51863|
+Benzylpenicillin(1-) (molecular entity)|Benzylpenicillin(1-)||0|CHEBI:51354|
+Carbenicillin(2-) (molecular entity)|Carbenicillin(2-)||0|CHEBI:51897|
+Carfecillin(1-) (molecular entity)|Carfecillin(1-)||0|CHEBI:51906|
+Cefazolin(1-) (molecular entity)|Cefazolin(1-)||0|CHEBI:53657|
+Cefepime(1+) (molecular entity)|Cefepime(1+)||0|CHEBI:59349|
+Cefmetazole(1-) (molecular entity)|Cefmetazole(1-)||0|CHEBI:52439|
+Cefonicid(2-) (molecular entity)|Cefonicid(2-)||0|CHEBI:52441|
+Cefotetan(2-) (molecular entity)|Cefotetan(2-)||0|CHEBI:59358|
+Ceftizoxime(1-) (molecular entity)|Ceftizoxime(1-)||0|CHEBI:55498|
+Cephapirin(1-) (molecular entity)|Cephapirin(1-)||0|CHEBI:59217|
+Cloxacillin(1-) (molecular entity)|Cloxacillin(1-)||0|CHEBI:51350|
+Dicloxacillin(1-) (molecular entity)|Dicloxacillin(1-)||0|CHEBI:52017|
+Ertapenem(1-) (molecular entity)|Ertapenem(1-)||0|CHEBI:60071|
+Methicillin(1-) (molecular entity)|Methicillin(1-)||0|CHEBI:52064|
+Mezlocillin(1-) (molecular entity)|Mezlocillin(1-)||0|CHEBI:52066|
+Nafcillin(1-) (molecular entity)|Nafcillin(1-)||0|CHEBI:51918|
+Oxacillin(1-) (molecular entity)|Oxacillin(1-)||0|CHEBI:52132|
+Phenoxymethylpenicillin(1-) (molecular entity)|Phenoxymethylpenicillin(1-)||0|CHEBI:51355|
+Cefotaxime(1-) (molecular entity)|Cefotaxime(1-)||0|CHEBI:53670|
+Lactam (molecular entity)|Lactam||0|CHEBI:24995|
+Beta-lactam (molecular entity)|Beta-lactam||0|CHEBI:35627|
+Thiophene (molecular entity)|Thiophene||0|CHEBI:26961|Compounds containing at least one thiophene ring.
+Thiadiazole derivative (molecular entity)|Thiadiazole derivative||0|CHEBI:38099|
+(E)-roxithromycin (molecular entity)|(E)-roxithromycin||1|CHEBI:48935|
+(Z)-roxithromycin (molecular entity)|(Z)-roxithromycin||1|CHEBI:32109|
+Pyrrolidinecarboxamide (molecular entity)|Pyrrolidinecarboxamide||0|CHEBI:46770|
+Macrolide (molecular entity)|Macrolide||0|CHEBI:25106|
+Hydrate (molecular entity)|Hydrate||0|CHEBI:35505|
+Cephem (molecular entity)|Cephem||0|CHEBI:38311|
+Penam (molecular entity)|Penam||0|CHEBI:35992|Natural and synthetic antibiotics containing the 4-thia-1-azabicyclo[3.2.0]heptan-7-one structure.
+Azole (molecular entity)|Azole||0|CHEBI:68452|Any monocyclic heteroarene consisting of a five-membered ring containing nitrogen.
+Thiazole (molecular entity)|Thiazole||0|CHEBI:48901|
+Carboxylic ester (molecular entity)|Carboxylic ester||0|CHEBI:33308|An ester of a carboxylic acid.
+Phenethicillin(1-) (molecular entity)|Phenethicillin(1-)||0|CHEBI:52428|
+Oleandomycin(1+) (molecular entity)|Oleandomycin(1+)||0|CHEBI:57933|
+Potassium salt (molecular entity)|Potassium salt||0|CHEBI:50394|
+Cefditoren (molecular entity)|Cefditoren||0|CHEBI:59343|
+Mecillinam (molecular entity)|Mecillinam||0|CHEBI:51208|
+Triazine derivative (molecular entity)|Triazine derivative||0|CHEBI:38102|
+Benzathine salt (molecular entity)|Benzathine salt||0|CHEBI:51347|
+Ester (molecular entity)|Ester||0|CHEBI:35701|
+Nadifloxacin (molecular entity)|Nadifloxacin||0|CHEBI:31889|
+Moxifloxacin (molecular entity)|Moxifloxacin||0|CHEBI:63611|
+Gemifloxacin (molecular entity)|Gemifloxacin||0|CHEBI:101853|
+Temafloxacin (molecular entity)|Temafloxacin||0|CHEBI:77788|
+Sparfloxacin (molecular entity)|Sparfloxacin||0|CHEBI:9212|
+Lomefloxacin (molecular entity)|Lomefloxacin||0|CHEBI:116278|
+Levofloxacin (molecular entity)|Levofloxacin||0|CHEBI:63598|
+Ofloxacin (molecular entity)|Ofloxacin||0|CHEBI:7731|
+Norfloxacin (molecular entity)|Norfloxacin||0|CHEBI:100246|
+Ciprofloxacin (molecular entity)|Ciprofloxacin||0|CHEBI:100241|
+Trovafloxacin (molecular entity)|Trovafloxacin||0|CHEBI:9763|
+Pefloxacin (molecular entity)|Pefloxacin||0|CHEBI:50199|
+Enrofloxacin (molecular entity)|Enrofloxacin||0|CHEBI:35720|
+Gatifloxacin (molecular entity)|Gatifloxacin||0|CHEBI:5280|
+Moxifloxacin hydrochloride (molecular entity)|Moxifloxacin hydrochloride||0|CHEBI:7008|
+Gemifloxacin mesylate (molecular entity)|Gemifloxacin mesylate||0|CHEBI:53749|
+Lomefloxacin hydrochloride (molecular entity)|Lomefloxacin hydrochloride||0|v|
+Ciprofloxacin dihydrochloride (molecular entity)|Ciprofloxacin dihydrochloride||0|CHEBI:59938|
+Trovafloxacin mesylate (molecular entity)|Trovafloxacin mesylate||0|CHEBI:77568|
+Flucloxacillin (molecular entity)|Flucloxacillin|Floxacillin|0|CHEBI:5098|
+Butirosin (molecular entity)|Butirosin||0|CHEBI:65109|
+Chloramphenicol (molecular entity)|Chloramphenicol||0|CHEBI:17698|
+Cinoxacin (molecular entity)|Cinoxacin||0|CHEBI:3716|
+Clindamycin (molecular entity)|Clindamycin||0|CHEBI:3745|
+Clofazimine (molecular entity)|Clofazimine||0|CHEBI:3749|
+Clomocycline (molecular entity)|Clomocycline||0|CHEBI:59589|
+Colistimethate (molecular entity)|Colistimethate||0|CHEBI:59662|
+Colistimethate sodium (molecular entity)|Colistimethate sodium||0|CHEBI:34650|
+Colistin (molecular entity)|Colistin||0|CHEBI:37943|
+Daptomycin (molecular entity)|Daptomycin||0|CHEBI:600103|
+Demeclocycline (molecular entity)|Demeclocycline||0|CHEBI:4392|
+Demeclocycline hydrochloride (molecular entity)|Demeclocycline hydrochloride||0|CHEBI:59725|
+Doxycycline (molecular entity)|Doxycycline||0|CHEBI:50845|
+Doxycycline hyclate (molecular entity)|Doxycycline hyclate||0|CHEBI:34730|
+Doxycycline monohydrate (molecular entity)|Doxycycline monohydrate||0|CHEBI:60648|
+Enoxacin (molecular entity)|Enoxacin||0|CHEBI:157175|
+Ethambutol (molecular entity)|Ethambutol||0|CHEBI:4877|
+Ethambutol dihydrochloride (molecular entity)|Ethambutol dihydrochloride||0|CHEBI:4878|
+Ethionamide (molecular entity)|Ethionamide||0|CHEBI:4885|
+Fosfomycin (molecular entity)|Fosfomycin||0|CHEBI:28915|
+Fumagillin (molecular entity)|Fumagillin||0|CHEBI:48635|
+Furazolidone (molecular entity)|Furazolidone||0|CHEBI:5195|
+Fusidic acid (molecular entity)|Fusidic acid||0|CHEBI:29013|
+Lincomycin (molecular entity)|Lincomycin||0|CHEBI:6472|
+Linezolid (molecular entity)|Linezolid||0|CHEBI:63607|
+Lymecycline (molecular entity)|Lymecycline||0|CHEBI:59040|
+Mandelic acid (molecular entity)|Mandelic acid||0|CHEBI:35825|
+Metronidazole (molecular entity)|Metronidazole||0|CHEBI:6909|
+Methacycline (molecular entity)|Methacycline||0|CHEBI:6805|
+Metronidazole benzoate (molecular entity)|Metronidazole benzoate||0|CHEBI:50688|
+Metronidazole hydrochloride (molecular entity)|Metronidazole hydrochloride||0|CHEBI:50687|
+Minocycline (molecular entity)|Minocycline||0|CHEBI:50694|
+Minocycline hydrochloride (molecular entity)|Minocycline hydrochloride||0|CHEBI:50697|
+Mupirocin (molecular entity)|Mupirocin||0|CHEBI:7025|
+Nalidixic acid (molecular entity)|Nalidixic acid||0|CHEBI:100147|
+Neamine (molecular entity)|Neamine||0|CHEBI:7489|
+Nitrofurantoin (molecular entity)|Nitrofurantoin||0|CHEBI:71415|
+Novobiocin (molecular entity)|Novobiocin||0|CHEBI:28368|
+Ornidazole (molecular entity)|Ornidazole||0|CHEBI:75176|
+Oxazolidinone (molecular entity)|Oxazolidinone||0|CHEBI:55374|
+Oxytetracycline (molecular entity)|Oxytetracycline||0|CHEBI:27701|
+Pipemidic acid (molecular entity)|Pipemidic acid||0|CHEBI:75250|
+Polymyxin (molecular entity)|Polymyxin||0|CHEBI:59062|Compound with a general structure consisting of a cyclic peptide with a long hydrophobic tail.
+Pyrazinamide (molecular entity)|Pyrazinamide||0|CHEBI:45285|
+Quinolone (molecular entity)|Quinolone||0|CHEBI:23765|
+Rifabutin (molecular entity)|Rifabutin||0|CHEBI:45367|
+Rifampicin (molecular entity)|Rifampicin||0|CHEBI:28077|
+Rifamycin (molecular entity)|Rifamycin||0|CHEBI:26580|
+Rifapentine (molecular entity)|Rifapentine||0|CHEBI:45304|
+Rifaximin (molecular entity)|Rifaximin||0|CHEBI:75246|
+Rolitetracycline (molecular entity)|Rolitetracycline||0|CHEBI:63334|
+Silver sulfadiazine (molecular entity)|Silver sulfadiazine||0|CHEBI:9142|
+Sisomicin (molecular entity)|Sisomicin||0|CHEBI:9169|
+Sulfacetamide (molecular entity)|Sulfacetamide||0|CHEBI:63845|
+Sulfacetamide sodium (molecular entity)|Sulfacetamide sodium||0|CHEBI:63858|
+Sulfachlorpyridazine (molecular entity)|Sulfachlorpyridazine||0|CHEBI:59057|
+Sulfadiazine (molecular entity)|Sulfadiazine||0|CHEBI:9328|
+Sulfadimethoxine (molecular entity)|Sulfadimethoxine||0|CHEBI:32161|
+Sulfadoxine (molecular entity)|Sulfadoxine||0|CHEBI:9329|
+Sulfamerazine (molecular entity)|Sulfamerazine||0|CHEBI:102130|
+Sulfamethoxydiazine (molecular entity)|Sulfamethoxydiazine||0|CHEBI:53727|
+Sulfamethazine (molecular entity)|Sulfamethazine||0|CHEBI:102265|
+Sulfamethizole (molecular entity)|Sulfamethizole||0|CHEBI:9331|
+Sulfamethoxazole (molecular entity)|Sulfamethoxazole||0|CHEBI:9332|
+Sulfamethoxypyridazine (molecular entity)|Sulfamethoxypyridazine||0|CHEBI:102516|
+Sulfamoxole (molecular entity)|Sulfamoxole||0|CHEBI:55548|
+Sulfanilamide (molecular entity)|Sulfanilamide||0|CHEBI:45373|
+Sulfaphenazole (molecular entity)|Sulfaphenazole||0|CHEBI:77780|
+Sulfapyridine (molecular entity)|Sulfapyridine||0|CHEBI:132842|
+Sulfasalazine (molecular entity)|Sulfasalazine||0|CHEBI:9334|
+Sulfathiazole (molecular entity)|Sulfathiazole||0|CHEBI:9337|
+Sulfisomidine (molecular entity)|Sulfisomidine||0|CHEBI:32166|
+Sulfisoxazole (molecular entity)|Sulfisoxazole||0|CHEBI:102484|
+Sulfonamide (molecular entity)|Sulfonamide||0|CHEBI:35358|An amide of a sulfonic acid.
+Tedizolid (molecular entity)|Tedizolid||0|CHEBI:82717|
+Tetracycline (molecular entity)|Tetracycline||0|CHEBI:27902|
+Tetracycline derivative (molecular entity)|Tetracycline derivative||0|CHEBI:26895|A subclass of polyketides having an octahydrotetracene-2-carboxamide skeleton, substituted with many hydroxy and other groups.
+Thiamphenicol (molecular entity)|Thiamphenicol||0|CHEBI:32215|
+Thiostrepton (molecular entity)|Thiostrepton||0|CHEBI:29693|
+Tigecycline (molecular entity)|Tigecycline||0|CHEBI:149836|
+Tinidazole (molecular entity)|Tinidazole||0|CHEBI:63627|
+Tylosin (molecular entity)|Tylosin||0|CHEBI:17658|
+Viomycin (molecular entity)|Viomycin||0|CHEBI:15782|
+Vancomycin(1+) (molecular entity)|Vancomycin(1+)||0|CHEBI:76842|
+Viomycin(3+) (molecular entity)|Viomycin(3+)||0|CHEBI:60081|
+Trovafloxacin(1+) (molecular entity)|Trovafloxacin(1+)||0|CHEBI:77569|
+Topoisomerase IV inhibitor (qualifier value)|Topoisomerase IV inhibitor||0|CHEBI:53559|A topoisomerase inhibitor that inhibits DNA topoisomerase IV.
+DNA synthesis inhibitor (qualifier value)|DNA synthesis inhibitor||0|CHEBI:59517|
+Methanesulfonate salt (molecular entity)|Methanesulfonate salt||0|CHEBI:38037|
+Imidazole (molecular entity)|Imidazole||0|CHEBI:24780|
+Metronidazole(1+) (molecular entity)|Metronidazole(1+)||0|CHEBI:64682|
+Cyclic peptide (molecular entity)|Cyclic peptide||0|CHEBI:23449|
+Peptide (molecular entity)|Peptide||0|CHEBI:16670|
+Tylosin(1+) (molecular entity)|Tylosin(1+)||0|CHEBI:77047|
+Tetracycline(1-) (molecular entity)|Tetracycline(1-)||0|CHEBI:71392|
+Cefadroxil(1-) (molecular entity)|Cefadroxil(1-)||0|CHEBI:53669|
+Cephalothin(1-) (molecular entity)|Cephalothin(1-)||0|CHEBI:50897|
+Cefoxitin(1-) (molecular entity)|Cefoxitin(1-)||0|CHEBI:53655|
+Ceftazidime(1-) (molecular entity)|Ceftazidime(1-)||0|CHEBI:53676|
+Ceftriaxone(1-) (molecular entity)|Ceftriaxone(1-)||0|CHEBI:53658|
+Cephalexin(1-) (molecular entity)|Cephalexin(1-)||0|CHEBI:59392|
+Cefamandole(1-) (molecular entity)|Cefamandole(1-)||0|CHEBI:53652|
+Clavulanate (molecular entity)|Clavulanate||0|CHEBI:487869|
+Colistimethate(5-) (molecular entity)|Colistimethate(5-)||0|CHEBI:59661|
+Dicarboxylic acid anion (molecular entity)|Dicarboxylic acid anion||0|CHEBI:35693|
+Flucloxacillin(1-) (molecular entity)|Flucloxacillin(1-)||0|CHEBI:52037|
+Fusidate (molecular entity)|Fusidate||0|CHEBI:71321|
+Hetacillin(1-) (molecular entity)|Hetacillin(1-)||0|CHEBI:52059|
+Mandelate (molecular entity)|Mandelate||0|CHEBI:25147|
+Minocycline(1-) (molecular entity)|Minocycline(1-)||0|CHEBI:71337|
+Monocarboxylic acid anion (molecular entity)|Monocarboxylic acid anion||0|CHEBI:35757|
+Moxifloxacinium(1+) (molecular entity)|Moxifloxacinium(1+)||0|CHEBI:63699|
+Nalidixic acid anion (molecular entity)|Nalidixic acid anion||0|CHEBI:62070|
+Neamine(4+) (molecular entity)|Neamine(4+)||0|CHEBI:65076|
+Neomycin C(6+) (molecular entity)|Neomycin C(6+)||0|CHEBI:65077|
+Novobiocin(1-) (molecular entity)|Novobiocin(1-)||0|CHEBI:71339|
+Sulfacetamide(1-) (molecular entity)|Sulfacetamide(1-)||0|CHEBI:63857|
+Sulfadiazinate (molecular entity)|Sulfadiazinate||0|CHEBI:33127|
+Penicillinate anion (molecular entity)|Penicillinate anion||0|CHEBI:51356|
+Cephalosporin carboxylic acid anion (molecular entity)|Cephalosporin carboxylic acid anion||0|CHEBI:52440|
+Oxazolidine derivative (molecular entity)|Oxazolidine derivative||0|CHEBI:38329|
+Deoxyribonucleic acid topoisomerase (adenosine triphosphate-hydrolysing) inhibitor (qualifier value)|Deoxyribonucleic acid topoisomerase (adenosine triphosphate-hydrolysing) inhibitor||0|CHEBI:50750|
+Sotalol(1+) (molecular entity)|Sotalol(1+)||0|CHEBI:63647|
+Telavancin hydrochloride (molecular entity)|Telavancin hydrochloride||0|CHEBI:71226|
+Cefotiam dihydrochloride (molecular entity)|Cefotiam dihydrochloride||0|CHEBI:31374|
+Ceftazidime sodium (molecular entity)|Ceftazidime sodium||0|CHEBI:53675|
+(R)-timolol (molecular entity)|(R)-timolol||1|CHEBI:39466|
+Alogliptin(1+) (molecular entity)|Alogliptin(1+)||0|CHEBI:72326|
+Acebutolol(1+) (molecular entity)|Acebutolol(1+)||0|CHEBI:62101|
+(S)-timolol hemihydrate (molecular entity)|(S)-timolol hemihydrate||1|CHEBI:60787|
+(S)-timolol (anhydrous) (molecular entity)|(S)-timolol (anhydrous)||1|CHEBI:9599|
+(S)-timolol maleate (molecular entity)|(S)-timolol maleate||1|CHEBI:9600|
+Rosuvastatin(1-) (molecular entity)|Rosuvastatin(1-)||0|CHEBI:77313|
+Pravastatin(1-) (molecular entity)|Pravastatin(1-)||0|CHEBI:63660|
+Pitavastatin(1-) (molecular entity)|Pitavastatin(1-)||0|CHEBI:71260|
+Levobunolol(1+) (molecular entity)|Levobunolol(1+)||0|CHEBI:72567|
+Atorvastatin(1-) (molecular entity)|Atorvastatin(1-)||0|CHEBI:50690|
+Carteolol(1+) (molecular entity)|Carteolol(1+)||0|CHEBI:61202|
+Biguanide (molecular entity)|Biguanide||0|CHEBI:3095|
+(S)-betaxolol hydrochloride (molecular entity)|(S)-betaxolol hydrochloride||1|CHEBI:59256|
+(R)-betaxolol hydrochloride (molecular entity)|(R)-betaxolol hydrochloride||1|CHEBI:59255|
+(R)-betaxolol (molecular entity)|(R)-betaxolol||1|CHEBI:59251|
+Cerivastatin(1-) (molecular entity)|Cerivastatin(1-)||0|CHEBI:406059|
+Alprenolol hydrochloride (molecular entity)|Alprenolol hydrochloride||0|CHEBI:31191|
+Acebutolol (molecular entity)|Acebutolol||0|CHEBI:2379|
+Acebutolol hydrochloride (molecular entity)|Acebutolol hydrochloride||0|CHEBI:2380|
+Acetohexamide (molecular entity)|Acetohexamide||0|CHEBI:28052|
+Alogliptin (molecular entity)|Alogliptin||0|CHEBI:72323|
+Alogliptin benzoate (molecular entity)|Alogliptin benzoate||0|CHEBI:72324|
+Alprenolol (molecular entity)|Alprenolol||0|CHEBI:51211|
+Atenolol (molecular entity)|Atenolol||0|CHEBI:2904|
+Atorvastatin (molecular entity)|Atorvastatin||0|CHEBI:39548|
+Atorvastatin calcium (molecular entity)|Atorvastatin calcium||0|CHEBI:50686|
+Beta 1 adrenergic antagonist (qualifier value)|Beta 1 adrenergic antagonist||0||
+Beta 2 adrenergic antagonist (qualifier value)|Beta 2 adrenergic antagonist||0||
+Betaxolol (molecular entity)|Betaxolol||1|CHEBI:3082|
+Betaxolol hydrochloride (molecular entity)|Betaxolol hydrochloride||0|CHEBI:643228|
+Bisoprolol (molecular entity)|Bisoprolol||0|CHEBI:3127|
+Bisoprolol fumarate (molecular entity)|Bisoprolol fumarate||0|CHEBI:3128|
+Carteolol (molecular entity)|Carteolol||0|CHEBI:3437|
+Carteolol hydrochloride (molecular entity)|Carteolol hydrochloride||0|CHEBI:3438|
+Carvedilol (molecular entity)|Carvedilol||0|CHEBI:3441|
+Cerivastatin (molecular entity)|Cerivastatin||0|CHEBI:3558|
+Cerivastatin sodium (molecular entity)|Cerivastatin sodium||0|CHEBI:3559|
+Chlorpropamide (molecular entity)|Chlorpropamide||0|CHEBI:3650|
+Esmolol (molecular entity)|Esmolol||0|CHEBI:4856|
+Esmolol hydrochloride (molecular entity)|Esmolol hydrochloride||0|CHEBI:4857|
+Fluvastatin sodium (molecular entity)|Fluvastatin sodium||0|CHEBI:5137|
+Gliclazide (molecular entity)|Gliclazide||0|CHEBI:31654|
+Glimepiride (molecular entity)|Glimepiride||0|CHEBI:5383|
+Glipizide (molecular entity)|Glipizide||0|CHEBI:5384|
+Glyburide (molecular entity)|Glyburide||0|CHEBI:5441|
+Labetalol (molecular entity)|Labetalol||0|CHEBI:6343|
+(S)-betaxolol (molecular entity)|(S)-betaxolol||1|CHEBI:59254|
+Levobunolol (molecular entity)|Levobunolol||0|CHEBI:6438|
+Levobunolol hydrochloride (molecular entity)|Levobunolol hydrochloride||0|CHEBI:6439|
+Linagliptin (molecular entity)|Linagliptin||0|CHEBI:68610|
+Lovastatin (molecular entity)|Lovastatin||0|CHEBI:40303|
+Metformin (molecular entity)|Metformin||0|CHEBI:6801|
+Metipranolol (molecular entity)|Metipranolol||0|CHEBI:6897|
+Metipranolol hydrochloride (molecular entity)|Metipranolol hydrochloride||0|CHEBI:34845|
+Metoprolol (molecular entity)|Metoprolol||0|CHEBI:6904|
+Nonselective beta adrenergic antagonist (qualifier value)|Nonselective beta adrenergic antagonist||0||
+Pindolol (molecular entity)|Pindolol||0|CHEBI:8214|
+Pitavastatin (molecular entity)|Pitavastatin||0|CHEBI:32020|
+Pitavastatin calcium (molecular entity)|Pitavastatin calcium||0|CHEBI:71258|
+Practolol (molecular entity)|Practolol||0|CHEBI:258351|
+Pravastatin (molecular entity)|Pravastatin||0|CHEBI:63618|
+Pravastatin sodium (molecular entity)|Pravastatin sodium||0|CHEBI:8361|
+Propranolol (molecular entity)|Propranolol||0|CHEBI:8499|
+Propranolol hydrochloride (molecular entity)|Propranolol hydrochloride||0|CHEBI:8500|
+Rosuvastatin (molecular entity)|Rosuvastatin||0|CHEBI:38545|
+Rosuvastatin calcium (molecular entity)|Rosuvastatin calcium||0|CHEBI:77249|
+Saxagliptin (molecular entity)|Saxagliptin||0|CHEBI:71272|
+Simvastatin (molecular entity)|Simvastatin||0|CHEBI:9150|
+Sitagliptin (molecular entity)|Sitagliptin||0|CHEBI:40237|
+Sotalol (molecular entity)|Sotalol||0|CHEBI:63622|
+Sotalol hydrochloride (molecular entity)|Sotalol hydrochloride||0|CHEBI:9207|
+N-sulfonylurea (molecular entity)|N-sulfonylurea||0|CHEBI:76983|A urea in which one of the hydrogens attached to a nitrogen of the urea group is replaced by a sulfonyl group.
+Timolol (molecular entity)|Timolol||0|CHEBI:39465|
+Tolazamide (molecular entity)|Tolazamide||0|CHEBI:9613|
+Tolbutamide (molecular entity)|Tolbutamide||0|CHEBI:27999|
+Beta adrenergic antagonist (qualifier value)|Beta adrenergic antagonist||0|CHEBI:35530|
+Dipeptidyl peptidase IV inhibitor (qualifier value)|Dipeptidyl peptidase IV inhibitor||0|CHEBI:68612|A dipeptidyl- and tripeptidyl-peptidase inhibitor that specifically inhibits dipeptidyl peptidase-4.
+Hydroxymethylglutaryl-CoA reductase inhibitor (qualifier value)|HMG-CoA reductase inhibitor|Hydroxymethylglutaryl-CoA reductase inhibitor|1|CHEBI:35664|
+Nitrile (molecular entity)|Nitrile||0|CHEBI:18379|
+Benzoate salt (molecular entity)|Benzoate salt||0|CHEBI:72325|
+Aadamantane derivative (molecular entity)|Aadamantane derivative||0|CHEBI:51339|Compounds containing an adamantane skeleton.
+Alcohol (molecular entity)|Alcohol||0|CHEBI:30879|A compound in which a hydroxy group is attached to a saturated carbon atom.
+Alpha-glucoside inhibitor (qualifier value)|Alpha-glucoside inhibitor||0|CHEBI:67239|
+Azabicycloalkane (molecular entity)|Azabicycloalkane||0|CHEBI:38295|
+Monocarboxylic acid amide (molecular entity)|Monocarboxylic acid amide||0|CHEBI:29347|A carboxamide derived from a monocarboxylic acid.
+Pyrimidine derivative (molecular entity)|Pyrimidine derivative||0|CHEBI:39447|Any compound having a pyrimidine as part of its structure.
+Quinazoline (molecular entity)|Quinazoline||0|CHEBI:38530|Any organic heterobicyclic compound based on a quinazoline skeleton and its substituted derivatives.
+Calcium salt (molecular entity)|Calcium salt||0|CHEBI:51031|
+Cyanide derivative (molecular entity)|Cyanide derivative||0|CHEBI:23424|
+Amide (molecular entity)|Amide||0|CHEBI:32988|
+Adrenergic antagonist (qualifier value)|Adrenergic antagonist||0|CHEBI:37887|
+Adrenergic (qualifier value)|Adrenergic||0|CHEBI:37962|
+Ethylenediamine derivative (molecular entity)|Ethylenediamine derivative||0|CHEBI:4877|Any organic amino compound that is a derivative of ethylenediamine.
+(2R,4S)-terconazole (molecular entity)|(2R,4S)-terconazole||1|CHEBI:82980|
+(2S,4R)-terconazole (molecular entity)|(2S,4R)-terconazole||1|CHEBI:82981|
+(R)-bambuterol (molecular entity)|(R)-bambuterol||1|CHEBI:59179|
+(R)-bambuterol hydrochloride (molecular entity)|(R)-bambuterol hydrochloride||1|CHEBI:59182|
+(R)-bifonazole (molecular entity)|(R)-bifonazole||1|CHEBI:78693|
+(R)-clenbuterol (molecular entity)|(R)-clenbuterol||1|CHEBI:59567|
+(R)-eberconazole (molecular entity)|(R)-eberconazole||1|CHEBI:83587|
+(R)-eberconazole(1+) (molecular entity)|(R)-eberconazole(1+)||1|CHEBI:83597|
+(R)-econazole (molecular entity)|(R)-econazole||1|CHEBI:82877|
+(R)-econazole nitrate (molecular entity)|(R)-econazole nitrate||1|CHEBI:82870|
+(R)-fenticonazole (molecular entity)|(R)-fenticonazole||1|CHEBI:83604|
+(R)-fenticonazole nitrate (molecular entity)|(R)-fenticonazole nitrate||1|CHEBI:83608|
+(R)-fenticonazole(1+) (molecular entity)|(R)-fenticonazole(1+)||1|CHEBI:83611|
+(R)-isoconazole (molecular entity)|(R)-isoconazole||1|CHEBI:83666|
+(R)-miconazole (molecular entity)|(R)-miconazole||1|CHEBI:82894|
+(R)-miconazole nitrate (molecular entity)|(R)-miconazole nitrate||1|CHEBI:82886|
+(R)-nisoldipine (molecular entity)|(R)-nisoldipine||1|CHEBI:76918|
+(R)-omeprazole (molecular entity)|(R)-omeprazole||1|CHEBI:77262|
+(R)-salmeterol (molecular entity)|(R)-salmeterol||1|CHEBI:64062|
+(R)-sulconazole (molecular entity)|(R)-sulconazole||1|CHEBI:77777|
+(R)-tioconazole (molecular entity)|(R)-tioconazole||1|CHEBI:77905|
+(S)-bambuterol (molecular entity)|(S)-bambuterol||1|CHEBI:59180|
+(S)-bambuterol hydrochloride (molecular entity)|(S)-bambuterol hydrochloride||1|CHEBI:59183|
+(S)-clenbuterol (molecular entity)|(S)-clenbuterol||1|CHEBI:59568|
+(S)-eberconazole (molecular entity)|(S)-eberconazole||1|CHEBI:83588|
+(S)-eberconazole(1+) (molecular entity)|(S)-eberconazole(1+)||1|CHEBI:83596|
+(S)-econazole (molecular entity)|(S)-econazole||1|CHEBI:82872|
+(S)-econazole nitrate (molecular entity)|(S)-econazole nitrate||1|CHEBI:82871|
+(S)-fenticonazole (molecular entity)|(S)-fenticonazole||1|CHEBI:83603|
+(S)-fenticonazole nitrate (molecular entity)|(S)-fenticonazole nitrate||1|CHEBI:83607|
+(S)-fenticonazole(1+) (molecular entity)|(S)-fenticonazole(1+)||1|CHEBI:83614|
+(S)-isoconazole (molecular entity)|(S)-isoconazole||1|CHEBI:83668|
+(S)-miconazole (molecular entity)|(S)-miconazole||1|CHEBI:82897|
+(S)-miconazole nitrate (molecular entity)|(S)-miconazole nitrate||1|CHEBI:82888|
+(S)-nisoldipine (molecular entity)|(S)-nisoldipine||1|CHEBI:76919|
+(S)-salmeterol (molecular entity)|(S)-salmeterol||1|CHEBI:64063|
+(S)-sertaconazole (molecular entity)|(S)-sertaconazole||1|CHEBI:83684|
+(S)-sertaconazole nitrate (molecular entity)|(S)-sertaconazole nitrate||1|CHEBI:83691|
+(S)-sertaconazole(1+) (molecular entity)|(S)-sertaconazole(1+)||1|CHEBI:83698|
+(S)-sulconazole (molecular entity)|(S)-sulconazole||1|CHEBI:77778|
+(S)-tioconazole (molecular entity)|(S)-tioconazole||1|CHEBI:77903|
+(S)-verapamil (molecular entity)|(S)-verapamil||1|CHEBI:77736|
+(S)-verapamil hydrochloride (molecular entity)|(S)-verapamil hydrochloride||1|CHEBI:77741|
+(S)-verapamil(1+) (molecular entity)|(S)-verapamil(1+)||1|CHEBI:77738|
+Arasertaconazole (molecular entity)|Arasertaconazole||0|CHEBI:83685|
+Arasertaconazole nitrate (molecular entity)|Arasertaconazole nitrate||0|CHEBI:83692|
+(S)-bifonazole (molecular entity)|(S)-bifonazole||1|CHEBI:78694|
+Dexverapamil (molecular entity)|Dexverapamil||0|CHEBI:77734|
+Dexverapamil hydrochloride (molecular entity)|Dexverapamil hydrochloride||0|CHEBI:77739|
+Dexverapamil(1+) (molecular entity)|Dexverapamil(1+)||0|CHEBI:77737|
+Esomeprazole(1-) (molecular entity)|Esomeprazole(1-)||0|CHEBI:77264|
+Famotidine hydrochloride (molecular entity)|Famotidine hydrochloride||0|CHEBI:50377|
+Fosinopril(1-) (molecular entity)|Fosinopril(1-)||0|CHEBI:59125|
+Indacaterol(1+) (molecular entity)|Indacaterol(1+)||0|CHEBI:68574|
+Oxiconazole(1+) (molecular entity)|Oxiconazole(1+)||0|CHEBI:77698|
+Pantoprazole(1-) (molecular entity)|Pantoprazole(1-)||0|CHEBI:50358|
+Perindopril(1-) (molecular entity)|Perindopril(1-)||0|CHEBI:78000|
+Rabeprazole(1-) (molecular entity)|Rabeprazole(1-)||0|CHEBI:49199|
+Ramiprilat (molecular entity)|Ramiprilat||0|CHEBI:77363|
+Vilanterol(1+) (molecular entity)|Vilanterol(1+)||0|CHEBI:75039|
+Zofenoprilat(1-) (molecular entity)|Zofenoprilat(1-)||0|CHEBI:82604|
+Salbutamol (molecular entity)|Salbutamol|Albuterol|0|CHEBI:2549|
+Alfuzosin (molecular entity)|Alfuzosin||0|CHEBI:51141|
+Alfuzosin hydrochloride (molecular entity)|Alfuzosin hydrochloride||0|CHEBI:32286|
+Alpha 1 adrenergic antagonist (qualifier value)|Alpha 1 adrenergic antagonist||0||An agent that binds to but does not activate alpha 1 adrenergic receptors thereby blocking the actions of endogenous or exogenous adrenergic agonists.
+Alpha 2 adrenergic antagonist (qualifier value)|Alpha 2 adrenergic antagonist||0||An agent that binds to but does not activate alpha 2 adrenergic receptors thereby blocking the actions of endogenous or exogenous adrenergic agonists.
+Amlodipine (molecular entity)|Amlodipine||0|CHEBI:2668|
+Amlodipine besilate (molecular entity)|Amlodipine besilate||0|CHEBI:2669|
+Arformoterol (molecular entity)|Arformoterol||0|CHEBI:408174|
+Azilsartan (molecular entity)|Azilsartan||0|CHEBI:68850|
+Azilsartan medoxomil (molecular entity)|Azilsartan medoxomil||0|CHEBI:68845|
+Bambuterol (molecular entity)|Bambuterol||0|CHEBI:553827|
+Bambuterol hydrochloride (molecular entity)|Bambuterol hydrochloride||0|CHEBI:59167|
+Benazepril (molecular entity)|Benazepril||0|CHEBI:3011|
+Benzothiazepine (molecular entity)|Benzothiazepine||0|CHEBI:48684|
+Bepridil (molecular entity)|Bepridil||0|CHEBI:3061|
+Bepridil hydrochloride (molecular entity)|Bepridil hydrochloride||0|CHEBI:52712|
+Candesartan (molecular entity)|Candesartan||0|CHEBI:3347|
+Captopril (molecular entity)|Captopril||0|CHEBI:3380|
+Cimetidine (molecular entity)|Cimetidine||0|CHEBI:3699|
+Cimetidine hydrochloride (molecular entity)|Cimetidine hydrochloride||0|CHEBI:50362|
+Clenbuterol (molecular entity)|Clenbuterol||0|CHEBI:174690|
+Clotrimazole (molecular entity)|Clotrimazole||0|CHEBI:3764|
+Dapiprazole (molecular entity)|Dapiprazole||0|CHEBI:51066|
+Dihydro-alpha-ergocryptine mesylate (molecular entity)|Dihydro-alpha-ergocryptine mesylate||0|CHEBI:31487|
+Dihydro-beta-ergocryptine mesylate (molecular entity)|Dihydro-beta-ergocryptine mesylate||0|CHEBI:34704|
+Dihydroergocornine mesylate (molecular entity)|Dihydroergocornine mesylate||0|CHEBI:34502|
+Dihydroergocristine (molecular entity)|Dihydroergocristine||0|CHEBI:59912|
+Dihydroergocristine mesylate (molecular entity)|Dihydroergocristine mesylate||0|CHEBI:31490|
+Diltiazem hydrochloride (molecular entity)|Diltiazem hydrochloride||0|CHEBI:645509|
+Doxazosin (molecular entity)|Doxazosin||0|CHEBI:4708|
+Doxazosin mesylate (molecular entity)|Doxazosin mesylate||0|CHEBI:4709|
+Efinaconazole (molecular entity)|Efinaconazole||0|CHEBI:82718|
+Enalapril (molecular entity)|Enalapril||0|CHEBI:4784|
+Enalapril maleate (molecular entity)|Enalapril maleate||0|CHEBI:4785|
+Enalaprilat (molecular entity)|Enalaprilat||0|CHEBI:4786|
+Eprosartan (molecular entity)|Eprosartan||0|CHEBI:4814|
+Eprosartan mesylate (molecular entity)|Eprosartan mesylate||0|CHEBI:48409|
+Esomeprazole (molecular entity)|Esomeprazole||0|CHEBI:50275|
+Esomeprazole magnesium (molecular entity)|Esomeprazole magnesium||0|CHEBI:50309|
+Famotidine (molecular entity)|Famotidine||0|CHEBI:4975|
+Felodipine (molecular entity)|Felodipine||0|CHEBI:585948|
+Fenoterol (molecular entity)|Fenoterol||0|CHEBI:149226|
+Fluconazole (molecular entity)|Fluconazole||0|CHEBI:46081|
+Flutrimazole (molecular entity)|Flutrimazole||0|CHEBI:82864|
+Fosinopril (molecular entity)|Fosinopril||0|CHEBI:5163|
+Fosinopril sodium (molecular entity)|Fosinopril sodium||0|CHEBI:5164|
+Indacaterol (molecular entity)|Indacaterol||0|CHEBI:68575|
+Indacaterol maleate (molecular entity)|Indacaterol maleate||0|CHEBI:68573|
+Irbesartan (molecular entity)|Irbesartan||0|CHEBI:5959|
+Itraconazole (molecular entity)|Itraconazole||0|CHEBI:6076|
+Ketoconazole (molecular entity)|Ketoconazole||0|CHEBI:48339|
+Lansoprazole (molecular entity)|Lansoprazole||0|CHEBI:6375|
+(R)-salbutamol (molecular entity)|(R)-salbutamol|Levalbuterol|1|CHEBI:8746|
+Lisinopril (molecular entity)|Lisinopril||0|CHEBI:43755|
+Losartan (molecular entity)|Losartan||0|CHEBI:6541|
+Nifedipine (molecular entity)|Nifedipine||0|CHEBI:7565|
+Nimodipine (molecular entity)|Nimodipine||0|CHEBI:7575|
+Nisoldipine (molecular entity)|Nisoldipine||0|CHEBI:7577|
+Nitrendipine (molecular entity)|Nitrendipine||0|CHEBI:7582|
+Nizatidine (molecular entity)|Nizatidine||0|CHEBI:7601|
+Nonselective alpha adrenergic antagonist (qualifier value)|Nonselective alpha adrenergic antagonist||0||
+Olmesartan (molecular entity)|Olmesartan||0|CHEBI:48416|
+Olodaterol (molecular entity)|Olodaterol||0|CHEBI:82700|
+Olodaterol hydrochloride (molecular entity)|Olodaterol hydrochloride||0|CHEBI:83309|
+Oxiconazole (molecular entity)|Oxiconazole||0|CHEBI:7825|
+Oxiconazole nitrate (molecular entity)|Oxiconazole nitrate||0|CHEBI:7826|
+Pantoprazole (molecular entity)|Pantoprazole||0|CHEBI:7915|
+Pantoprazole sodium (molecular entity)|Pantoprazole sodium||0|CHEBI:50270|
+Perhexiline (molecular entity)|Perhexiline||0|CHEBI:35553|
+Perindopril (molecular entity)|Perindopril||0|CHEBI:8024|
+Perindopril arginine (molecular entity)|Perindopril arginine||0|CHEBI:77655|
+Phentolamine (molecular entity)|Phentolamine||0|CHEBI:8081|
+Posaconazole (molecular entity)|Posaconazole||0|CHEBI:64355|
+Prazosin (molecular entity)|Prazosin||0|CHEBI:8364|
+Prazosin hydrochloride (molecular entity)|Prazosin hydrochloride||0|CHEBI:8365|
+Quinapril (molecular entity)|Quinapril||0|CHEBI:8713|
+Quinapril hydrochloride (molecular entity)|Quinapril hydrochloride||0|CHEBI:8714|
+Rabeprazole (molecular entity)|Rabeprazole||0|CHEBI:8768|
+Rabeprazole sodium (molecular entity)|Rabeprazole sodium||0|CHEBI:8769|
+Ramipril (molecular entity)|Ramipril||0|CHEBI:8774|
+Ranitidine (molecular entity)|Ranitidine||0|CHEBI:8776|
+Ranitidine hydrochloride (molecular entity)|Ranitidine hydrochloride||0|CHEBI:8777|
+Fenoterol hydrobromide (molecular entity)|Fenoterol hydrobromide||0|CHEBI:31601|
+Tamsulosin (molecular entity)|Tamsulosin||0|CHEBI:9398|
+Tamsulosin hydrochloride (molecular entity)|Tamsulosin hydrochloride||0|CHEBI:9399|
+Telmisartan (molecular entity)|Telmisartan||0|CHEBI:9434|
+Terazosin hydrochloride dihydrate (molecular entity)|Terazosin hydrochloride dihydrate||0|CHEBI:9446|
+Terazosin (molecular entity)|Terazosin||0|CHEBI:9445|
+Terbutaline (molecular entity)|Terbutaline||0|CHEBI:9449|
+Tolazoline (molecular entity)|Tolazoline||0|CHEBI:28502|
+Valsartan (molecular entity)|Valsartan||0|CHEBI:9927|
+Verapamil hydrochloride (molecular entity)|Verapamil hydrochloride||0|CHEBI:53188|
+Vilanterol (molecular entity)|Vilanterol||0|CHEBI:75037|
+Vilanterol trifenate (molecular entity)|Vilanterol trifenate||0|CHEBI:75040|
+Voriconazole (molecular entity)|Voriconazole||0|CHEBI:10023|
+Yohimbine (molecular entity)|Yohimbine||0|CHEBI:10093|
+Zofenopril (molecular entity)|Zofenopril||0|CHEBI:78539|
+Zofenopril calcium (molecular entity)|Zofenopril calcium||0|CHEBI:82600|
+Zofenoprilat (molecular entity)|Zofenoprilat||0|CHEBI:82602|
+Zofenoprilat arginine (molecular entity)|Zofenoprilat arginine||0|CHEBI:82603|
+Furan (molecular entity)|Furan||0|CHEBI:24129|Compounds containing at least one furan ring.
+H2-receptor antagonist (qualifier value)|H2-receptor antagonist||0|CHEBI:37961|Compounds that selectively bind to but do not activate histamine H2 receptors, thereby blocking the actions of endogenous histamine.
+Apoptosis inhibitor (qualifier value)|Apoptosis inhibitor||0|CHEBI:68494|Any substance that inhibits the process of apoptosis (programmed cell death) in multi-celled organisms.
+Alpha adrenergic antagonist (qualifier value)|Alpha adrenergic antagonist||0||
+Triazole (molecular entity)|Triazole||0|CHEBI:35727|
+Nitrate salt (molecular entity)|Nitrate salt||0||
+(R)-isoconazole(1+) (molecular entity)|(R)-isoconazole(1+)||1|CHEBI:83674|
+(S)-isoconazole(1+) (molecular entity)|(S)-isoconazole(1+)||1|CHEBI:83673|
+(R)-isoconazole nitrate (molecular entity)|(R)-isoconazole nitrate||1|CHEBI:83669|
+(S)-isoconazole nitrate (molecular entity)|(S)-isoconazole nitrate||1|CHEBI:83671|
+Magnesium salt (molecular entity)|Magnesium salt||0|CHEBI:33975|
+(S)-eberconazole nitrate (molecular entity)|(S)-eberconazole nitrate||1|CHEBI:83595|
+(R)-eberconazole nitrate (molecular entity)|(R)-eberconazole nitrate||1||
+Arasertaconazole(1+) (molecular entity)|Arasertaconazole(1+)||0|CHEBI:83692|
+Cytochrome P450 inhibitor (qualifier value)|Cytochrome P450 inhibitor||0|CHEBI:50183|
+Dioxolane (molecular entity)|Dioxolane||0|CHEBI:39430|
+Ammonium salt (molecular entity)|Ammonium salt||0|CHEBI:46850|
+Beta adrenergic agonist (qualifier value)|Beta adrenergic agonist||0|CHEBI:35522|An agent that selectively binds to and activates beta adrenergic receptors.
+Adrenergic agonist (qualifier value)|Adrenergic agonist||0|CHEBI:37886|An agent that selectively binds to and activates adrenergic receptors.
+Beta 1 adrenergic agonist (qualifier value)|Beta 1 adrenergic agonist||0||An agent that selectively binds to and activates beta 1 adrenergic receptors.
+Beta 2 adrenergic agonist (qualifier value)|Beta 2 adrenergic agonist||0||An agent that selectively binds to and activates beta 2 adrenergic receptors.
+Nonselective beta adrenergic agonist (qualifier value)|Nonselective beta adrenergic agonist||0||
+(R)-orciprenaline (molecular entity)|(R)-orciprenaline||1|CHEBI:83330|
+(S)-orciprenaline (molecular entity)|(S)-orciprenaline||1|CHEBI:83331|
+(S)-orciprenaline(1+) (molecular entity)|(S)-orciprenaline(1+)||1|CHEBI:83338|
+(R)-orciprenaline(1+) (molecular entity)|(R)-orciprenaline(1+)||1|CHEBI:83340|
+(R)-orciprenaline sulfate (molecular entity)|(R)-orciprenaline sulfate||1|CHEBI:83333|
+(S)-orciprenaline sulfate (molecular entity)|(S)-orciprenaline sulfate||1|CHEBI:83337|
+Mirabegron (molecular entity)|Mirabegron||0|CHEBI:65349|
+Isoprenaline|Isoprenaline||0|CHEBI:64317|
+(R)-bitolterol (molecular entity)|(R)-bitolterol||1|CHEBI:59188|
+(S)-bitolterol (molecular entity)|(S)-bitolterol||1|CHEBI:59189|
+(R)-bitolterol mesylate (molecular entity)|(R)-bitolterol mesylate||1|CHEBI:59190|
+(S)-bitolterol mesylate (molecular entity)|(S)-bitolterol mesylate||1|CHEBI:59191|
+Phenol derivative (molecular entity)|Phenol derivative||0|CHEBI:33853|Organic aromatic compounds having one or more hydroxy groups attached to a benzene or other arene ring.
+Ethanolamine derivative (molecular entity)|Ethanolamine derivative||0|CHEBI:23981|
+Arformoterol(1+) (molecular entity)|Arformoterol(1+)||0|CHEBI:63107|
+Bitolterol (molecular entity)|Bitolterol||0|CHEBI:3133|
+Bitolterol mesylate (molecular entity)|Bitolterol mesylate||0|CHEBI:3134|
+(S,S)-formoterol(1+) (molecular entity)|(S,S)-formoterol(1+)||1|CHEBI:63110|
+(S,S)-formoterol (molecular entity)|(S,S)-formoterol||1|CHEBI:63081|
+(S,S)-formoterol fumarate (molecular entity)|(S,S)-formoterol fumarate||1|CHEBI:63109|
+Arformoterol fumarate (molecular entity)|Arformoterol fumarate||0|CHEBI:63108|
+Sympathomimetic (qualifier value)|Sympathomimetic||0|CHEBI:35524|
+Bromide salt (molecular entity)|Bromide salt||0|CHEBI:22925|
+Hormone antagonist (qualifier value)|Hormone antagonist||0|CHEBI:49020|A chemical substance which inhibits the function of the endocrine glands, the biosynthesis of their secreted hormones, or the action of hormones upon their specific sites.
+Angiotensin receptor antagonist|Angiotensin receptor antagonist||0|CHEBI:61016|A hormone antagonist that blocks angiotensin receptors.
+Angiotensin II receptor antagonist (qualifier value)|Angiotensin II receptor antagonist||0||
+Beta 3 adrenergic agonist (qualifier value)|Beta 3 adrenergic agonist||0||An agent that selectively binds to and activates beta 3 adrenergic receptors.
+Dihydropyridine (molecular entity)|Dihydropyridine||0|CHEBI:50075|
+Steroid acid anion (molecular entity)|Steroid acid anion||0|CHEBI:50160|
+Amino alcohol (molecular entity)|Amino alcohol||0|CHEBI:22478|An alcohol containing an amino functional group in addition to the alcohol-defining hydroxy group.
+Propanolamine (molecular entity)|Propanolamine||0|CHEBI:35533|
+Sympatholytic (qualifier value)|Sympatholytic||0|CHEBI:66991|
+Bromine compound|Bromine compound||0|CHEBI:37141|A compound containing at least one carbon-bromine bond.
+Tetrazole (molecular entity)|Tetrazole||0|CHEBI:35689|An azole in which the five-membered heterocyclic aromatic skeleton contains four N atoms and one C atom.
+Zofenopril(1-) (molecular entity)|Zofenopril(1-)||0|CHEBI:82601|
+Fatty acid ester (molecular entity)|Fatty acid ester||0|CHEBI:35748|
+Ergot alkaloid (molecular entity)|Ergot alkaloid||0|CHEBI:23943|
+Indole derivative (molecular entity)|Indole derivative||0|CHEBI:24828|Any compound containing an indole skeleton.
+Proline derivative (molecular entity)|Proline derivative||0|CHEBI:26273|
+Dipeptide (molecular entity)|Dipeptide||0|CHEBI:46761|
+Isoquinoline (molecular entity)|Isoquinoline||0|CHEBI:24922|A compound consisting of isoquinoline and its substitution derivatives.
+Chlorine compound (molecular entity)|Chlorine compound||0|CHEBI:36683|
+Benzocycloheptapyridine (molecular entity)|Benzocycloheptapyridine||0|CHEBI:48593|

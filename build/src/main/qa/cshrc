@@ -1,0 +1,3 @@
+setenv PATH_TO_PERL /usr/bin/perl
+setenv EXTQA_HOME `pwd`
+alias lst "ls -lt | head"

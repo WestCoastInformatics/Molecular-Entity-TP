@@ -1,0 +1,8 @@
+isa|Is a (attribute)|Is a|
+has_part|Has part (attribute)|Has part|This attribute denotes a relationship between the whole and a part, especially between a salt or an addition compound and its components.
+has_functional_parent|Has functional parent (attribute)|Has functional parent|This attribute denotes a relationship between two molecular entities, one of which possesses one or more characteristic groups from which the other can be derived by functional modification.
+has_disposition|Has disposition (attribute)|Has disposition|This attribute denotes a relationship between a molecular entity and its disposition.
+has_conjugate_base|Has conjugate base (attribute)|Has conjugate base|This attribute denotes a relationship between a base and its conjugate acid.
+has_conjugate_acid|Has conjugate acid (attribute)|Has conjugate acid|This attribute denotes a relationship between an acid and its conjugate base.
+has_enantiomer|Has enantiomer (attribute)|Has enantiomer|This attribute denotes a relationship between two entities that are enantiomers of each other.
+has_tautomer|Has tautomer (attribute)|Has tautomer|This attribute denotes a relationship between two entities that are tautomers of each other.

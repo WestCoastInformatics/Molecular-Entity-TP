@@ -1,0 +1,1623 @@
+Anion|isa|Ion
+Cation|isa|Ion
+Dicarboxylic acid|isa|Carboxylic acid
+Monocarboxylic acid|isa|Carboxylic acid
+Amino alcohol|isa|Alcohol
+Ethanolamine derivative|isa|Amino alcohol
+Trimethobenzamide|isa|Benzamide derivative
+Beta-lactam|isa|Lactam
+Ampicillin|isa|Beta-lactam
+Benzylpenicillin|isa|Penicillin
+Phenoxymethylpenicillin|isa|Penicillin
+Amino cyclitol glycoside|isa|Amino cyclitol glycoside
+Gentamicin|isa|Amino cyclitol glycoside
+Gentamicin|isa|Aminoglycoside
+Kanamycin|isa|Amino cyclitol glycoside
+Kanamycin|isa|Aminoglycoside
+Carboxylic ester|isa|Ester
+Imidazole|isa|Azole
+Tolazoline|isa|Imidazole
+Indole derivative|isa|Molecule
+Quinolone|isa|Molecule
+Tetracycline derivative|isa|Molecule
+Oxytetracycline|isa|Tetracycline derivative
+Tetracycline|isa|Tetracycline derivative
+Cyclic peptide|isa|Peptide
+Rifampicin|isa|Rifamycin
+Ion|isa|Molecular entity
+Alcohol|isa|Molecule
+Phenol derivative|isa|Molecule
+Bromide salt|isa|Salt
+Chloride salt|isa|Salt
+Carboxylic acid anion|isa|Anion
+Enzyme inhibitor|isa|Disposition
+Streptomycin|isa|Aminoglycoside
+Streptomycin|isa|Amino cyclitol glycoside
+Cyanide derivative|isa|Molecule
+Nitrile|isa|Cyanide derivative
+Sulfanilamide|isa|Sulfonamide
+Amide|isa|Molecule
+Captopril|has_disposition|Angiotensin-converting enzyme inhibitor
+Famotidine|isa|Thiazole
+Famotidine|isa|Sulfonamide
+Biguanide|isa|Guanidine derivative
+Metformin|has_functional_parent|Biguanide
+Metoprolol|has_disposition|Beta 1 adrenergic antagonist
+Propanolamine|isa|Amino alcohol
+Metoprolol|isa|Propanolamine
+Perhexiline|isa|Piperidine derivative
+Metoprolol|isa|Ether derivative
+Clavulanic acid|isa|Beta-lactam
+Atorvastatin|has_disposition|HMG-CoA reductase inhibitor
+Benazepril|has_disposition|Angiotensin-converting enzyme inhibitor
+Benazepril|isa|Benzazepine derivative
+Candesartan|isa|Benzimidazole
+Dicarboxylic acid anion|isa|Carboxylic acid anion
+Clotrimazole|isa|Imidazole
+Enrofloxacin|isa|Monocarboxylic acid
+Fluconazole|isa|Triazole
+Fluconazole|isa|Alcohol
+Monocarboxylic acid amide|isa|Amide
+Monocarboxylic acid anion|isa|Carboxylic acid anion
+Itraconazole|isa|Triazole
+Lovastatin|has_disposition|HMG-CoA reductase inhibitor
+Netilmicin|isa|Aminoglycoside
+Ramipril|has_disposition|Angiotensin-converting enzyme inhibitor
+Rifabutin|isa|Rifamycin
+Rifapentine|isa|Rifamycin
+Simvastatin|has_disposition|HMG-CoA reductase inhibitor
+Sulfadimethoxine|has_functional_parent|Sulfanilamide
+Mandelic acid|has_conjugate_base|Mandelate
+Mandelate|has_conjugate_acid|Mandelic acid
+Sulfamethoxazole|has_functional_parent|Sulfanilamide
+Fatty acid ester|isa|Carboxylic ester
+Atorvastatin|isa|Monocarboxylic acid
+Penam|isa|Beta-lactam
+Mandelic acid|isa|Monocarboxylic acid
+Mandelate|isa|Monocarboxylic acid anion
+Lovastatin|isa|Fatty acid ester
+Simvastatin|isa|Fatty acid ester
+Benazepril|isa|Carboxylic ester
+Ramipril|isa|Carboxylic ester
+Molecule|isa|Molecular entity
+Magnesium salt|isa|Salt
+Pyrazinamide|isa|Monocarboxylic acid amide
+Chlorine compound|isa|Molecular entity
+Hydrochloride|isa|Chloride salt
+Bromine compound|isa|Molecular entity
+Heteroatomic molecular entity|isa|Molecular entity
+Salt|isa|Heteroatomic molecular entity
+Sisomicin|isa|Amino cyclitol glycoside
+Sisomicin|isa|Aminoglycoside
+Fosfomycin|isa|Ether derivative
+Oxacillin|isa|Penicillin
+Cloxacillin|isa|Penicillin
+Cloxacillin|has_functional_parent|Oxacillin
+Beta adrenergic agonist|isa|Adrenergic agonist
+Beta adrenergic antagonist|isa|Adrenergic antagonist
+(R)-salbutamol|isa|Salbutamol
+Salbutamol|isa|Ethanolamine derivative
+Netilmicin|isa|Amino cyclitol glycoside
+Neomycin|isa|Aminoglycoside
+Neomycin|isa|Amino cyclitol glycoside
+Histamine antagonist|isa|Histaminergic
+H1-receptor antagonist|isa|Histamine antagonist
+Promethazine|has_disposition|H1-receptor antagonist
+Methapyrilene|has_disposition|H1-receptor antagonist
+Methapyrilene|isa|Ethylenediamine derivative
+H2-receptor antagonist|isa|Histamine antagonist
+Adrenergic|isa|Disposition
+Adrenergic agonist|isa|Adrenergic
+Adrenergic antagonist|isa|Adrenergic
+Paromomycin|isa|Aminoglycoside
+Paromomycin|isa|Amino cyclitol glycoside
+Terbutaline|isa|Ethanolamine derivative
+Erythromycin estolate|isa|Sulfate salt
+Paromomycin sulfate|isa|Sulfate salt
+Amikacin disulfate|isa|Sulfate salt
+Dihydroergocornine mesylate|isa|Methanesulfonate salt
+Sulfathiazole|isa|Thiazole
+Sulfathiazole|has_functional_parent|Sulfanilamide
+Thiophene|isa|Molecule
+Cimetidine|isa|Guanidine derivative
+Cimetidine|isa|Imidazole
+Cimetidine|isa|Nitrile
+Famotidine|isa|Guanidine derivative
+Glimepiride|isa|Sulfonamide
+Sulfadiazine|isa|Pyrimidine derivative
+Sulfadiazinate|has_conjugate_acid|Sulfadiazine
+Sulfadiazine|has_conjugate_base|Sulfadiazinate
+Benzazepine derivative|isa|Molecule
+Azabicycloalkane|isa|Molecule
+Ramipril|isa|Azabicycloalkane
+Benzimidazole|isa|Molecule
+Cephem|isa|Beta-lactam
+Cephalosporin|isa|Cephem
+Pyrimidine derivative|isa|Molecule
+Furan|isa|Molecule
+Cholinergic|isa|Disposition
+Quinazoline|isa|Molecule
+Rosuvastatin|has_disposition|HMG-CoA reductase inhibitor
+Tyrosine kinase inhibitor|isa|Protein kinase inhibitor
+Novobiocin|isa|Monocarboxylic acid amide
+Phthalazine derivative|isa|Molecule
+Enrofloxacin|isa|Quinolone
+Metoprolol|isa|Alcohol
+Benzene derivative|isa|Molecule
+Rifamycin|isa|Molecule
+Sparfloxacin|isa|Quinolone
+Sparfloxacin|isa|Monocarboxylic acid
+Penam|isa|Molecule
+Sulfonamide|isa|Amide
+Thiamphenicol|isa|Monocarboxylic acid amide
+Lincomycin|isa|Monocarboxylic acid amide
+Benzamide derivative|isa|Molecule
+Ceftriaxone|isa|Cephalosporin
+Ceftriaxone|isa|Triazine derivative
+Ampicillin|isa|Penicillin
+Dioxolane|isa|Molecule
+Itraconazole|isa|Dioxolane
+Nitrofurantoin|isa|Furan
+Timolol|isa|Thiadiazole derivative
+(S)-timolol (anhydrous)|isa|Timolol
+(R)-timolol|isa|Timolol
+(R)-timolol|has_enantiomer|(S)-timolol (anhydrous)
+(S)-timolol (anhydrous)|has_enantiomer|(R)-timolol
+Rosuvastatin|isa|Pyrimidine derivative
+Rosuvastatin|isa|Sulfonamide
+Silver sulfadiazine|isa|Pyrimidine derivative
+Sulfadimethoxine|isa|Pyrimidine derivative
+Sulfadiazine|has_functional_parent|Sulfanilamide
+Fexofenadine|isa|Piperidine derivative
+Carbapenem|isa|Beta-lactam
+Meropenem|isa|Monocarboxylic acid
+Lisinopril|has_disposition|Angiotensin-converting enzyme inhibitor
+Lisinopril|isa|Dipeptide
+Pyrrolidinecarboxamide|isa|Pyrrolidine derivative
+Pyrrolidinecarboxamide|isa|Monocarboxylic acid amide
+Clindamycin|isa|Pyrrolidinecarboxamide
+Lincomycin|isa|Pyrrolidinecarboxamide
+N-alkylpyrrolidine derivative|isa|Pyrrolidine derivative
+Meropenem|isa|Pyrrolidinecarboxamide
+Propranolol|has_disposition|Nonselective beta adrenergic antagonist
+Cefuroxime|isa|Second generation cephalosporin
+N-alkylpiperazine derivative|isa|Piperazine derivative
+Rifapentine|isa|N-alkylpiperazine derivative
+Sparfloxacin|isa|Piperazine derivative
+Enrofloxacin|isa|N-alkylpiperazine derivative
+Enrofloxacin|isa|Piperazine derivative
+Itraconazole|isa|Piperazine derivative
+Ciprofloxacin|isa|Piperazine derivative
+Ciprofloxacin|isa|Quinolone
+Ciprofloxacin|isa|Monocarboxylic acid
+Promethazine|isa|Phenothiazine derivative
+Fusidic acid|has_disposition|Protein synthesis inhibitor
+Serotonergic|isa|Disposition
+Serotonergic antagonist|isa|Serotonergic
+Yohimbine|has_disposition|Serotonergic antagonist
+Pindolol|isa|Indole derivative
+Pindolol|has_disposition|Serotonergic antagonist
+Pindolol|has_disposition|Nonselective beta adrenergic antagonist
+Acebutolol hydrochloride|isa|Hydrochloride
+Acebutolol|has_disposition|Beta 1 adrenergic antagonist
+Ketoconazole|isa|Ether derivative
+Ketoconazole|isa|Imidazole
+Ketoconazole|isa|Piperazine derivative
+Ketoconazole|isa|Dioxolane
+Sitagliptin|has_disposition|Serine proteinase inhibitor
+Olmesartan|isa|Tetrazole
+Angiogenesis inhibitor|isa|Disposition
+Candesartan|isa|Tetrazole
+Irbesartan|isa|Tetrazole
+Losartan|isa|Tetrazole
+Valsartan|isa|Tetrazole
+Eprosartan mesylate|isa|Methanesulfonate salt
+Yohimbine|isa|Carboxylic ester
+Nadifloxacin|isa|Piperidine derivative
+Tamsulosin hydrochloride|isa|Hydrochloride
+Benzothiazepine|isa|Molecule
+(E)-roxithromycin|isa|Roxithromycin
+(Z)-roxithromycin|isa|Roxithromycin
+Cholinergic antagonist|isa|Cholinergic
+Muscarinic antagonist|isa|Cholinergic antagonist
+Fumagillin|has_disposition|Angiogenesis inhibitor
+Quinapril|has_disposition|Angiotensin-converting enzyme inhibitor
+Quinapril|isa|Isoquinoline
+Quinapril hydrochloride|isa|Hydrochloride
+Quinapril hydrochloride|has_part|Quinapril
+Rabeprazole sodium|isa|Sodium salt
+Rabeprazole|isa|Benzimidazole
+Rabeprazole|has_disposition|Proton pump inhibitor
+Rabeprazole|isa|Pyridine derivative
+Rabeprazole|has_conjugate_base|Rabeprazole(1-)
+Rabeprazole(1-)|has_conjugate_acid|Rabeprazole
+Dihydropyridine|isa|Pyridine derivative
+Nifedipine|isa|Dihydropyridine
+Levobunolol hydrochloride|isa|Hydrochloride
+Cephradine|isa|Cephalosporin
+Chloramphenicol|isa|Chlorine compound
+Ethionamide|isa|Pyridine derivative
+Hydroxyzine|has_disposition|H1-receptor antagonist
+Hydroxyzine|isa|N-alkylpiperazine derivative
+Hydroxyzine hydrochloride|isa|Hydrochloride
+Pefloxacin|isa|Quinolone
+Sulfadoxine|isa|Sulfonamide
+Pizotifen|has_disposition|Serotonergic antagonist
+Pizotifen|has_disposition|Muscarinic antagonist
+Pizotifen|has_disposition|Histamine antagonist
+Pefloxacin|isa|Piperazine derivative
+Pefloxacin|isa|N-alkylpiperazine derivative
+Sulfadoxine|isa|Pyrimidine derivative
+Malate salt|isa|Salt
+Maleate salt|isa|Salt
+Pantoprazole|has_disposition|Proton pump inhibitor
+Pizotifen(1+)|has_conjugate_base|Pizotifen
+Pizotifen maleate|has_part|Pizotifen(1+)
+Pantoprazole|isa|Benzimidazole
+Sulfadiazinate|isa|Anion
+Ammonium ion|isa|Cation
+Pantoprazole(1-)|has_conjugate_acid|Pantoprazole
+Rabeprazole(1-)|isa|Anion
+Pantoprazole|has_conjugate_base|Pantoprazole(1-)
+Lansoprazole|isa|Benzimidazole
+Lansoprazole|isa|Pyridine derivative
+Lansoprazole|has_disposition|Proton pump inhibitor
+Cimetidine|has_disposition|H2-receptor antagonist
+Cimetidine|has_disposition|Cytochrome P450 inhibitor
+Cimetidine hydrochloride|isa|Hydrochloride
+Ranitidine hydrochloride|isa|Hydrochloride
+Famotidine hydrochloride|isa|Hydrochloride
+Ranitidine|has_disposition|H2-receptor antagonist
+Famotidine|has_disposition|H2-receptor antagonist
+Famotidine|has_disposition|Cytochrome P450 inhibitor
+Potassium salt|isa|Salt
+Sulfamethizole|isa|Sulfonamide
+Sulfamethizole|isa|Thiadiazole derivative
+Sympathomimetic|isa|Adrenergic
+Perindopril|has_disposition|Angiotensin-converting enzyme inhibitor
+Acarbose|has_disposition|Alpha-glucoside inhibitor
+Cyclooxygenase 2 inhibitor|isa|Prostaglandin-endoperoxide synthase inhibitor
+Acetohydroxamic acid|has_disposition|Hydrolase inhibitor
+Dipeptide|isa|Peptide
+Ampicillin sodium|isa|Sodium salt
+Ampicillin trihydrate|isa|Hydrate
+Ampicillin(1-)|has_conjugate_acid|Ampicillin
+Ampicillin|has_conjugate_base|Ampicillin(1-)
+Metronidazole|isa|Imidazole
+Metronidazole hydrochloride|isa|Hydrochloride
+Metronidazole benzoate|isa|Carboxylic ester
+Atorvastatin(1-)|isa|Carboxylic acid anion
+Atorvastatin(1-)|has_conjugate_acid|Atorvastatin
+Atorvastatin|has_conjugate_base|Atorvastatin(1-)
+Minocycline|isa|Tetracycline derivative
+Monobactam|isa|Beta-lactam
+Aztreonam|isa|Monobactam
+Minocycline hydrochloride|isa|Hydrochloride
+Azithromycin|isa|Macrolide
+Azithromycin dihydrate|isa|Hydrate
+Pantoprazole sodium|isa|Sodium salt
+Doxycycline|isa|Tetracycline derivative
+Cephalothin|isa|Cephalosporin
+Cephalothin|isa|Carboxylic acid
+Cephalothin|isa|Thiophene
+Cephalothin sodium|isa|Sodium salt
+Cephalothin(1-)|has_conjugate_acid|Cephalothin
+Cephalothin|has_conjugate_base|Cephalothin(1-)
+Cephalothin(1-)|isa|Carboxylic acid anion
+Promethazine hydrochloride|isa|Hydrochloride
+Fumarate salt|isa|Salt
+Serotonin re-uptake inhibitor|isa|Serotonergic
+Esomeprazole magnesium|isa|Magnesium salt
+Nedocromil sodium|isa|Sodium salt
+Nedocromil(2-)|isa|Carboxylic acid anion
+Nedocromil(2-)|has_conjugate_acid|Nedocromil
+Nedocromil|has_conjugate_base|Nedocromil(2-)
+Calcium salt|isa|Salt
+Atorvastatin calcium|isa|Calcium salt
+R-epinastine|isa|Epinastine
+S-epinastine|isa|Epinastine
+R-epinastine|has_enantiomer|S-epinastine
+S-epinastine|has_enantiomer|R-epinastine
+Epinastine hydrochloride|isa|Hydrochloride
+Labetalol|isa|Benzamide derivative
+Cyclizine|isa|N-alkylpiperazine derivative
+Cyclizine|has_disposition|Cholinergic antagonist
+Cyclizine hydrochloride|isa|Hydrochloride
+Hormone antagonist|isa|Disposition
+Dapiprazole|isa|Piperazine derivative
+Dapiprazole|isa|N-alkylpiperazine derivative
+Dapiprazole|isa|Pyridine derivative
+Pantoprazole(1-)|isa|Benzimidazole
+Ranitidine|isa|Furan
+Alfuzosin|isa|Monocarboxylic acid amide
+Alfuzosin|isa|Quinazoline
+Alfuzosin hydrochloride|isa|Hydrochloride
+Propranolol hydrochloride|isa|Hydrochloride
+Doxazosin|isa|Quinazoline
+Doxazosin|isa|Piperazine derivative
+Doxazosin mesylate|isa|Methanesulfonate salt
+Mecillinam|isa|Penicillin
+Pivampicillin|isa|Penam
+Pivampicillin|has_functional_parent|Mecillinam
+Pivmecillinam hydrochloride|isa|Hydrochloride
+Alprenolol|isa|Alcohol
+Alprenolol|has_disposition|Nonselective beta adrenergic antagonist
+Alprenolol hydrochloride|isa|Hydrochloride
+Amoxicillin|isa|Penicillin
+Amoxicillin trihydrate|isa|Hydrate
+Amoxicillin sodium|isa|Sodium salt
+Carvedilol|has_disposition|Nonselective beta adrenergic antagonist
+Aadamantane derivative|isa|Molecule
+Amoxicillin(1-)|has_conjugate_acid|Amoxicillin
+Amoxicillin|has_conjugate_base|Amoxicillin(1-)
+Benzathine salt|isa|Salt
+Cloxacillin|has_conjugate_base|Cloxacillin(1-)
+Cloxacillin(1-)|has_conjugate_acid|Cloxacillin
+Cloxacillin benzathine|isa|Benzathine salt
+Benzylpenicillin benzathine|isa|Benzathine salt
+Benzylpenicillin(1-)|has_conjugate_acid|Benzylpenicillin
+Benzylpenicillin|has_conjugate_base|Benzylpenicillin(1-)
+Phenoxymethylpenicillin|has_conjugate_base|Phenoxymethylpenicillin(1-)
+Phenoxymethylpenicillin(1-)|has_conjugate_acid|Phenoxymethylpenicillin
+Penicillinate anion|isa|Monocarboxylic acid anion
+Phenoxymethylpenicillin(1-)|isa|Penicillinate anion
+Benzylpenicillin(1-)|isa|Penicillinate anion
+Ampicillin(1-)|isa|Penicillinate anion
+Cloxacillin(1-)|isa|Penicillinate anion
+Terazosin|isa|Quinazoline
+Terazosin|isa|Piperazine derivative
+Terazosin|isa|Furan
+Cloxacillin sodium|isa|Sodium salt
+Terazosin hydrochloride dihydrate|isa|Hydrochloride
+Terazosin hydrochloride dihydrate|isa|Hydrate
+Buclizine|isa|N-alkylpiperazine derivative
+Buclizine|has_disposition|Cholinergic antagonist
+Buclizine|has_disposition|Histamine antagonist
+Carvedilol|isa|Alcohol
+Doxylamine|isa|Pyridine derivative
+Doxylamine|has_disposition|Cholinergic antagonist
+Prazosin|isa|Piperazine derivative
+Prazosin|isa|Quinazoline
+Prazosin|isa|Furan
+Prazosin hydrochloride|isa|Hydrochloride
+Carteolol|isa|Quinolone
+Carteolol|isa|Alcohol
+Carteolol|has_disposition|Nonselective beta adrenergic antagonist
+Carteolol hydrochloride|isa|Hydrochloride
+Cinnarizine|isa|N-alkylpiperazine derivative
+Cinnarizine|has_disposition|Histamine antagonist
+Cinnarizine|has_disposition|Muscarinic antagonist
+Bisoprolol|isa|Alcohol
+Bisoprolol|has_disposition|Beta 1 adrenergic antagonist
+Bisoprolol fumarate|isa|Fumarate salt
+Benzylpenicillin potassium|isa|Potassium salt
+Benzylpenicillin sodium|isa|Sodium salt
+Pivampicillin|has_functional_parent|Ampicillin
+Amoxicillin(1-)|isa|Penicillinate anion
+Imipenem|isa|Carbapenem
+Ticarcillin|isa|Penicillin
+Ticarcillin(2-)|has_conjugate_acid|Ticarcillin
+Ticarcillin|has_conjugate_base|Ticarcillin(2-)
+Ticarcillin(2-)|isa|Penicillinate anion
+Ticarcillin disodium|isa|Sodium salt
+Cyclacillin|isa|Penicillin
+Temocillin|isa|Penicillin
+Azlocillin|isa|Penicillin
+Azlocillin(1-)|isa|Penicillinate anion
+Azlocillin|has_conjugate_base|Azlocillin(1-)
+Azlocillin(1-)|has_conjugate_acid|Azlocillin
+Azlocillin sodium|isa|Sodium salt
+Bacampicillin|isa|Penam
+Bacampicillin hydrochloride|isa|Hydrochloride
+Bacampicillin|has_functional_parent|Ampicillin
+Carbenicillin|isa|Penicillin
+Carbenicillin(2-)|isa|Penicillinate anion
+Carbenicillin|has_conjugate_base|Carbenicillin(2-)
+Carbenicillin(2-)|has_conjugate_acid|Carbenicillin
+Carbenicillin disodium|isa|Sodium salt
+Carfecillin|isa|Penicillin
+Carfecillin|has_functional_parent|Carbenicillin
+Carfecillin(1-)|isa|Penicillinate anion
+Carfecillin(1-)|has_conjugate_acid|Carfecillin
+Carfecillin|has_conjugate_base|Carfecillin(1-)
+Carfecillin sodium|isa|Sodium salt
+Nafcillin|isa|Penicillin
+Nafcillin(1-)|isa|Penicillinate anion
+Nafcillin sodium|isa|Sodium salt
+Nafcillin(1-)|has_conjugate_acid|Nafcillin
+Nafcillin|has_conjugate_base|Nafcillin(1-)
+Chlorphenamine|isa|Pyridine derivative
+Dexchlorpheniramine|isa|Chlorphenamine
+Dicloxacillin|isa|Penicillin
+Dicloxacillin(1-)|isa|Penicillinate anion
+Dicloxacillin(1-)|has_conjugate_acid|Dicloxacillin
+Dicloxacillin|has_conjugate_base|Dicloxacillin(1-)
+Dicloxacillin sodium|isa|Sodium salt
+Flucloxacillin|isa|Penicillin
+Flucloxacillin(1-)|isa|Penicillinate anion
+Flucloxacillin(1-)|has_conjugate_acid|Flucloxacillin
+Flucloxacillin|has_conjugate_base|Flucloxacillin(1-)
+Flucloxacillin sodium|isa|Hydrate
+Hetacillin|isa|Penicillin
+Hetacillin(1-)|isa|Penicillinate anion
+Hetacillin|has_conjugate_base|Hetacillin(1-)
+Hetacillin(1-)|has_conjugate_acid|Hetacillin
+Methicillin|isa|Penicillin
+Methicillin(1-)|isa|Penicillinate anion
+Methicillin|has_conjugate_base|Methicillin(1-)
+Methicillin(1-)|has_conjugate_acid|Methicillin
+Methicillin sodium|isa|Sodium salt
+Mezlocillin|isa|Penicillin
+Mezlocillin(1-)|isa|Penicillinate anion
+Mezlocillin|has_conjugate_base|Mezlocillin(1-)
+Mezlocillin(1-)|has_conjugate_acid|Mezlocillin
+Mezlocillin sodium|isa|Sodium salt
+Oxacillin(1-)|isa|Penicillinate anion
+Oxacillin(1-)|has_conjugate_acid|Oxacillin
+Oxacillin|has_conjugate_base|Oxacillin(1-)
+Oxacillin sodium|isa|Sodium salt
+Clemizole(1+)|isa|Cation
+Clemizole(1+)|has_conjugate_base|Clemizole
+Clemizole|has_conjugate_acid|Clemizole(1+)
+Clemizole|isa|Pyrrolidine derivative
+Cetirizine|isa|Monocarboxylic acid
+Neuraminidase inhibitor|isa|Hydrolase inhibitor
+Phenoxymethylpenicillin potassium|isa|Potassium salt
+Phenethicillin|isa|Penicillin
+Phenethicillin(1-)|isa|Penicillinate anion
+Phenethicillin|has_conjugate_base|Phenethicillin(1-)
+Phenethicillin(1-)|has_conjugate_acid|Phenethicillin
+Piperacillin|isa|Penicillin
+Piperacillin(1-)|isa|Penicillinate anion
+Piperacillin(1-)|has_conjugate_acid|Piperacillin
+Piperacillin|has_conjugate_base|Piperacillin(1-)
+Piperacillin sodium|isa|Sodium salt
+Talampicillin|isa|Penam
+Talampicillin|has_functional_parent|Ampicillin
+Talampicillin hydrochloride|isa|Hydrochloride
+Temocillin sodium|isa|Sodium salt
+Temocillin(2-)|has_conjugate_acid|Temocillin
+Temocillin|has_conjugate_base|Temocillin(2-)
+Cefmetazole|isa|Cephalosporin
+Cephalosporin carboxylic acid anion|isa|Carboxylic acid anion
+Cefmetazole(1-)|isa|Cephalosporin carboxylic acid anion
+Cefmetazole(1-)|has_conjugate_acid|Cefmetazole
+Cefmetazole|has_conjugate_base|Cefmetazole(1-)
+Cefmetazole sodium|isa|Sodium salt
+Cefonicid|isa|Cephalosporin
+Cefonicid(2-)|isa|Cephalosporin carboxylic acid anion
+Cefonicid(2-)|has_conjugate_acid|Cefonicid
+Cefonicid|has_conjugate_base|Cefonicid(2-)
+Cefonicid sodium|isa|Sodium salt
+Bepridil|isa|Pyrrolidine derivative
+Bepridil hydrochloride|isa|Hydrochloride
+Bepridil hydrochloride|has_functional_parent|Bepridil
+Fexofenadine|has_disposition|H1-receptor antagonist
+Sulfasalazine|isa|Sulfonamide
+Sulfasalazine|isa|Pyridine derivative
+Sulfasalazine|has_functional_parent|Sulfanilamide
+Sulfamethoxazole|isa|Sulfonamide
+Furazolidone|isa|Furan
+Furazolidone|isa|Oxazolidine derivative
+Furazolidone|has_disposition|Monoamine oxidase inhibitor
+Gatifloxacin|isa|Monocarboxylic acid
+Gatifloxacin|isa|Piperazine derivative
+Gatifloxacin|has_disposition|Deoxyribonucleic acid topoisomerase (adenosine triphosphate-hydrolysing) inhibitor
+Cephalexin|isa|Cephalosporin
+Neamine|isa|Aminoglycoside
+Framycetin|isa|Aminoglycoside
+Neomycin C|isa|Aminoglycoside
+Cefamandole|isa|Cephalosporin
+Cefamandole(1-)|isa|Cephalosporin carboxylic acid anion
+Cefamandole(1-)|has_conjugate_acid|Cefamandole
+Cefamandole|has_conjugate_base|Cefamandole(1-)
+Cefamandole nafate|isa|Sodium salt
+Cefoxitin(1-)|isa|Cephalosporin carboxylic acid anion
+Cefoxitin(1-)|has_conjugate_acid|Cefoxitin
+Cefoxitin|has_conjugate_base|Cefoxitin(1-)
+Cephaloridine|isa|Cephalosporin
+Cefazolin|isa|Cephalosporin
+Cefazolin sodium|isa|Sodium salt
+Cefazolin(1-)|isa|Cephalosporin carboxylic acid anion
+Cefazolin(1-)|has_conjugate_acid|Cefazolin
+Cefazolin|has_conjugate_base|Cefazolin(1-)
+Ceftriaxone(1-)|isa|Cephalosporin carboxylic acid anion
+Ceftriaxone(1-)|has_conjugate_acid|Ceftriaxone
+Ceftriaxone|has_conjugate_base|Ceftriaxone(1-)
+Metformin|isa|Guanidine derivative
+Cefadroxil|isa|Cephalosporin
+Cefadroxil monohydrate|isa|Hydrate
+Cefadroxil(1-)|isa|Cephalosporin carboxylic acid anion
+Cefadroxil|has_conjugate_base|Cefadroxil(1-)
+Cefadroxil(1-)|has_conjugate_acid|Cefadroxil
+Cefotaxime|isa|Cephalosporin
+Cefotaxime sodium|isa|Sodium salt
+Cefotaxime(1-)|isa|Cephalosporin carboxylic acid anion
+Cefotaxime|has_conjugate_base|Cefotaxime(1-)
+Cefotaxime(1-)|has_conjugate_acid|Cefotaxime
+Ceftazidime|isa|Cephalosporin
+Ceftazidime sodium|isa|Sodium salt
+Ceftazidime(1-)|isa|Cephalosporin carboxylic acid anion
+Ceftazidime|has_conjugate_base|Ceftazidime(1-)
+Ceftazidime(1-)|has_conjugate_acid|Ceftazidime
+Sulfisomidine|isa|Pyrimidine derivative
+Sulfisomidine|has_functional_parent|Sulfanilamide
+Sulfamethoxypyridazine|has_functional_parent|Sulfanilamide
+Sulfamethoxydiazine|isa|Pyrimidine derivative
+Sulfamethoxydiazine|has_functional_parent|Sulfanilamide
+Sulfamethazine|isa|Pyrimidine derivative
+Sulfamethazine|has_functional_parent|Sulfanilamide
+Sulfamerazine|isa|Pyrimidine derivative
+Sulfamerazine|has_functional_parent|Sulfanilamide
+Sulfapyridine|isa|Pyridine derivative
+Sulfapyridine|has_functional_parent|Sulfanilamide
+Cefaclor|isa|Cephalosporin
+Gemifloxacin|has_disposition|Topoisomerase IV inhibitor
+Gemifloxacin|isa|Monocarboxylic acid
+Gemifloxacin mesylate|isa|Methanesulfonate salt
+Voriconazole|isa|Pyrimidine derivative
+Voriconazole|isa|Triazole
+Amlexanox|isa|Monocarboxylic acid
+Amlodipine|isa|Dihydropyridine
+Arformoterol|has_disposition|Beta 2 adrenergic agonist
+Astemizole|isa|Benzimidazole
+Astemizole|isa|Piperidine derivative
+Astemizole|has_disposition|H1-receptor antagonist
+Atenolol|isa|Ethanolamine derivative
+Atenolol|isa|Monocarboxylic acid amide
+Acebutolol|isa|Ethanolamine derivative
+Atenolol|has_disposition|Beta 1 adrenergic antagonist
+Azatadine|isa|Benzocycloheptapyridine
+Azatadine|has_disposition|H1-receptor antagonist
+Azatadine maleate|isa|Maleate salt
+Azelastine|isa|Phthalazine derivative
+Azelastine|has_disposition|H1-receptor antagonist
+Azelastine|has_disposition|Platelet aggregation inhibitor
+Azelastine hydrochloride|isa|Hydrochloride
+(R)-azelastine|isa|Azelastine
+(S)-azelastine|isa|Azelastine
+(S)-azelastine|has_enantiomer|(R)-azelastine
+(R)-azelastine|has_enantiomer|(S)-azelastine
+Oxazolidinone|isa|Oxazolidine derivative
+Cephamycin|isa|Cephem
+Cefoxitin|isa|Cephamycin
+Cephapirin|isa|Cephalosporin
+Cephaloglycin|isa|Cephalosporin
+Ceftizoxime|isa|Cephalosporin
+Cefsulodin|isa|Cephalosporin
+Cefoperazone|isa|Cephalosporin
+Ceftizoxime(1-)|isa|Monocarboxylic acid anion
+Ceftizoxime(1-)|has_conjugate_acid|Ceftizoxime
+Ceftizoxime|has_conjugate_base|Ceftizoxime(1-)
+Ceftizoxime sodium|isa|Sodium salt
+Loracarbef|isa|Beta-lactam
+Oleandomycin|has_conjugate_acid|Oleandomycin(1+)
+Oleandomycin(1+)|has_conjugate_base|Oleandomycin
+Streptomycin|has_conjugate_acid|Streptomycin(3+)
+Streptomycin(3+)|has_conjugate_base|Streptomycin
+Carboxylic acid|has_conjugate_base|Carboxylic acid anion
+Carboxylic acid anion|has_conjugate_acid|Carboxylic acid
+Clavulanate|isa|Monocarboxylic acid anion
+Clavulanic acid|has_conjugate_base|Clavulanate
+Clavulanate|has_conjugate_acid|Clavulanic acid
+Sulfamoxole|isa|Sulfonamide
+Epicillin|isa|Penicillin
+Epicillin|has_functional_parent|Ampicillin
+Tetracycline|has_disposition|Protein synthesis inhibitor
+Lymecycline|isa|Tetracycline derivative
+Lymecycline|has_disposition|Protein synthesis inhibitor
+Sulfachlorpyridazine|isa|Sulfonamide
+Polymyxin|isa|Cyclic peptide
+Fosinopril|has_disposition|Angiotensin-converting enzyme inhibitor
+Fosinopril sodium|isa|Sodium salt
+Tamsulosin|isa|Sulfonamide
+Fosinopril(1-)|isa|Monocarboxylic acid anion
+Fosinopril|has_conjugate_base|Fosinopril(1-)
+Fosinopril(1-)|has_conjugate_acid|Fosinopril
+Sulfachlorpyridazine|isa|Chlorine compound
+Bambuterol|has_disposition|Beta 2 adrenergic agonist
+Bambuterol hydrochloride|isa|Hydrochloride
+Bambuterol|has_disposition|Sympathomimetic
+Bambuterol|isa|Ethanolamine derivative
+Bitolterol|isa|Ethanolamine derivative
+Bitolterol|isa|Carboxylic ester
+Bitolterol|has_disposition|Beta 2 adrenergic agonist
+Bitolterol mesylate|isa|Methanesulfonate salt
+Bitolterol mesylate|has_part|Bitolterol
+Bitolterol mesylate|isa|Carboxylic ester
+Bitolterol mesylate|isa|Alcohol
+Bromazine|isa|Bromine compound
+Bromazine|has_disposition|Muscarinic antagonist
+Bromazine|has_disposition|H1-receptor antagonist
+Bromazine hydrochloride|isa|Hydrochloride
+(R)-bambuterol|isa|Bambuterol
+(S)-bambuterol|isa|Bambuterol
+(S)-bambuterol|has_enantiomer|(R)-bambuterol
+(R)-bambuterol|has_enantiomer|(S)-bambuterol
+(R)-bambuterol hydrochloride|isa|Bambuterol hydrochloride
+(S)-bambuterol hydrochloride|isa|Bambuterol hydrochloride
+(S)-bambuterol hydrochloride|has_enantiomer|(R)-bambuterol hydrochloride
+(R)-bambuterol hydrochloride|has_enantiomer|(S)-bambuterol hydrochloride
+(R)-bitolterol|isa|Bitolterol
+(S)-bitolterol|isa|Bitolterol
+(S)-bitolterol|has_enantiomer|(R)-bitolterol
+(R)-bitolterol|has_enantiomer|(S)-bitolterol
+(R)-bitolterol mesylate|isa|Bitolterol mesylate
+(S)-bitolterol mesylate|isa|Bitolterol mesylate
+(S)-bitolterol mesylate|has_enantiomer|(R)-bitolterol mesylate
+(R)-bitolterol mesylate|has_enantiomer|(S)-bitolterol mesylate
+Bambuterol|has_functional_parent|Terbutaline
+Ceforanide|isa|Cephalosporin
+Cefotiam|isa|Cephalosporin
+Cefotiam dihydrochloride|isa|Hydrochloride
+Cefprozil|isa|Cephalosporin
+Cephapirin sodium|isa|Sodium salt
+Cephapirin(1-)|isa|Cephalosporin carboxylic acid anion
+Cephapirin(1-)|has_conjugate_acid|Cephapirin
+Cephapirin|has_conjugate_base|Cephapirin(1-)
+Betaxolol|has_disposition|Beta 1 adrenergic antagonist
+Betaxolol|isa|Propanolamine
+Betaxolol hydrochloride|isa|Hydrochloride
+Betaxolol hydrochloride|has_part|Betaxolol
+(R)-betaxolol|isa|Betaxolol
+(S)-betaxolol|isa|Betaxolol
+(S)-betaxolol|has_enantiomer|(R)-betaxolol
+(R)-betaxolol|has_enantiomer|(S)-betaxolol
+(S)-betaxolol hydrochloride|isa|Betaxolol hydrochloride
+(R)-betaxolol hydrochloride|isa|Betaxolol hydrochloride
+(S)-betaxolol hydrochloride|has_enantiomer|(R)-betaxolol hydrochloride
+(R)-betaxolol hydrochloride|has_enantiomer|(S)-betaxolol hydrochloride
+Brompheniramine|isa|Pyridine derivative
+Brompheniramine|has_disposition|H1-receptor antagonist
+Brompheniramine|isa|Bromine compound
+Dexbrompheniramine|isa|Brompheniramine
+Dexbrompheniramine|has_disposition|H1-receptor antagonist
+Brompheniramine maleate|isa|Maleate salt
+Dexbrompheniramine maleate|isa|Brompheniramine maleate
+(R)-bromazine|isa|Bromazine
+(S)-bromazine|isa|Bromazine
+(S)-bromazine|has_enantiomer|(R)-bromazine
+(R)-bromazine|has_enantiomer|(S)-bromazine
+(R)-bromazine hydrochloride|isa|Bromazine hydrochloride
+(S)-bromazine hydrochloride|isa|Bromazine hydrochloride
+(S)-bromazine hydrochloride|has_enantiomer|(R)-bromazine hydrochloride
+(R)-bromazine hydrochloride|has_enantiomer|(S)-bromazine hydrochloride
+Carbinoxamine|isa|Pyridine derivative
+Carbinoxamine|has_disposition|H1-receptor antagonist
+Carbinoxamine|has_disposition|Muscarinic antagonist
+Carbinoxamine maleate|isa|Maleate salt
+Cefixime|isa|Cephalosporin
+Cefdinir|isa|Cephalosporin
+Cefditoren|isa|Cephalosporin
+Cefditoren|isa|Carboxylic acid
+Cefditoren pivoxil|isa|Carboxylic ester
+Cefditoren pivoxil|has_functional_parent|Cefditoren
+Cefepime|isa|Cephalosporin
+Cefepime hydrochloride|isa|Hydrochloride
+Cefepime hydrochloride|isa|Hydrate
+Cefepime(1+)|isa|Cephalosporin
+Cefepime|has_conjugate_acid|Cefepime(1+)
+Cefepime(1+)|has_conjugate_base|Cefepime
+Cefotetan|isa|Cephalosporin
+Cefotetan disodium|isa|Sodium salt
+Cefotetan(2-)|isa|Dicarboxylic acid anion
+Cefotetan(2-)|has_conjugate_acid|Cefotetan
+Cefotetan|has_conjugate_base|Cefotetan(2-)
+Cefpodoxime|isa|Cephalosporin
+Cefpodoxime|isa|Carboxylic acid
+Cefpodoxime proxetil|isa|Carboxylic ester
+Cefpodoxime proxetil|has_functional_parent|Cefpodoxime
+Ceftibuten|isa|Cephalosporin
+Ceftibuten|isa|Dicarboxylic acid
+Cephalexin monohydrate|isa|Hydrate
+Cephalexin(1-)|isa|Cephalosporin carboxylic acid anion
+Cephalexin(1-)|has_conjugate_acid|Cephalexin
+Cephalexin|has_conjugate_base|Cephalexin(1-)
+Cerivastatin|isa|Pyridine derivative
+Cerivastatin|has_disposition|HMG-CoA reductase inhibitor
+Cerivastatin|isa|Monocarboxylic acid
+Cerivastatin sodium|isa|Sodium salt
+Cerivastatin(1-)|isa|Monocarboxylic acid anion
+Cerivastatin(1-)|has_conjugate_acid|Cerivastatin
+Cerivastatin|has_conjugate_base|Cerivastatin(1-)
+Cinoxacin|isa|Carboxylic acid
+Ciprofloxacin|has_disposition|Topoisomerase IV inhibitor
+Ciprofloxacin|has_disposition|Deoxyribonucleic acid topoisomerase (adenosine triphosphate-hydrolysing) inhibitor
+Clarithromycin|isa|Macrolide
+Clemastine|isa|N-alkylpyrrolidine derivative
+Clemastine|has_disposition|H1-receptor antagonist
+Clemastine|has_disposition|Muscarinic antagonist
+Clemastine fumarate|isa|Fumarate salt
+Clenbuterol|isa|Ethanolamine derivative
+Clenbuterol|has_disposition|Beta 2 adrenergic agonist
+Clenbuterol|has_disposition|Sympathomimetic
+(R)-clenbuterol|isa|Clenbuterol
+(S)-clenbuterol|isa|Clenbuterol
+(S)-clenbuterol|has_enantiomer|(R)-clenbuterol
+(R)-clenbuterol|has_enantiomer|(S)-clenbuterol
+Clomocycline|isa|Tetracycline derivative
+Clomocycline|has_disposition|Protein synthesis inhibitor
+Colistin|isa|Polymyxin
+Colistimethate sodium|has_functional_parent|Colistin
+Colistimethate sodium|isa|Sodium salt
+Colistimethate(5-)|isa|Anion
+Colistimethate|isa|Polymyxin
+Colistimethate(5-)|has_conjugate_acid|Colistimethate
+Colistimethate|has_conjugate_base|Colistimethate(5-)
+Colistimethate|has_functional_parent|Colistin
+Cyproheptadine|isa|Piperidine derivative
+Cyproheptadine|has_disposition|H1-receptor antagonist
+Cyproheptadine|has_disposition|Serotonergic antagonist
+Daptomycin|isa|Macrolide
+Daptomycin|isa|Cyclic peptide
+Demeclocycline|isa|Tetracycline derivative
+Demeclocycline hydrochloride|isa|Hydrochloride
+Desloratadine|isa|Benzocycloheptapyridine
+Desloratadine|has_disposition|H1-receptor antagonist
+Diltiazem hydrochloride|isa|Hydrochloride
+Diphenhydramine|has_disposition|H1-receptor antagonist
+Diphenhydramine|has_disposition|Muscarinic antagonist
+Diphenhydramine hydrochloride|isa|Hydrochloride
+Diphenhydramine hydrochloride|isa|Ammonium salt
+Dimenhydrinate|isa|Salt
+Dimenhydrinate|has_disposition|H1-receptor antagonist
+Diphenylpyraline|isa|Piperidine derivative
+Diphenylpyraline|has_disposition|H1-receptor antagonist
+Diphenylpyraline|has_disposition|Cholinergic antagonist
+Diphenylpyraline hydrochloride|isa|Hydrochloride
+Dirithromycin|isa|Macrolide
+Emedastine|isa|Benzimidazole
+Emedastine|has_disposition|H1-receptor antagonist
+Emedastine difumarate|isa|Fumarate salt
+Enalapril|isa|Carboxylic ester
+Enalapril|isa|Dipeptide
+Enalapril|has_disposition|Angiotensin-converting enzyme inhibitor
+Enalapril maleate|isa|Maleate salt
+Enalaprilat|isa|Dicarboxylic acid
+Enalaprilat|isa|Dipeptide
+Enalapril|has_functional_parent|Enalaprilat
+Enalaprilat|has_disposition|Angiotensin-converting enzyme inhibitor
+Enoxacin|isa|Monocarboxylic acid
+Enoxacin|has_disposition|DNA synthesis inhibitor
+Dihydroergocornine|isa|Ergot alkaloid
+Dihydroergocristine|isa|Ergot alkaloid
+Dihydroergocristine mesylate|isa|Methanesulfonate salt
+Dihydroergocristine mesylate|has_part|Dihydroergocristine
+Dihydroergocristine|has_disposition|Adrenergic antagonist
+Dihydro-alpha-ergocryptine|isa|Ergot alkaloid
+Dihydro-alpha-ergocryptine mesylate|isa|Methanesulfonate salt
+Dihydro-beta-ergocryptine mesylate|isa|Methanesulfonate salt
+Dihydro-beta-ergocryptine|isa|Ergot alkaloid
+Ciprofloxacin dihydrochloride|isa|Hydrochloride
+Ciprofloxacin dihydrochloride|has_disposition|Topoisomerase IV inhibitor
+Clarithromycin|has_disposition|Protein synthesis inhibitor
+Ertapenem|isa|Monocarboxylic acid
+Ertapenem|isa|Pyrrolidinecarboxamide
+Ertapenem sodium|isa|Sodium salt
+Ertapenem(1-)|isa|Carboxylic acid anion
+Ertapenem(1-)|has_conjugate_acid|Ertapenem
+Ertapenem|has_conjugate_base|Ertapenem(1-)
+Esmolol|isa|Carboxylic ester
+Esmolol|isa|Ethanolamine derivative
+Esmolol|has_disposition|Beta 1 adrenergic antagonist
+Esmolol hydrochloride|isa|Hydrochloride
+Ethambutol|isa|Ethanolamine derivative
+Ethylenediamine derivative|isa|Molecule
+Ethylenediamine derivative|isa|Ethylenediamine derivative
+Ethambutol dihydrochloride|isa|Hydrochloride
+Viomycin(3+)|has_conjugate_base|Viomycin
+Viomycin|has_conjugate_acid|Viomycin(3+)
+Viomycin(3+)|isa|Cation
+Viomycin|isa|Cyclic peptide
+Practolol|isa|Propanolamine
+Atenolol|isa|Propanolamine
+Acebutolol|isa|Propanolamine
+Propranolol|isa|Propanolamine
+Practolol|isa|Ethanolamine derivative
+Practolol|isa|Alcohol
+Practolol|has_disposition|Beta 1 adrenergic antagonist
+Norfloxacin|isa|Monocarboxylic acid
+Norfloxacin|isa|Piperazine derivative
+Norfloxacin|isa|Quinolone
+Norfloxacin|has_disposition|DNA synthesis inhibitor
+Sulfisoxazole|has_functional_parent|Sulfanilamide
+Sulfisoxazole|isa|Sulfonamide
+Lomefloxacin|isa|Quinolone
+Lomefloxacin|isa|Piperazine derivative
+Lomefloxacin|isa|Monocarboxylic acid
+Oleandomycin(1+)|isa|Ammonium ion
+Felodipine|isa|Dihydropyridine
+Fenoterol|isa|Alcohol
+Fenoterol|has_disposition|Sympathomimetic
+Fenoterol|has_disposition|Beta 2 adrenergic agonist
+Fenoterol hydrobromide|isa|Bromide salt
+Fenoterol hydrobromide|has_part|Fenoterol
+Nalidixic acid|isa|Monocarboxylic acid
+Nalidixic acid|has_disposition|DNA synthesis inhibitor
+Streptomycin(3+)|isa|Cation
+Lomefloxacin hydrochloride|isa|Hydrochloride
+Doxycycline monohydrate|isa|Hydrate
+Doxycycline hyclate|isa|Hydrate
+Tigecycline|isa|Tetracycline derivative
+Metipranolol|isa|Propanolamine
+Metipranolol|has_disposition|Nonselective beta adrenergic antagonist
+Metipranolol|isa|Ether derivative
+Metipranolol hydrochloride|isa|Hydrochloride
+(S)-timolol hemihydrate|isa|Hydrate
+(S)-timolol maleate|isa|Maleate salt
+Diphenhydramine|isa|Ether derivative
+Tubulin modulator|isa|Disposition
+Cyclizine|has_disposition|H1-receptor antagonist
+Angiotensin receptor antagonist|isa|Hormone antagonist
+Losartan|isa|Imidazole
+Losartan|has_disposition|Angiotensin II receptor antagonist
+Clenbuterol|isa|Amino alcohol
+Buclizine(2+)|isa|Ammonium ion
+Buclizine|has_conjugate_acid|Buclizine(2+)
+Buclizine(2+)|has_conjugate_base|Buclizine
+Buclizine dihydrochloride|isa|Hydrochloride
+Carteolol(1+)|isa|Ammonium ion
+Carteolol|has_conjugate_acid|Carteolol(1+)
+Carteolol(1+)|has_conjugate_base|Carteolol
+Promethazine(1+)|isa|Ammonium ion
+Promethazine|has_conjugate_acid|Promethazine(1+)
+Promethazine(1+)|has_conjugate_base|Promethazine
+Temocillin(2-)|isa|Dicarboxylic acid anion
+Levobunolol|isa|Propanolamine
+Apramycin|isa|Molecule
+Apramycin|isa|Aminoglycoside
+Peptide|isa|Amide
+Microtubule inhibitor|isa|Tubulin modulator
+Nalidixic acid anion|isa|Monocarboxylic acid anion
+Nalidixic acid anion|has_conjugate_acid|Nalidixic acid
+Nalidixic acid|has_conjugate_base|Nalidixic acid anion
+Acebutolol|has_conjugate_acid|Acebutolol(1+)
+Acebutolol(1+)|has_conjugate_base|Acebutolol
+Acebutolol(1+)|isa|Ammonium ion
+Acebutolol|has_disposition|Sympathomimetic
+Acebutolol|isa|Ether derivative
+Cefpodoxime proxetil|isa|Cephalosporin
+Cefpodoxime proxetil|isa|Carboxylic acid
+Tobramycin|isa|Amino cyclitol glycoside
+Epinastine|isa|Guanidine derivative
+Chlorobenzene derivative|isa|Benzene derivative
+Peptide|isa|Molecule
+Sulfathiazole|isa|Sulfonamide
+Mandelic acid|isa|Benzene derivative
+Arformoterol|isa|Phenol derivative
+(S,S)-formoterol|isa|Phenol derivative
+(S,S)-formoterol|has_enantiomer|Arformoterol
+Arformoterol|has_enantiomer|(S,S)-formoterol
+Arformoterol(1+)|isa|Ammonium ion
+Arformoterol(1+)|isa|Cation
+Arformoterol(1+)|has_conjugate_base|Arformoterol
+Arformoterol|has_conjugate_acid|Arformoterol(1+)
+Arformoterol fumarate|isa|Fumarate salt
+Arformoterol fumarate|has_part|Arformoterol(1+)
+(S,S)-formoterol fumarate|isa|Fumarate salt
+Arformoterol fumarate|has_enantiomer|(S,S)-formoterol fumarate
+(S,S)-formoterol fumarate|has_enantiomer|Arformoterol fumarate
+(S,S)-formoterol(1+)|isa|Ammonium ion
+(S,S)-formoterol(1+)|has_enantiomer|Arformoterol(1+)
+Arformoterol(1+)|has_enantiomer|(S,S)-formoterol(1+)
+(S,S)-formoterol(1+)|has_conjugate_base|(S,S)-formoterol
+(S,S)-formoterol|has_conjugate_acid|(S,S)-formoterol(1+)
+(S,S)-formoterol(1+)|isa|Cation
+Formoterol|has_disposition|Beta 2 adrenergic agonist
+(S,S)-formoterol fumarate|has_part|(S,S)-formoterol(1+)
+Cefodizime|isa|Cephalosporin
+Cefuroxime|isa|Furan
+Cefotaxime|isa|Thiazole
+Cefodizime|isa|Thiazole
+Ceftriaxone|isa|Thiazole
+Cefuroxime|isa|Ether derivative
+Cefotaxime|isa|Ether derivative
+Cefodizime|isa|Ether derivative
+Ceftriaxone|isa|Ether derivative
+Cefepime|isa|Ether derivative
+Ceftazidime|isa|Ether derivative
+Rolitetracycline|isa|Tetracycline derivative
+Rolitetracycline|has_disposition|Protein synthesis inhibitor
+Methacycline|isa|Tetracycline derivative
+Epinastine|isa|Benzazepine derivative
+Levofloxacin|isa|Ofloxacin
+Ofloxacin|isa|N-alkylpiperazine derivative
+Ofloxacin|isa|Piperazine derivative
+Ofloxacin|isa|Monocarboxylic acid
+Levofloxacin|has_disposition|DNA synthesis inhibitor
+Levofloxacin|has_disposition|Topoisomerase IV inhibitor
+Sotalol|isa|Ethanolamine derivative
+Sotalol|isa|Alcohol
+Sotalol|isa|Sulfonamide
+Sotalol|has_disposition|Nonselective beta adrenergic antagonist
+Sotalol hydrochloride|isa|Hydrochloride
+Sotalol(1+)|isa|Ammonium ion
+Sotalol|has_conjugate_acid|Sotalol(1+)
+Sotalol(1+)|has_conjugate_base|Sotalol
+Pravastatin|isa|Monocarboxylic acid
+Pravastatin|isa|Carboxylic ester
+Pravastatin|isa|Alcohol
+Pravastatin|has_disposition|HMG-CoA reductase inhibitor
+Pravastatin sodium|isa|Sodium salt
+Pravastatin(1-)|isa|Monocarboxylic acid anion
+Pravastatin(1-)|has_conjugate_acid|Pravastatin
+Pravastatin|has_conjugate_base|Pravastatin(1-)
+Linezolid|isa|Oxazolidinone
+Linezolid|has_disposition|Protein synthesis inhibitor
+Moxifloxacin|isa|Monocarboxylic acid
+Moxifloxacin|isa|Quinolone
+Moxifloxacin|isa|Ether derivative
+Moxifloxacinium(1+)|isa|Ammonium ion
+Moxifloxacinium(1+)|isa|Cation
+Moxifloxacin|has_conjugate_acid|Moxifloxacinium(1+)
+Moxifloxacinium(1+)|has_conjugate_base|Moxifloxacin
+Moxifloxacin hydrochloride|isa|Hydrochloride
+Tinidazole|isa|Imidazole
+Monocarboxylic acid|has_conjugate_base|Monocarboxylic acid anion
+Monocarboxylic acid anion|has_conjugate_acid|Monocarboxylic acid
+Sulfacetamide|has_functional_parent|Sulfanilamide
+Sulfacetamide|isa|Sulfonamide
+Sulfacetamide(1-)|isa|Anion
+Sulfacetamide|has_conjugate_base|Sulfacetamide(1-)
+Sulfacetamide(1-)|has_conjugate_acid|Sulfacetamide
+Sulfacetamide sodium|isa|Sodium salt
+Sulfacetamide sodium|isa|Hydrate
+Nimodipine|isa|Dihydropyridine
+(S)-salmeterol|isa|Ether derivative
+(R)-salmeterol|isa|Ether derivative
+(S)-salmeterol|has_enantiomer|(R)-salmeterol
+(R)-salmeterol|has_enantiomer|(S)-salmeterol
+Thiostrepton|isa|Cyclic peptide
+Thiostrepton|has_disposition|Protein synthesis inhibitor
+Isoprenaline|has_disposition|Sympathomimetic
+Isoprenaline|isa|Alcohol
+Isoprenaline|has_disposition|Nonselective beta adrenergic agonist
+Posaconazole|isa|Triazole
+Posaconazole|isa|Piperazine derivative
+Posaconazole|isa|Ether derivative
+Pizotifen maleate|isa|Maleate salt
+Pizotifen|isa|Piperidine derivative
+Pizotifen|has_conjugate_acid|Pizotifen(1+)
+Pizotifen(1+)|isa|Ammonium ion
+Pizotifen malate|isa|Malate salt
+Organosulfonate salt|isa|Salt
+Methanesulfonate salt|isa|Organosulfonate salt
+Amlodipine besilate|isa|Organosulfonate salt
+Metronidazole|isa|Alcohol
+Metronidazole(1+)|isa|Cation
+Metronidazole(1+)|has_conjugate_base|Metronidazole
+Metronidazole|has_conjugate_acid|Metronidazole(1+)
+Metronidazole hydrochloride|has_part|Metronidazole(1+)
+Mitotic inhibitor|isa|Disposition
+Microtubule inhibitor|isa|Mitotic inhibitor
+Azelastine|has_disposition|Oxidoreductase inhibitor
+Neamine(4+)|isa|Ammonium ion
+Neamine(4+)|isa|Cation
+Neamine(4+)|has_conjugate_base|Neamine
+Neamine|has_conjugate_acid|Neamine(4+)
+Butirosin|isa|Amino cyclitol glycoside
+Neomycin C(6+)|isa|Ammonium ion
+Neomycin C(6+)|isa|Cation
+Neomycin C(6+)|has_conjugate_base|Neomycin C
+Neomycin C|has_conjugate_acid|Neomycin C(6+)
+Cetirizine|has_disposition|H1-receptor antagonist
+Ergot alkaloid|isa|Molecular entity
+Mirabegron|isa|Thiazole
+Mirabegron|isa|Amide
+Mirabegron|isa|Ethanolamine derivative
+Mirabegron|has_disposition|Beta 3 adrenergic agonist
+Dicarboxylic acid anion|has_conjugate_acid|Dicarboxylic acid
+Dicarboxylic acid|has_conjugate_base|Dicarboxylic acid anion
+Penicillin|has_conjugate_base|Penicillinate anion
+Penicillinate anion|has_conjugate_acid|Penicillin
+Janus kinase inhibitor|isa|Tyrosine kinase inhibitor
+Sympatholytic|isa|Adrenergic
+Cefoxitin|isa|Cephalosporin
+Roxithromycin|isa|Macrolide
+Moxalactam|isa|Cephalosporin
+Amikacin|isa|Aminoglycoside
+Pivampicillin|isa|Penicillin
+Sulfamerazine|isa|Sulfonamide
+Gemifloxacin|isa|Quinolone
+Sulfamethazine|isa|Sulfonamide
+Sulfapyridine|isa|Sulfonamide
+Gatifloxacin|isa|Quinolone
+Desloratadine|has_disposition|Cholinergic antagonist
+Chlorphenamine|has_disposition|H1-receptor antagonist
+Chlorphenamine|has_disposition|Histamine antagonist
+Doxylamine|has_disposition|H1-receptor antagonist
+Esomeprazole|has_disposition|Histamine antagonist
+Esomeprazole|has_disposition|Proton pump inhibitor
+Valsartan|has_disposition|Angiotensin II receptor antagonist
+Candesartan|has_disposition|Angiotensin II receptor antagonist
+Telmisartan|has_disposition|Angiotensin II receptor antagonist
+Telmisartan|has_disposition|Angiotensin-converting enzyme inhibitor
+Bisoprolol|has_disposition|Sympatholytic
+Eprosartan|has_disposition|Angiotensin II receptor antagonist
+Ciprofloxacin|has_disposition|DNA synthesis inhibitor
+Carteolol|has_disposition|Sympatholytic
+Atenolol|has_disposition|Sympatholytic
+Pefloxacin|has_disposition|DNA synthesis inhibitor
+Rifampicin|has_disposition|DNA synthesis inhibitor
+Betaxolol|has_disposition|Sympatholytic
+Chloramphenicol|has_disposition|Protein synthesis inhibitor
+Ofloxacin|has_disposition|DNA synthesis inhibitor
+Cinnarizine|has_disposition|H1-receptor antagonist
+Streptomycin|has_disposition|Protein synthesis inhibitor
+Epinastine|has_disposition|H1-receptor antagonist
+Alprenolol|has_disposition|Sympatholytic
+Irbesartan|has_disposition|Angiotensin II receptor antagonist
+Labetalol|has_disposition|Sympatholytic
+Labetalol|has_disposition|Nonselective beta adrenergic antagonist
+Olmesartan|has_disposition|Angiotensin II receptor antagonist
+Tetrazole|isa|Azole
+Thiazole|isa|Azole
+Apoptosis inhibitor|isa|Disposition
+Nedocromil|isa|Dicarboxylic acid
+Bradykinin receptor antagonist|isa|Disposition
+Indacaterol maleate|isa|Maleate salt
+Indacaterol(1+)|isa|Ammonium ion
+Indacaterol(1+)|isa|Cation
+Indacaterol|isa|Quinolone
+Indacaterol|isa|Alcohol
+Indacaterol|has_disposition|Beta 2 adrenergic agonist
+Indacaterol|has_conjugate_acid|Indacaterol(1+)
+Indacaterol(1+)|has_conjugate_base|Indacaterol
+Fidaxomicin|isa|Macrolide
+Fidaxomicin|isa|Chlorine compound
+Fidaxomicin|isa|Carboxylic ester
+Fidaxomicin|isa|Phenol derivative
+Linagliptin|isa|Quinazoline
+Linagliptin|isa|Piperidine derivative
+Linagliptin|has_disposition|Dipeptidyl peptidase IV inhibitor
+Azilsartan medoxomil|isa|Benzimidazole
+Azilsartan medoxomil|isa|Dioxolane
+Azilsartan medoxomil|isa|Ether derivative
+Azilsartan medoxomil|has_disposition|Angiotensin II receptor antagonist
+Azilsartan medoxomil|isa|Carboxylic ester
+Azilsartan|isa|Benzimidazole
+Azilsartan|isa|Ether derivative
+Azilsartan|has_disposition|Angiotensin II receptor antagonist
+Ceftaroline fosamil|isa|Cephalosporin
+Ceftaroline fosamil|isa|Thiazole
+Ceftaroline fosamil|isa|Ether derivative
+Ceftaroline fosamil|isa|Thiadiazole derivative
+Topoisomerase IV inhibitor|isa|Topoisomerase inhibitor
+Deoxyribonucleic acid topoisomerase (adenosine triphosphate-hydrolysing) inhibitor|isa|Topoisomerase inhibitor
+Ceftaroline|isa|Thiazole
+Ceftaroline|isa|Cephalosporin
+Ceftaroline|isa|Ether derivative
+Ceftaroline|isa|Thiadiazole derivative
+Ceftaroline fosamil|has_functional_parent|Ceftaroline
+Salbutamol|has_disposition|Beta 2 adrenergic agonist
+Alcaftadine|isa|Aldehyde
+Alcaftadine|isa|Piperidine derivative
+Alcaftadine|has_disposition|H1-receptor antagonist
+Bepotastine besylate|isa|Organosulfonate salt
+Bepotastine(1+)|isa|Cation
+Bepotastine|isa|Pyridine derivative
+Bepotastine|isa|Monocarboxylic acid
+Bepotastine|isa|Piperidine derivative
+Bepotastine|isa|Ether derivative
+Bepotastine|has_disposition|H1-receptor antagonist
+Bepotastine|has_conjugate_acid|Bepotastine(1+)
+Bepotastine(1+)|has_conjugate_base|Bepotastine
+Isoquinoline|isa|Molecule
+Telavancin hydrochloride|isa|Hydrochloride
+Telavancin|has_functional_parent|Vancomycin
+Pitavastatin calcium|isa|Calcium salt
+Pitavastatin|isa|Monocarboxylic acid
+Pitavastatin|has_disposition|HMG-CoA reductase inhibitor
+Pitavastatin(1-)|isa|Monocarboxylic acid anion
+Pitavastatin(1-)|has_conjugate_acid|Pitavastatin
+Pitavastatin|has_conjugate_base|Pitavastatin(1-)
+Saxagliptin|isa|Aadamantane derivative
+Saxagliptin|isa|Nitrile
+Saxagliptin|isa|Azabicycloalkane
+Saxagliptin|isa|Alcohol
+Saxagliptin|has_disposition|Dipeptidyl peptidase IV inhibitor
+Fusidate|has_conjugate_acid|Fusidic acid
+Fusidic acid|has_conjugate_base|Fusidate
+Fusidate|isa|Steroid acid anion
+Minocycline(1-)|has_conjugate_acid|Minocycline
+Minocycline|has_conjugate_base|Minocycline(1-)
+Minocycline(1-)|isa|Anion
+Novobiocin(1-)|has_conjugate_acid|Novobiocin
+Novobiocin|has_conjugate_base|Novobiocin(1-)
+Novobiocin(1-)|isa|Anion
+Novobiocin|has_disposition|Deoxyribonucleic acid topoisomerase (adenosine triphosphate-hydrolysing) inhibitor
+Tetracycline(1-)|has_conjugate_acid|Tetracycline
+Tetracycline|has_conjugate_base|Tetracycline(1-)
+Tetracycline(1-)|isa|Anion
+Salbutamol|isa|Phenol derivative
+Alogliptin|isa|Nitrile
+Alogliptin|isa|Piperidine derivative
+Alogliptin|isa|Pyrimidine derivative
+Alogliptin|has_disposition|Dipeptidyl peptidase IV inhibitor
+Benzoate salt|isa|Salt
+Alogliptin benzoate|isa|Benzoate salt
+Alogliptin(1+)|isa|Ammonium ion
+Alogliptin(1+)|isa|Cation
+Alogliptin|has_conjugate_acid|Alogliptin(1+)
+Alogliptin(1+)|has_conjugate_base|Alogliptin
+Levobunolol|has_disposition|Nonselective beta adrenergic antagonist
+Levobunolol|isa|Ether derivative
+Levobunolol(1+)|isa|Ammonium ion
+Levobunolol(1+)|isa|Cation
+Levobunolol|has_conjugate_base|Levobunolol(1+)
+Levobunolol(1+)|has_conjugate_acid|Levobunolol
+Terbutaline|isa|Phenol derivative
+Terbutaline|has_disposition|Beta 2 adrenergic agonist
+Terbutaline|has_disposition|Sympathomimetic
+Sulfanilamide|has_disposition|Carbonic anhydrase inhibitor
+Sodium-glucose cotransporter subtype 2 inhibitor|isa|Disposition
+Fumagillin|isa|Carboxylic ester
+Fumagillin|isa|Ether derivative
+Chlorphenamine|has_disposition|Serotonin re-uptake inhibitor
+Tobramycin(5+)|isa|Ammonium ion
+Tobramycin(5+)|isa|Cation
+Tobramycin(5+)|has_conjugate_base|Tobramycin
+Tobramycin|has_conjugate_acid|Tobramycin(5+)
+Sulfadiazine|isa|Sulfonamide
+Sulfamethoxazole|has_disposition|Cytochrome P450 inhibitor
+Vilanterol|isa|Ether derivative
+Vilanterol|has_disposition|Beta 2 adrenergic agonist
+Vilanterol(1+)|isa|Cation
+Vilanterol(1+)|isa|Ammonium ion
+Vilanterol|has_conjugate_acid|Vilanterol(1+)
+Vilanterol(1+)|has_conjugate_base|Vilanterol
+Vilanterol trifenate|isa|Salt
+Vilanterol trifenate|has_part|Vilanterol(1+)
+BRAF inhibitor|isa|Protein kinase inhibitor
+Ornidazole|isa|Imidazole
+Ornidazole|isa|Alcohol
+Ornidazole|isa|Chlorine compound
+Rifaximin|isa|Rifamycin
+Rifaximin|isa|Lactam
+Pipemidic acid|isa|Monocarboxylic acid
+Pipemidic acid|isa|Piperazine derivative
+Enoxacin|isa|Piperazine derivative
+Pipemidic acid|has_disposition|DNA synthesis inhibitor
+Phentolamine|isa|Imidazole
+Phentolamine|isa|Phenol derivative
+Phenformin|has_functional_parent|Biguanide
+Nitrendipine|isa|Carboxylic ester
+Nitrendipine|isa|Dihydropyridine
+Isomerase inhibitor|isa|Enzyme inhibitor
+Vilanterol|isa|Phenol derivative
+Sitagliptin|has_disposition|Dipeptidyl peptidase IV inhibitor
+Fluconazole|has_disposition|Cytochrome P450 inhibitor
+Transferase inhibitor|isa|Enzyme inhibitor
+Protein kinase inhibitor|isa|Transferase inhibitor
+Oxidoreductase inhibitor|isa|Enzyme inhibitor
+Hydrolase inhibitor|isa|Enzyme inhibitor
+Alpha-glucoside inhibitor|isa|Hydrolase inhibitor
+Coagulation factor Xa inhibitor|isa|Hydrolase inhibitor
+Angiotensin-converting enzyme inhibitor|isa|Hydrolase inhibitor
+Dipeptidyl peptidase IV inhibitor|isa|Hydrolase inhibitor
+Pentosyltransferase inhibitor|isa|Transferase inhibitor
+Purine nucleoside phosphorylase inhibitor|isa|Pentosyltransferase inhibitor
+Esomeprazole|has_disposition|Monoamine oxidase inhibitor
+Nucleotidyltransferase inhibitor|isa|Transferase inhibitor
+Topoisomerase inhibitor|isa|Isomerase inhibitor
+HMG-CoA reductase inhibitor|isa|Oxidoreductase inhibitor
+Aromatase inhibitor|isa|Oxidoreductase inhibitor
+Prostaglandin-endoperoxide synthase inhibitor|isa|Oxidoreductase inhibitor
+Xanthine oxidase inhibitor|isa|Oxidoreductase inhibitor
+Monoamine oxidase inhibitor|isa|Oxidoreductase inhibitor
+Thymidylate synthase inhibitor|isa|Transferase inhibitor
+Cytochrome P450 inhibitor|isa|Oxidoreductase inhibitor
+Voriconazole|has_disposition|Cytochrome P450 inhibitor
+Carbonic anhydrase inhibitor|isa|Enzyme inhibitor
+Nisoldipine|has_disposition|Platelet aggregation inhibitor
+Nisoldipine|isa|Dihydropyridine
+(R)-nisoldipine|isa|Dihydropyridine
+(S)-nisoldipine|isa|Dihydropyridine
+Pathway inhibitor|isa|Enzyme inhibitor
+Protein synthesis inhibitor|isa|Pathway inhibitor
+Proton pump inhibitor|isa|Hydrolase inhibitor
+DNA synthesis inhibitor|isa|Pathway inhibitor
+Serine proteinase inhibitor|isa|Hydrolase inhibitor
+HIV-1 reverse transcriptase inhibitor|isa|Hydrolase inhibitor
+N-sulfonylurea|isa|Sulfonamide
+Acetohexamide|isa|N-sulfonylurea
+Chlorpropamide|isa|N-sulfonylurea
+Gliclazide|isa|N-sulfonylurea
+Glimepiride|isa|N-sulfonylurea
+Glyburide|isa|N-sulfonylurea
+Tolbutamide|isa|N-sulfonylurea
+Tolazamide|isa|N-sulfonylurea
+Vancomycin(1+)|isa|Cation
+Vancomycin|has_conjugate_acid|Vancomycin(1+)
+Vancomycin(1+)|has_conjugate_base|Vancomycin
+Tylosin(1+)|isa|Ammonium ion
+Tylosin(1+)|isa|Cation
+Tylosin(1+)|has_conjugate_base|Tylosin
+Tylosin|has_conjugate_acid|Tylosin(1+)
+Tylosin|isa|Aldehyde
+Glipizide|isa|N-sulfonylurea
+Esomeprazole|isa|Benzimidazole
+(R)-omeprazole|isa|Benzimidazole
+Esomeprazole|has_enantiomer|(R)-omeprazole
+(R)-omeprazole|has_enantiomer|Esomeprazole
+Esomeprazole(1-)|isa|Anion
+Esomeprazole(1-)|has_conjugate_acid|Esomeprazole
+Esomeprazole|has_conjugate_base|Esomeprazole(1-)
+Esomeprazole magnesium|has_part|Esomeprazole(1-)
+Cetirizine|isa|Piperazine derivative
+Rosuvastatin calcium|isa|Calcium salt
+Rosuvastatin|isa|Monocarboxylic acid
+Rosuvastatin(1-)|isa|Monocarboxylic acid anion
+Rosuvastatin(1-)|has_conjugate_acid|Rosuvastatin
+Rosuvastatin|has_conjugate_base|Rosuvastatin(1-)
+Spectinomycin dihydrochloride|isa|Hydrochloride
+Spectinomycin(2+)|isa|Cation
+Spectinomycin(2+)|isa|Ammonium ion
+Spectinomycin|has_conjugate_acid|Spectinomycin(2+)
+Spectinomycin(2+)|has_conjugate_base|Spectinomycin
+Ramiprilat|has_disposition|Angiotensin-converting enzyme inhibitor
+Ramiprilat|isa|Azabicycloalkane
+Ramiprilat|isa|Dipeptide
+Ramiprilat|isa|Dicarboxylic acid
+Ramipril|isa|Dipeptide
+Fenoterol|isa|Phenol derivative
+Trovafloxacin|isa|Monocarboxylic acid
+Trovafloxacin|isa|Azabicycloalkane
+Trovafloxacin|has_disposition|Topoisomerase IV inhibitor
+Trovafloxacin|has_disposition|DNA synthesis inhibitor
+Trovafloxacin mesylate|isa|Methanesulfonate salt
+Trovafloxacin mesylate|has_disposition|DNA synthesis inhibitor
+Trovafloxacin(1+)|isa|Ammonium ion
+Trovafloxacin(1+)|isa|Cation
+Trovafloxacin|has_conjugate_acid|Trovafloxacin(1+)
+Trovafloxacin(1+)|has_conjugate_base|Trovafloxacin
+Glipizide|isa|Amide
+Glipizide|isa|Monocarboxylic acid amide
+Mirabegron|isa|Monocarboxylic acid amide
+Fluvastatin sodium|isa|Sodium salt
+Acebutolol|isa|Monocarboxylic acid amide
+Acebutolol|isa|Amide
+Doxazosin|isa|Monocarboxylic acid amide
+Saxagliptin|isa|Monocarboxylic acid amide
+Prazosin|isa|Monocarboxylic acid amide
+Prazosin|isa|Ether derivative
+Oxiconazole|isa|Imidazole
+Oxiconazole|isa|Ether derivative
+Oxiconazole(1+)|isa|Cation
+Oxiconazole(1+)|has_conjugate_base|Oxiconazole
+Oxiconazole|has_conjugate_acid|Oxiconazole(1+)
+Oxiconazole nitrate|has_part|Oxiconazole(1+)
+Dexverapamil|isa|Nitrile
+(S)-verapamil|isa|Nitrile
+(S)-verapamil|has_enantiomer|Dexverapamil
+Dexverapamil|has_enantiomer|(S)-verapamil
+Dexverapamil(1+)|isa|Ammonium ion
+Dexverapamil(1+)|has_conjugate_base|Dexverapamil
+Dexverapamil|has_conjugate_acid|Dexverapamil(1+)
+(S)-verapamil(1+)|isa|Ammonium ion
+(S)-verapamil(1+)|has_conjugate_base|(S)-verapamil
+(S)-verapamil|has_conjugate_acid|(S)-verapamil(1+)
+(S)-verapamil(1+)|has_enantiomer|Dexverapamil(1+)
+Dexverapamil(1+)|has_enantiomer|(S)-verapamil(1+)
+Dexverapamil hydrochloride|isa|Hydrochloride
+(S)-verapamil hydrochloride|isa|Hydrochloride
+(S)-verapamil hydrochloride|has_enantiomer|Dexverapamil hydrochloride
+Dexverapamil hydrochloride|has_enantiomer|(S)-verapamil hydrochloride
+Verapamil hydrochloride|has_part|(S)-verapamil hydrochloride
+Dexverapamil|has_disposition|Hydrolase inhibitor
+(R)-sulconazole|isa|Imidazole
+(S)-sulconazole|isa|Imidazole
+(S)-sulconazole|has_enantiomer|(R)-sulconazole
+(R)-sulconazole|has_enantiomer|(S)-sulconazole
+Sulfaphenazole|isa|Sulfonamide
+Sulfaphenazole|has_disposition|Cytochrome P450 inhibitor
+Temafloxacin|has_disposition|Deoxyribonucleic acid topoisomerase (adenosine triphosphate-hydrolysing) inhibitor
+Perindopril|isa|Carboxylic ester
+Clemizole|has_disposition|Histamine antagonist
+(S)-tioconazole|isa|Imidazole
+(R)-tioconazole|isa|Imidazole
+Perindopril arginine|isa|Ammonium salt
+Perindopril arginine|has_part|L-argininium(1+)
+Perindopril|isa|Molecule
+Perindopril(1-)|isa|Monocarboxylic acid anion
+Perindopril|has_conjugate_base|Perindopril(1-)
+Perindopril(1-)|has_conjugate_acid|Perindopril
+Perindopril erbumine|has_part|Perindopril(1-)
+Perindopril arginine|has_part|Perindopril(1-)
+Sulfadimethoxine|isa|Sulfonamide
+Sulfadimethoxine|isa|Ether derivative
+Sulfate salt|isa|Salt
+Nizatidine|isa|Thiazole
+Nizatidine|has_disposition|H2-receptor antagonist
+Nizatidine|has_disposition|Cholinergic
+Mupirocin|isa|Monocarboxylic acid
+Mupirocin|isa|Ether derivative
+Mupirocin|isa|Alcohol
+Mupirocin|isa|Carboxylic ester
+(R)-bifonazole|isa|Imidazole
+(S)-bifonazole|isa|Imidazole
+(R)-bifonazole|has_enantiomer|(S)-bifonazole
+(S)-bifonazole|has_enantiomer|(R)-bifonazole
+Mupirocin|has_disposition|Protein synthesis inhibitor
+Fusidic acid|isa|Monocarboxylic acid
+Bleomycin hydrochloride|isa|Hydrochloride
+Steroid acid anion|isa|Carboxylic acid anion
+Sulfamethoxydiazine|isa|Sulfonamide
+Sulfamethoxypyridazine|isa|Sulfonamide
+Sulfisomidine|isa|Sulfonamide
+Zofenopril|isa|Ester
+Zofenopril|has_disposition|Angiotensin-converting enzyme inhibitor
+Zofenopril|has_disposition|Apoptosis inhibitor
+Zofenopril calcium|isa|Calcium salt
+Zofenopril calcium|has_disposition|Apoptosis inhibitor
+Zofenopril(1-)|isa|Monocarboxylic acid anion
+Zofenopril|has_conjugate_base|Zofenopril(1-)
+Zofenopril(1-)|has_conjugate_acid|Zofenopril
+Zofenopril calcium|has_part|Zofenopril(1-)
+Zofenoprilat|has_disposition|Apoptosis inhibitor
+Zofenoprilat|has_disposition|Angiotensin-converting enzyme inhibitor
+Zofenoprilat arginine|isa|Ammonium salt
+Zofenoprilat arginine|has_disposition|Apoptosis inhibitor
+Zofenoprilat(1-)|isa|Monocarboxylic acid anion
+Zofenoprilat arginine|has_part|Zofenoprilat(1-)
+Zofenoprilat|has_conjugate_base|Zofenoprilat(1-)
+Zofenoprilat(1-)|has_conjugate_acid|Zofenoprilat
+(R)-econazole nitrate|has_enantiomer|(S)-econazole nitrate
+(S)-econazole nitrate|has_enantiomer|(R)-econazole nitrate
+(S)-econazole|isa|Imidazole
+(S)-econazole nitrate|has_part|(S)-econazole
+(R)-econazole|isa|Imidazole
+(S)-econazole|has_enantiomer|(R)-econazole
+(R)-econazole|has_enantiomer|(S)-econazole
+(R)-econazole nitrate|has_part|(R)-econazole
+(R)-miconazole nitrate|has_enantiomer|(S)-miconazole nitrate
+(S)-miconazole nitrate|has_enantiomer|(R)-miconazole nitrate
+(R)-miconazole|isa|Imidazole
+(R)-miconazole nitrate|has_part|(R)-miconazole
+(S)-miconazole|isa|Imidazole
+(R)-miconazole|has_enantiomer|(S)-miconazole
+(S)-miconazole|has_enantiomer|(R)-miconazole
+(S)-miconazole nitrate|has_part|(S)-miconazole
+(2R,4S)-terconazole|isa|Triazole
+(2S,4R)-terconazole|isa|Triazole
+(2R,4S)-terconazole|has_enantiomer|(2S,4R)-terconazole
+(2S,4R)-terconazole|has_enantiomer|(2R,4S)-terconazole
+Olodaterol|isa|Phenol derivative
+Olodaterol|isa|Ether derivative
+Olodaterol|isa|Alcohol
+Olodaterol|has_disposition|Beta 2 adrenergic agonist
+Olodaterol hydrochloride|isa|Hydrochloride
+Tedizolid|isa|Pyridine derivative
+Tedizolid|isa|Tetrazole
+Tedizolid|isa|Oxazolidinone
+Tedizolid|isa|Alcohol
+Tedizolid|has_disposition|Protein synthesis inhibitor
+Efinaconazole|isa|Triazole
+Efinaconazole|isa|Piperidine derivative
+Efinaconazole|isa|Alcohol
+Efinaconazole|has_disposition|Oxidoreductase inhibitor
+(R)-orciprenaline|isa|Phenol derivative
+(S)-orciprenaline|isa|Phenol derivative
+(R)-orciprenaline|has_enantiomer|(S)-orciprenaline
+(S)-orciprenaline|has_enantiomer|(R)-orciprenaline
+(R)-orciprenaline sulfate|isa|Sulfate salt
+(S)-orciprenaline sulfate|isa|Sulfate salt
+(S)-orciprenaline sulfate|has_enantiomer|(R)-orciprenaline sulfate
+(R)-orciprenaline sulfate|has_enantiomer|(S)-orciprenaline sulfate
+(S)-orciprenaline(1+)|isa|Ammonium ion
+(S)-orciprenaline(1+)|isa|Cation
+(S)-orciprenaline sulfate|has_part|(S)-orciprenaline(1+)
+(S)-orciprenaline|has_conjugate_acid|(S)-orciprenaline(1+)
+(S)-orciprenaline(1+)|has_conjugate_base|(S)-orciprenaline
+(R)-orciprenaline(1+)|isa|Ammonium ion
+(R)-orciprenaline(1+)|isa|Cation
+(S)-orciprenaline(1+)|has_enantiomer|(R)-orciprenaline(1+)
+(R)-orciprenaline(1+)|has_enantiomer|(S)-orciprenaline(1+)
+(R)-orciprenaline sulfate|has_part|(R)-orciprenaline(1+)
+(R)-orciprenaline(1+)|has_conjugate_base|(R)-orciprenaline
+(R)-orciprenaline|has_conjugate_acid|(R)-orciprenaline(1+)
+Chlorobenzene derivative|isa|Chlorine compound
+Felodipine|isa|Benzene derivative
+Ketoconazole|isa|Benzene derivative
+Clenbuterol|isa|Benzene derivative
+Dicloxacillin|isa|Benzene derivative
+Itraconazole|isa|Benzene derivative
+Oxiconazole|isa|Benzene derivative
+Vilanterol|isa|Benzene derivative
+Monochlorobenzene derivative|isa|Chlorobenzene derivative
+Amlodipine|isa|Monochlorobenzene derivative
+Azelastine|isa|Monochlorobenzene derivative
+Carbinoxamine|isa|Monochlorobenzene derivative
+Oxytetracycline|has_disposition|Protein synthesis inhibitor
+Bepotastine|isa|Monochlorobenzene derivative
+Buclizine|isa|Monochlorobenzene derivative
+Cetirizine|isa|Monochlorobenzene derivative
+Chlorpropamide|isa|Monochlorobenzene derivative
+Clemastine|isa|Monochlorobenzene derivative
+Clemizole|isa|Monochlorobenzene derivative
+Clofazimine|isa|Monochlorobenzene derivative
+Clotrimazole|isa|Monochlorobenzene derivative
+Chlorphenamine|isa|Monochlorobenzene derivative
+Glyburide|isa|Monochlorobenzene derivative
+Hydroxyzine|isa|Monochlorobenzene derivative
+Cetirizine|isa|Ether derivative
+Clindamycin|isa|Chlorine compound
+Clindamycin|has_functional_parent|Lincomycin
+Eprosartan|isa|Dicarboxylic acid
+Eprosartan|isa|Imidazole
+Eprosartan|isa|Thiophene
+Pantoprazole|isa|Pyridine derivative
+Pantoprazole|isa|Ether derivative
+Telmisartan|isa|Benzimidazole
+Atorvastatin|isa|Amide
+Sitagliptin|isa|Benzene derivative
+Fluconazole|isa|Benzene derivative
+(R)-eberconazole|isa|Imidazole
+(S)-eberconazole|isa|Imidazole
+(R)-eberconazole|has_enantiomer|(S)-eberconazole
+(S)-eberconazole|has_enantiomer|(R)-eberconazole
+(S)-eberconazole(1+)|isa|Cation
+(S)-eberconazole nitrate|has_part|(S)-eberconazole(1+)
+(S)-eberconazole(1+)|has_conjugate_base|(S)-eberconazole
+(S)-eberconazole|has_conjugate_acid|(S)-eberconazole(1+)
+(R)-eberconazole(1+)|isa|Cation
+(R)-eberconazole(1+)|has_enantiomer|(S)-eberconazole(1+)
+(S)-eberconazole(1+)|has_enantiomer|(R)-eberconazole(1+)
+(R)-eberconazole|has_conjugate_acid|(R)-eberconazole(1+)
+(R)-eberconazole(1+)|has_conjugate_base|(R)-eberconazole
+Imidazole|isa|Benzene derivative
+Imidazole|isa|Ether derivative
+(S)-fenticonazole|isa|Imidazole
+(R)-fenticonazole|isa|Imidazole
+(S)-fenticonazole|has_enantiomer|(R)-fenticonazole
+(R)-fenticonazole|has_enantiomer|(S)-fenticonazole
+(S)-fenticonazole nitrate|has_enantiomer|(R)-fenticonazole nitrate
+(R)-fenticonazole nitrate|has_enantiomer|(S)-fenticonazole nitrate
+(R)-fenticonazole(1+)|isa|Cation
+(R)-fenticonazole(1+)|has_conjugate_base|(R)-fenticonazole
+(R)-fenticonazole|has_conjugate_acid|(R)-fenticonazole(1+)
+(S)-fenticonazole(1+)|isa|Cation
+(R)-fenticonazole(1+)|has_enantiomer|(S)-fenticonazole(1+)
+(S)-fenticonazole(1+)|has_enantiomer|(R)-fenticonazole(1+)
+(S)-fenticonazole nitrate|has_part|(S)-fenticonazole(1+)
+(S)-fenticonazole|has_conjugate_acid|(S)-fenticonazole(1+)
+(S)-fenticonazole(1+)|has_conjugate_base|(S)-fenticonazole
+Flutrimazole|isa|Imidazole
+Flutrimazole|has_disposition|Oxidoreductase inhibitor
+(R)-isoconazole|isa|Imidazole
+(S)-isoconazole|isa|Imidazole
+(R)-isoconazole|has_enantiomer|(S)-isoconazole
+(S)-isoconazole|has_enantiomer|(R)-isoconazole
+(R)-isoconazole nitrate|has_enantiomer|(S)-isoconazole nitrate
+(S)-isoconazole nitrate|has_enantiomer|(R)-isoconazole nitrate
+(S)-isoconazole(1+)|isa|Cation
+(S)-isoconazole nitrate|has_part|(S)-isoconazole(1+)
+(S)-isoconazole|has_conjugate_acid|(S)-isoconazole(1+)
+(S)-isoconazole(1+)|has_conjugate_base|(S)-isoconazole
+(R)-isoconazole(1+)|isa|Cation
+(S)-isoconazole(1+)|has_enantiomer|(R)-isoconazole(1+)
+(R)-isoconazole(1+)|has_enantiomer|(S)-isoconazole(1+)
+(R)-isoconazole|has_conjugate_acid|(R)-isoconazole(1+)
+(R)-isoconazole(1+)|has_conjugate_base|(R)-isoconazole
+(S)-sertaconazole|isa|Imidazole
+Arasertaconazole|isa|Imidazole
+Arasertaconazole|has_enantiomer|(S)-sertaconazole
+(S)-sertaconazole|has_enantiomer|Arasertaconazole
+Arasertaconazole|has_disposition|Oxidoreductase inhibitor
+Arasertaconazole nitrate|has_enantiomer|(S)-sertaconazole nitrate
+(S)-sertaconazole nitrate|has_enantiomer|Arasertaconazole nitrate
+(S)-sertaconazole(1+)|isa|Cation
+(S)-sertaconazole nitrate|has_part|(S)-sertaconazole(1+)
+(S)-sertaconazole(1+)|has_conjugate_base|(S)-sertaconazole
+(S)-sertaconazole|has_conjugate_acid|(S)-sertaconazole(1+)
+Valsartan|isa|Monocarboxylic acid amide
+Valsartan|isa|Monocarboxylic acid
+Acrivastine|isa|Monocarboxylic acid
+Acrivastine|isa|Pyridine derivative
+Acrivastine|isa|N-alkylpyrrolidine derivative
+Acrivastine|has_disposition|H1-receptor antagonist
+Triprolidine|isa|N-alkylpyrrolidine derivative
+Triprolidine|isa|Pyridine derivative
+Triprolidine|has_disposition|H1-receptor antagonist
+Triprolidine(1+)|has_conjugate_base|Triprolidine
+Triprolidine|has_conjugate_acid|Triprolidine(1+)
+Triprolidine(1+)|isa|Ammonium ion
+Triprolidine hydrochloride|isa|Hydrochloride
+Triprolidine(1+)|has_disposition|H1-receptor antagonist
+Proline derivative|isa|Molecular entity
+Zofenopril|isa|Proline derivative
+Zofenoprilat|isa|Proline derivative
+Fosinopril|isa|Proline derivative
+Captopril|isa|Proline derivative
+Lincomycin|isa|Proline derivative
+Disposition|isa|Realizable entity
+Amikacin(4+)|isa|Ammonium ion
+Amikacin|has_conjugate_acid|Amikacin(4+)
+Amikacin(4+)|has_conjugate_base|Amikacin
+Neomycin sulfate|isa|Sulfate salt
+Spectinomycin|isa|Aminoglycoside
+Aminoglycoside|isa|Molecule
+Amino cyclitol glycoside|isa|Molecule
+Pyridine derivative|isa|Molecule
+Carboxylic acid|isa|Molecule
+Histaminergic|isa|Disposition
+Piperidine derivative|isa|Molecule
+Aldehyde|isa|Molecule
+Benzocycloheptapyridine|isa|Molecule
+Platelet aggregation inhibitor|isa|Disposition
+Ether derivative|isa|Molecule
+Pyrrolidine derivative|isa|Molecule
+Piperazine derivative|isa|Molecule
+Guanidine derivative|isa|Molecule
+Phenothiazine derivative|isa|Molecule
+Sodium salt|isa|Salt
+Cyproheptadine hydrochloride|isa|Hydrochloride
+Hydroxyzine pamoate|isa|Salt
+Thiadiazole derivative|isa|Molecule
+Lactam|isa|Molecule
+Penicillin|isa|Beta-lactam
+Macrolide|isa|Molecule
+Hydrate|isa|Heteroatomic molecular entity
+Fourth generation cephalosporin|isa|Cephalosporin
+Third generation cephalosporin|isa|Cephalosporin
+Second generation cephalosporin|isa|Cephalosporin
+First generation cephalosporin|isa|Cephalosporin
+Azole|isa|Molecule
+Ertapenem|isa|Carbapenem
+Meropenem|isa|Carbapenem
+Triazine derivative|isa|Molecule
+Oleandomycin|isa|Macrolide
+Erythromycin|isa|Macrolide
+Ester|isa|Molecule
+Oxazolidine derivative|isa|Molecule
+Temafloxacin|isa|Carboxylic acid
+Verapamil hydrochloride|isa|Hydrochloride
+Alpha 1 adrenergic antagonist|isa|Alpha adrenergic antagonist
+Alpha 2 adrenergic antagonist|isa|Alpha adrenergic antagonist
+Nonselective alpha adrenergic antagonist|isa|Alpha adrenergic antagonist
+Alpha adrenergic antagonist|isa|Adrenergic antagonist
+Triazole|isa|Azole
+(S)-econazole nitrate|isa|Nitrate salt
+(R)-econazole nitrate|isa|Nitrate salt
+Nitrate salt|isa|Salt
+(S)-fenticonazole nitrate|isa|Nitrate salt
+(R)-fenticonazole nitrate|isa|Nitrate salt
+(S)-isoconazole nitrate|isa|Nitrate salt
+(R)-isoconazole nitrate|isa|Nitrate salt
+(S)-miconazole nitrate|isa|Nitrate salt
+(R)-miconazole nitrate|isa|Nitrate salt
+(R)-tioconazole|has_enantiomer|(S)-tioconazole
+(S)-tioconazole|has_enantiomer|(R)-tioconazole
+(R)-eberconazole nitrate|has_part|(R)-eberconazole(1+)
+(R)-eberconazole nitrate|isa|Nitrate salt
+(S)-eberconazole nitrate|isa|Nitrate salt
+(S)-sertaconazole nitrate|isa|Nitrate salt
+Arasertaconazole nitrate|isa|Nitrate salt
+Arasertaconazole(1+)|isa|Cation
+Arasertaconazole(1+)|has_enantiomer|(S)-sertaconazole(1+)
+Arasertaconazole(1+)|has_conjugate_base|Arasertaconazole
+Arasertaconazole|has_conjugate_acid|Arasertaconazole(1+)
+Oxiconazole nitrate|isa|Nitrate salt
+Ammonium salt|isa|Salt
+Benazepril|isa|Carboxylic acid
+Ramipril|isa|Carboxylic acid
+Enalaprilat|isa|Carboxylic acid
+Fumagillin|isa|Carboxylic acid
+Perindopril|isa|Carboxylic acid
+Beta 1 adrenergic agonist|isa|Beta adrenergic agonist
+Beta 2 adrenergic agonist|isa|Beta adrenergic agonist
+Nonselective beta adrenergic agonist|isa|Beta adrenergic agonist
+(R)-orciprenaline sulfate|isa|Ammonium salt
+Angiotensin II receptor antagonist|isa|Angiotensin receptor antagonist
+Candesartan|isa|Carboxylic acid
+Azilsartan|isa|Carboxylic acid
+Beta 3 adrenergic agonist|isa|Beta adrenergic agonist
+Antipseudomonal penicillin|isa|Penicillin
+Broad spectrum penicillin|isa|Penicillin
+Extended spectrum penicillin|isa|Penicillin
+Natural penicillin|isa|Penicillin
+Penicillinase sensitive penicillin|isa|Penicillin
+Penicillinase-resistant penicillin|isa|Penicillin
+Beta 1 adrenergic antagonist|isa|Beta adrenergic antagonist
+Beta 2 adrenergic antagonist|isa|Beta adrenergic antagonist
+Nonselective beta adrenergic antagonist|isa|Beta adrenergic antagonist

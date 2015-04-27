@@ -1,0 +1,1623 @@
+79cefc1e-c2ed-4cdb-b549-33526b7d6956|Anion|isa|Ion
+ba902807-20c1-40ca-b935-9abe7926a406|Cation|isa|Ion
+11dd2d8a-47a2-4ed1-9f00-aec3c5bfe2e5|Dicarboxylic acid|isa|Carboxylic acid
+400a8dfb-30a0-464d-be0f-302677269158|Monocarboxylic acid|isa|Carboxylic acid
+cc1817bd-24c0-4477-a899-c7d4abe5206a|Amino alcohol|isa|Alcohol
+602f428c-f21b-4ed1-8072-e3e87ff048b6|Ethanolamine derivative|isa|Amino alcohol
+e1f03768-61f5-4258-8475-73958e2494c6|Trimethobenzamide|isa|Benzamide derivative
+858b5469-e593-4c6c-b34d-829e97f1dd3f|Beta-lactam|isa|Lactam
+a3bc864f-8f16-49dd-a921-ade50dbe9e0e|Ampicillin|isa|Beta-lactam
+a31fe793-5dc9-4877-be4c-6ffc274dfcfa|Benzylpenicillin|isa|Penicillin
+9e1ae3fb-031d-4150-99f8-7f3f7cf37b85|Phenoxymethylpenicillin|isa|Penicillin
+12573e8a-3962-4bf0-a37c-134992b26f3b|Amino cyclitol glycoside|isa|Amino cyclitol glycoside
+0198fcef-7dc3-432e-b40f-432645f76596|Gentamicin|isa|Amino cyclitol glycoside
+965bd47d-847d-4242-a53a-741eb11be29d|Gentamicin|isa|Aminoglycoside
+13f31ebd-dee7-4458-a274-a76afe734b53|Kanamycin|isa|Amino cyclitol glycoside
+3b876924-c45d-4ad9-be70-2f8794070ffc|Kanamycin|isa|Aminoglycoside
+727874c1-aa38-427d-8f91-8e12a8dd0a4b|Carboxylic ester|isa|Ester
+60128a7a-c07f-4398-97de-b3c8a90ea803|Imidazole|isa|Azole
+44f7e542-77cb-4e99-a163-59c362e214f5|Tolazoline|isa|Imidazole
+4a0eafe4-45a5-469f-9baa-57e83c026a83|Indole derivative|isa|Molecule
+debff50c-c5e5-485b-aca2-c99681510d8d|Quinolone|isa|Molecule
+4f378a0a-9950-4500-91a1-2e41c6edef41|Tetracycline derivative|isa|Molecule
+d0ab4c73-3f52-44ed-b271-4433b68221bd|Oxytetracycline|isa|Tetracycline derivative
+d7bd1190-7b2a-4b58-816c-c92d39306154|Tetracycline|isa|Tetracycline derivative
+8dc58ac2-01f1-4e3b-b27e-1ef175e4b9be|Cyclic peptide|isa|Peptide
+9a1ced3d-35bb-491c-847c-ecc37dd287b7|Rifampicin|isa|Rifamycin
+59f8b857-39f0-44c2-9060-fbf81fb45e24|Ion|isa|Molecular entity
+5bf7edaa-3817-475c-b7f0-ab9c31808602|Alcohol|isa|Molecule
+fba94293-0e0f-492e-8142-9029d9dcbafd|Phenol derivative|isa|Molecule
+4e67cb02-6138-4ec7-843f-71ff3bb04cf7|Bromide salt|isa|Salt
+a98b21e5-f241-4a4f-93f7-be7cf37873b5|Chloride salt|isa|Salt
+6437c29f-638a-4335-8a34-085d9354e53e|Carboxylic acid anion|isa|Anion
+f8618dd8-c0ee-40d8-a453-a5732e63f3a9|Enzyme inhibitor|isa|Disposition
+3ad92f5c-2ad1-4b24-b6f2-7910a1858c03|Streptomycin|isa|Aminoglycoside
+9e51fd1f-e047-4a32-98f4-22fa49cf5e5d|Streptomycin|isa|Amino cyclitol glycoside
+ddf17863-5ea2-47a8-97ba-5e53d0aa2e0e|Cyanide derivative|isa|Molecule
+9e7cf26e-5e41-4229-8b12-6375ed2128dd|Nitrile|isa|Cyanide derivative
+0a7af9ca-5f5c-48de-b32b-73792b3ea582|Sulfanilamide|isa|Sulfonamide
+d3477204-18e8-4ab7-a4dc-99a75a0b649a|Amide|isa|Molecule
+20262193-8453-43dc-a491-57d91c483659|Captopril|has_disposition|Angiotensin-converting enzyme inhibitor
+e01ef1eb-918d-4ae8-911e-ed554bdfe806|Famotidine|isa|Thiazole
+425c5501-7e50-4a6a-b8c5-0cf6e6164f40|Famotidine|isa|Sulfonamide
+e86789a7-612c-4ff2-bf62-a4525ae0ea58|Biguanide|isa|Guanidine derivative
+5e41753c-6cf4-495d-9e6a-f040f5dded49|Metformin|has_functional_parent|Biguanide
+2c45f093-caac-44b8-9cd8-93b13f5fe239|Metoprolol|has_disposition|Beta 1 adrenergic antagonist
+115bb0b3-d48a-46fb-9c6b-866e876607a3|Propanolamine|isa|Amino alcohol
+eb67233f-eb23-452b-a834-9fa173b077e9|Metoprolol|isa|Propanolamine
+c76916cf-9abe-4db8-91ca-28d30c8c4c29|Perhexiline|isa|Piperidine derivative
+7dc59a43-cd8d-49a0-adb0-158767238378|Metoprolol|isa|Ether derivative
+1f9aaa1b-e441-4c82-b2fb-ac95c5d84d70|Clavulanic acid|isa|Beta-lactam
+ee74d247-c8e3-423c-8725-4930536a989e|Atorvastatin|has_disposition|HMG-CoA reductase inhibitor
+ecd54187-fdde-48e1-94e4-096a86bf95d7|Benazepril|has_disposition|Angiotensin-converting enzyme inhibitor
+80609293-d600-4929-881b-94585d14eb7d|Benazepril|isa|Benzazepine derivative
+f380ef7a-3ec5-4937-9658-664f6d12b027|Candesartan|isa|Benzimidazole
+de00d245-500d-4f87-8b12-c1ce0d6f8b24|Dicarboxylic acid anion|isa|Carboxylic acid anion
+a7b339ad-6ea3-4d9a-9e60-4d5eb0318713|Clotrimazole|isa|Imidazole
+93c52539-85d0-41a7-b3c3-cecad346af95|Enrofloxacin|isa|Monocarboxylic acid
+392d30e4-6343-4c0e-95c2-7da07501cae5|Fluconazole|isa|Triazole
+a83637f5-a060-497d-9a0f-7a6a90bafcf3|Fluconazole|isa|Alcohol
+34450fcb-48c6-4aa9-a7f2-b9213f15c3ac|Monocarboxylic acid amide|isa|Amide
+040d7a8a-6cff-4c82-a542-af7e89a373ff|Monocarboxylic acid anion|isa|Carboxylic acid anion
+4a61648b-f3ec-4389-9b9a-ced33f18dd13|Itraconazole|isa|Triazole
+9786a2ad-7213-4236-85f8-304959133252|Lovastatin|has_disposition|HMG-CoA reductase inhibitor
+b080f68e-4c30-44f5-b852-405c949c6cae|Netilmicin|isa|Aminoglycoside
+7d9be127-1c07-4275-b88b-0786a002927a|Ramipril|has_disposition|Angiotensin-converting enzyme inhibitor
+eb87f029-d726-4286-b14d-7c1a993d3a76|Rifabutin|isa|Rifamycin
+1e298092-5480-40b1-ae1f-ad5186165e88|Rifapentine|isa|Rifamycin
+67c14584-d7e9-4faa-93d1-acca38f6bc84|Simvastatin|has_disposition|HMG-CoA reductase inhibitor
+af47aba8-527c-49e5-b777-020da76e7f55|Sulfadimethoxine|has_functional_parent|Sulfanilamide
+21c0f6cb-61ab-4fde-9170-1b1b8e6c1573|Mandelic acid|has_conjugate_base|Mandelate
+bcba1355-84d4-4e36-a3dd-d7384436a22a|Mandelate|has_conjugate_acid|Mandelic acid
+8018ebc7-eec8-4a87-99ed-46b299e856de|Sulfamethoxazole|has_functional_parent|Sulfanilamide
+b79e941a-2e43-4e5f-9756-cf2deb5de216|Fatty acid ester|isa|Carboxylic ester
+9a23aaaa-8e2c-42e0-a4b6-e6e3523ddf23|Atorvastatin|isa|Monocarboxylic acid
+31f45a96-65ba-4457-828a-d06a5a97f9a9|Penam|isa|Beta-lactam
+b3faaaad-92f3-488e-a909-5cf00f576df1|Mandelic acid|isa|Monocarboxylic acid
+6e47fb69-2e4e-4f4d-8b4e-44ea3ee0b665|Mandelate|isa|Monocarboxylic acid anion
+2cbf213f-0777-42cc-b1f5-37c25aa802bb|Lovastatin|isa|Fatty acid ester
+6b56a758-b664-41c5-a896-015a475e5364|Simvastatin|isa|Fatty acid ester
+61dfbef8-7bd0-458a-ac1b-344377cbb2bb|Benazepril|isa|Carboxylic ester
+872220f0-f64f-483d-8f75-bd60c9a9792e|Ramipril|isa|Carboxylic ester
+61267eae-e0d8-4fa0-ac43-519f9e65da22|Molecule|isa|Molecular entity
+c5a0c222-773b-476e-a558-f0b846b4a9fa|Magnesium salt|isa|Salt
+403c277e-5758-4a74-bef4-e0d2097c1211|Pyrazinamide|isa|Monocarboxylic acid amide
+3d63c222-f78a-4bdf-be34-269091f4697d|Chlorine compound|isa|Molecular entity
+4de1a895-9f98-4cd8-ad78-8fd42ec48199|Hydrochloride|isa|Chloride salt
+20654181-62e1-4161-9ffe-fe56da95049d|Bromine compound|isa|Molecular entity
+4bac9e1e-d8e1-4d01-82a2-671d6a9509bf|Heteroatomic molecular entity|isa|Molecular entity
+4f661eb0-b852-4153-91fd-ba313cb01a26|Salt|isa|Heteroatomic molecular entity
+12ee520c-df06-4e7a-a038-91823b5f3e54|Sisomicin|isa|Amino cyclitol glycoside
+2017d615-c80f-45ce-96c3-aa5b82db8b10|Sisomicin|isa|Aminoglycoside
+6010f3a2-d5ac-4887-99f6-6ad6575ddaf8|Fosfomycin|isa|Ether derivative
+27e49977-7aaf-4441-8808-18e8ae41dea8|Oxacillin|isa|Penicillin
+e6762cdb-f94c-4a18-b24a-f00fbd6b4199|Cloxacillin|isa|Penicillin
+2f4861c1-7efe-4449-92e7-b4baeb6ac2de|Cloxacillin|has_functional_parent|Oxacillin
+5a80a31e-2c08-40e2-a742-53d7f80222ee|Beta adrenergic agonist|isa|Adrenergic agonist
+cc467ff0-55bb-46e9-b265-2613d7d9b454|Beta adrenergic antagonist|isa|Adrenergic antagonist
+fd5925e0-5cd9-4f40-b3d4-5000fa650ccb|(R)-salbutamol|isa|Salbutamol
+d1a9ff46-d654-4f2d-bbd8-63010154776c|Salbutamol|isa|Ethanolamine derivative
+b9fbb1a9-5ca3-4d36-be48-f0f7fa296d85|Netilmicin|isa|Amino cyclitol glycoside
+e806d096-3cb2-4815-aa86-84261e3faef5|Neomycin|isa|Aminoglycoside
+b7b2c998-d6cb-4461-8c38-92fdf139bea0|Neomycin|isa|Amino cyclitol glycoside
+5ea696e4-723d-40a6-b6ae-ddb14106fafa|Histamine antagonist|isa|Histaminergic
+1456a00b-c400-445a-ad8c-f7ae8adaea0c|H1-receptor antagonist|isa|Histamine antagonist
+b61623ce-3742-405c-95a4-ac080dc07bc6|Promethazine|has_disposition|H1-receptor antagonist
+ee3f7b14-039a-4152-b88b-484bb8382bb4|Methapyrilene|has_disposition|H1-receptor antagonist
+fdf74575-c0ca-4bc5-a009-cb8dadfa5f7e|Methapyrilene|isa|Ethylenediamine derivative
+5ebb4c1a-8a0b-4be2-8cc5-a13e3a819dcd|H2-receptor antagonist|isa|Histamine antagonist
+225ffea4-0fa3-4c22-a03a-81cd9b30a833|Adrenergic|isa|Disposition
+c0c355d2-90f3-49c6-a85c-9992658cf3b2|Adrenergic agonist|isa|Adrenergic
+9b9d0031-33d4-49f6-b2b1-979b07f06ee5|Adrenergic antagonist|isa|Adrenergic
+bb81f8d2-e4e8-47e8-874f-77af9718f107|Paromomycin|isa|Aminoglycoside
+61ecd964-c94d-42e5-9b09-a6d82b8d9d55|Paromomycin|isa|Amino cyclitol glycoside
+9a7ed01e-85d2-41d7-8334-aadcae4be0a0|Terbutaline|isa|Ethanolamine derivative
+fa383992-af96-41dc-8947-281d08bbb5b7|Erythromycin estolate|isa|Sulfate salt
+3bd0f3ed-0e33-4f71-ae65-41d902982018|Paromomycin sulfate|isa|Sulfate salt
+3c0bea59-5468-45bf-a855-0806e501f4e8|Amikacin disulfate|isa|Sulfate salt
+b034b54d-65a0-45d2-a2b6-440c3cd39498|Dihydroergocornine mesylate|isa|Methanesulfonate salt
+724943a0-6d97-4fa0-bfad-d553044c5aa1|Sulfathiazole|isa|Thiazole
+c01faf51-bc2e-4ebb-be08-ee7fc4a2c546|Sulfathiazole|has_functional_parent|Sulfanilamide
+2a799084-6cf1-457a-991d-659432f94751|Thiophene|isa|Molecule
+48758dbb-0574-49c6-bf59-c286cef43951|Cimetidine|isa|Guanidine derivative
+02202007-4ef6-4ece-8eef-a22be9aa813e|Cimetidine|isa|Imidazole
+cd6fd57d-e2da-4537-b951-8de7685ba6d9|Cimetidine|isa|Nitrile
+83ed9bbd-8206-448d-a8ad-03a39ce0d66b|Famotidine|isa|Guanidine derivative
+484e3a72-59ba-4152-b041-eddd28de0bf2|Glimepiride|isa|Sulfonamide
+4dd2ee1f-d911-4f29-a1fd-935b6149d460|Sulfadiazine|isa|Pyrimidine derivative
+2a098c92-5527-49ca-8920-216f72d99ad3|Sulfadiazinate|has_conjugate_acid|Sulfadiazine
+dfdd7d4d-5cc3-4013-9322-0b97019d0f55|Sulfadiazine|has_conjugate_base|Sulfadiazinate
+07228e21-0965-4f63-8544-4c2eef8c4e21|Benzazepine derivative|isa|Molecule
+11f1a67a-4e6e-4724-8c7d-539e36d696a9|Azabicycloalkane|isa|Molecule
+bd056a38-205f-4491-9ef3-fb2963a0ee96|Ramipril|isa|Azabicycloalkane
+12c4b671-36fa-4b62-ab73-62bc8cedd404|Benzimidazole|isa|Molecule
+a6ffc564-8804-4bff-b105-be849305659d|Cephem|isa|Beta-lactam
+632c8ec0-f5f0-4ec3-8ee9-b3c812044904|Cephalosporin|isa|Cephem
+f09c3351-0302-4dab-8348-b8ccbd25e5b5|Pyrimidine derivative|isa|Molecule
+8cc8e4eb-3eae-4c7b-8ffa-dbedab891afa|Furan|isa|Molecule
+8f8d9691-086e-4291-8593-e12d60cf7129|Cholinergic|isa|Disposition
+43ee1a51-2700-456c-8079-dedcb1fec5b5|Quinazoline|isa|Molecule
+7c6be412-4866-43a4-bd82-b3463e3a14c0|Rosuvastatin|has_disposition|HMG-CoA reductase inhibitor
+d1f33592-21dd-47e3-aba5-376d744d6d75|Tyrosine kinase inhibitor|isa|Protein kinase inhibitor
+b31b515a-6093-4c84-90b2-e099f572fda2|Novobiocin|isa|Monocarboxylic acid amide
+198b6268-f89a-4b52-9609-6d58d1095d5a|Phthalazine derivative|isa|Molecule
+7e4ef9a5-e3d6-4089-92bd-b86db55ff426|Enrofloxacin|isa|Quinolone
+d21eb74a-b365-4e4a-80e3-fc72a63d2d52|Metoprolol|isa|Alcohol
+634b8d21-ef71-4f8a-8366-8fe2a6630dfa|Benzene derivative|isa|Molecule
+9c735f1f-af7a-4ac7-afda-d14a0ccf9d75|Rifamycin|isa|Molecule
+4e61a5c3-8bf4-4bb3-829e-c6ac85d93e75|Sparfloxacin|isa|Quinolone
+647bc7dd-2ace-45fb-bc7f-712ad65a44fd|Sparfloxacin|isa|Monocarboxylic acid
+e61b8655-c9c1-42e0-a774-19a9e28e1c6a|Penam|isa|Molecule
+d8a531be-a789-4c49-a672-21b76fc16027|Sulfonamide|isa|Amide
+8649d2f6-d9ea-4d5f-8db5-81d83eaf817b|Thiamphenicol|isa|Monocarboxylic acid amide
+d65fb7dd-6146-4a67-aae7-48ecaaa18bfb|Lincomycin|isa|Monocarboxylic acid amide
+4934df1b-49c7-49c2-9034-06f6d90b1326|Benzamide derivative|isa|Molecule
+90b6f054-b667-41c7-ba60-c272634a7828|Ceftriaxone|isa|Cephalosporin
+ccdc4cd0-7231-4d4f-a61f-12064d3b03d5|Ceftriaxone|isa|Triazine derivative
+ab5b11c0-5174-40c9-a62d-6bbf2e10a452|Ampicillin|isa|Penicillin
+4af5d698-9fe1-49d7-a195-0df62ca2731a|Dioxolane|isa|Molecule
+b2262949-9470-4992-828c-9b6ed0cdb027|Itraconazole|isa|Dioxolane
+5a8ccdb3-466f-4880-8fa3-f25c1e4fe337|Nitrofurantoin|isa|Furan
+e5cd1817-6b0d-4c04-bb86-088cbd7fa8a5|Timolol|isa|Thiadiazole derivative
+0f883238-6b0b-4f3d-8e4c-279baea4ee57|(S)-timolol (anhydrous)|isa|Timolol
+d53740d2-8b95-420d-9c1c-2b5516b65e78|(R)-timolol|isa|Timolol
+cf9c0868-0849-4c77-ae29-881368d4d304|(R)-timolol|has_enantiomer|(S)-timolol (anhydrous)
+efe7e628-bb77-40bc-b48e-3c8799270ee6|(S)-timolol (anhydrous)|has_enantiomer|(R)-timolol
+bfd7a123-b931-4dc0-a172-db686d1dc1dd|Rosuvastatin|isa|Pyrimidine derivative
+5718fa41-885d-45dc-901a-b0c6004c82ec|Rosuvastatin|isa|Sulfonamide
+43f70be3-5c17-45c3-8ea7-e41db5140a2b|Silver sulfadiazine|isa|Pyrimidine derivative
+edf9f4af-ea41-46c7-a1d2-b4bfdf7292a3|Sulfadimethoxine|isa|Pyrimidine derivative
+49ecb970-4a18-481c-a936-ce907e2b43f4|Sulfadiazine|has_functional_parent|Sulfanilamide
+3d912d29-0d00-4926-a363-9ed542d926de|Fexofenadine|isa|Piperidine derivative
+55163224-69eb-4fa1-a266-0e59ebe42e1c|Carbapenem|isa|Beta-lactam
+605eece9-a0b3-401b-a71f-714b48caff2d|Meropenem|isa|Monocarboxylic acid
+9f45663c-3f4e-4ff8-9c37-4fd7e87e9227|Lisinopril|has_disposition|Angiotensin-converting enzyme inhibitor
+b665cd23-379c-474e-8381-f785fc6e7b9b|Lisinopril|isa|Dipeptide
+b28fab7d-1754-419f-bc9a-9218c9ad2b83|Pyrrolidinecarboxamide|isa|Pyrrolidine derivative
+44445617-9d04-483f-bc2f-5186b8a336c6|Pyrrolidinecarboxamide|isa|Monocarboxylic acid amide
+4d474c07-ae9d-463e-836e-7fb05e2edf25|Clindamycin|isa|Pyrrolidinecarboxamide
+382eea4f-6862-4b05-bbc1-dfb907191f78|Lincomycin|isa|Pyrrolidinecarboxamide
+75733702-c496-42af-8c02-309eddd481d8|N-alkylpyrrolidine derivative|isa|Pyrrolidine derivative
+2b6517a3-6ef9-44fc-ab07-42b051a9a239|Meropenem|isa|Pyrrolidinecarboxamide
+6dea96b2-e2a5-4176-9e51-f0a8b008f6df|Propranolol|has_disposition|Nonselective beta adrenergic antagonist
+840522bf-4eee-4ea0-907c-0a9803f4fb0b|Cefuroxime|isa|Second generation cephalosporin
+6ec55071-970f-4c44-b4f0-bdb6a70114a7|N-alkylpiperazine derivative|isa|Piperazine derivative
+90db8a4c-d912-4b73-a650-f78dc21a21d5|Rifapentine|isa|N-alkylpiperazine derivative
+a2396ac8-74dd-4e45-9205-9617606d8775|Sparfloxacin|isa|Piperazine derivative
+6392cd08-3f82-41c5-b659-a1fc85ea28a5|Enrofloxacin|isa|N-alkylpiperazine derivative
+c92c0b2e-e11b-4eea-82e0-c6fa09a18def|Enrofloxacin|isa|Piperazine derivative
+dd8e2c9a-4437-4a56-bb87-3d792cd696db|Itraconazole|isa|Piperazine derivative
+fe5b0e88-4320-4d20-b87d-a94a3f860862|Ciprofloxacin|isa|Piperazine derivative
+387d1767-1db6-452d-a3d4-7d762bcc70f6|Ciprofloxacin|isa|Quinolone
+3f08d23f-812b-40a0-a7f0-5f9a4cc19728|Ciprofloxacin|isa|Monocarboxylic acid
+7b5eda06-21c6-4c5d-bfd6-4eb44d87d2b2|Promethazine|isa|Phenothiazine derivative
+c70c2264-3592-471f-a48e-a7f2efb014da|Fusidic acid|has_disposition|Protein synthesis inhibitor
+3f2a0037-0041-458a-9fa1-8a226bdd250b|Serotonergic|isa|Disposition
+a4e35b45-8096-4882-9a6f-c677ceeb87df|Serotonergic antagonist|isa|Serotonergic
+1a72b48b-e299-49f7-a052-48db1c2ef126|Yohimbine|has_disposition|Serotonergic antagonist
+e429cbc2-bb25-41ae-a0da-f6a6236cdb65|Pindolol|isa|Indole derivative
+d911084e-09a7-43c1-b625-b249378e6454|Pindolol|has_disposition|Serotonergic antagonist
+a98c37e3-42c4-4450-8112-7826a03a31b4|Pindolol|has_disposition|Nonselective beta adrenergic antagonist
+da0b4c66-f8b9-4083-871a-88378e237758|Acebutolol hydrochloride|isa|Hydrochloride
+a6a2238e-b2aa-492d-ad00-f698d620132c|Acebutolol|has_disposition|Beta 1 adrenergic antagonist
+06cb7ea0-4ce4-4096-8844-a9abb5a6a76b|Ketoconazole|isa|Ether derivative
+43607790-8adf-4d6a-a1a4-c4dee760576c|Ketoconazole|isa|Imidazole
+917231b8-8730-4a0c-9dd0-c355153c7fa0|Ketoconazole|isa|Piperazine derivative
+79365036-b7ad-44a1-8ecb-1c215f7d2d8e|Ketoconazole|isa|Dioxolane
+39d22450-9fc9-4c8b-8f10-0207fd620fe1|Sitagliptin|has_disposition|Serine proteinase inhibitor
+31b47dea-796e-4eea-b2dc-003191580bff|Olmesartan|isa|Tetrazole
+c4b7495c-02db-4b27-bad2-3a1e50898743|Angiogenesis inhibitor|isa|Disposition
+1f66c717-ab55-4aac-a415-5bdd4961cf6b|Candesartan|isa|Tetrazole
+13baa10b-3218-4b7b-929c-5fb9c79f0320|Irbesartan|isa|Tetrazole
+4ac42dd7-10d0-4470-ac57-d52676a7def0|Losartan|isa|Tetrazole
+1c4c35b5-4e10-4c4a-bdab-aa8b05b2d90e|Valsartan|isa|Tetrazole
+6ba9a19c-cb89-4058-bd91-5275d3959f70|Eprosartan mesylate|isa|Methanesulfonate salt
+bf98c83e-f722-4868-a9b1-7f6d0ab2a120|Yohimbine|isa|Carboxylic ester
+2eb33015-3c3f-4bfd-b919-e0cb46fbca9e|Nadifloxacin|isa|Piperidine derivative
+7f477b84-2602-4a0c-854d-eea09ed94950|Tamsulosin hydrochloride|isa|Hydrochloride
+05cf0d39-cfc8-4a78-8223-68024fee4fe1|Benzothiazepine|isa|Molecule
+0b2f312a-4df5-4dcb-9e64-dada59af9624|(E)-roxithromycin|isa|Roxithromycin
+dcc0bf76-16fc-4910-a24f-28632c2df4ed|(Z)-roxithromycin|isa|Roxithromycin
+bd2fed4b-bcaf-4a09-a56a-12040f0a6323|Cholinergic antagonist|isa|Cholinergic
+ce4d2d00-d9fc-4735-964a-371d9300f9e1|Muscarinic antagonist|isa|Cholinergic antagonist
+3e2a3c90-d1fa-4733-ac07-5ec0e585abbd|Fumagillin|has_disposition|Angiogenesis inhibitor
+a1e672d8-b7d5-4574-85df-9f9f588b41d3|Quinapril|has_disposition|Angiotensin-converting enzyme inhibitor
+8f55d454-c112-4ab8-8375-95d9a48a4ba0|Quinapril|isa|Isoquinoline
+fc87ad7b-6728-4b83-8337-00f1a73b6330|Quinapril hydrochloride|isa|Hydrochloride
+30ce4752-6a53-4e7c-a24a-b074bb22943d|Quinapril hydrochloride|has_part|Quinapril
+0dca2aee-03a5-4553-8237-4a706e3234e4|Rabeprazole sodium|isa|Sodium salt
+15f2f7d3-0387-4ec0-8f44-72e1cb226855|Rabeprazole|isa|Benzimidazole
+cb06e2b8-2db8-4684-b551-52e14dd4897b|Rabeprazole|has_disposition|Proton pump inhibitor
+5412c3a9-11e7-40cc-82ec-563f07e3d00d|Rabeprazole|isa|Pyridine derivative
+bcaa1be1-e047-4c8c-aeca-d19f7b601236|Rabeprazole|has_conjugate_base|Rabeprazole(1-)
+e009f14e-fbaf-4871-911f-96d5aa0ee124|Rabeprazole(1-)|has_conjugate_acid|Rabeprazole
+071639f9-c575-4d6a-bfad-db62f78669b5|Dihydropyridine|isa|Pyridine derivative
+2440776a-0176-4507-bce7-1f8848d5574e|Nifedipine|isa|Dihydropyridine
+d721f84e-1cd8-4cbf-a29a-1f502b1449c6|Levobunolol hydrochloride|isa|Hydrochloride
+867cce9e-15cf-4123-b4e4-b4963c9a415d|Cephradine|isa|Cephalosporin
+1cd00684-af05-4702-b51a-c31de089764c|Chloramphenicol|isa|Chlorine compound
+7a9f6d1a-7220-4794-9d05-2bb323b09259|Ethionamide|isa|Pyridine derivative
+0d26456d-701e-4674-af6a-f1fc72fc9f1e|Hydroxyzine|has_disposition|H1-receptor antagonist
+6d0ac20f-accf-4d0d-a073-c4ce7f493b5f|Hydroxyzine|isa|N-alkylpiperazine derivative
+a9d87435-63cb-48d3-8bb2-26cdbe3da3e2|Hydroxyzine hydrochloride|isa|Hydrochloride
+eb2c8134-cf13-4622-bc60-41ff4f9a071d|Pefloxacin|isa|Quinolone
+43fed4cd-70b4-40b8-8e6b-c0f8b8f3c95e|Sulfadoxine|isa|Sulfonamide
+e1b9eb55-b28b-40eb-a152-78ec05f62803|Pizotifen|has_disposition|Serotonergic antagonist
+2c737fc4-0428-4309-973d-4bc379a9fa75|Pizotifen|has_disposition|Muscarinic antagonist
+8132b30d-902a-44a3-889f-0ced9166b1c2|Pizotifen|has_disposition|Histamine antagonist
+d392321f-e52a-4f79-b0ef-9e124b389722|Pefloxacin|isa|Piperazine derivative
+e4b38550-d65b-4b92-948d-332133491216|Pefloxacin|isa|N-alkylpiperazine derivative
+1584752f-32bc-4d7f-a557-937ffba946a0|Sulfadoxine|isa|Pyrimidine derivative
+186415f7-b8b5-46cb-8af6-31863912ab5c|Malate salt|isa|Salt
+f928167a-01f2-43cc-9048-35b93fe3e260|Maleate salt|isa|Salt
+fec4c299-92f5-4a5f-875b-7b62657a7c2e|Pantoprazole|has_disposition|Proton pump inhibitor
+dda34233-c5ac-44a3-81ca-3175976943a5|Pizotifen(1+)|has_conjugate_base|Pizotifen
+f846e6d6-5592-4f2f-82c1-fbff913a2f22|Pizotifen maleate|has_part|Pizotifen(1+)
+b49c6ee9-0251-450d-8d52-c56ef5bd6b79|Pantoprazole|isa|Benzimidazole
+5db78420-d20c-421a-9594-c6ff40d0545a|Sulfadiazinate|isa|Anion
+71d6e905-9b0a-4764-a2a0-a4114111f802|Ammonium ion|isa|Cation
+a2849bd3-b054-4529-aecf-7488101e8cf8|Pantoprazole(1-)|has_conjugate_acid|Pantoprazole
+2f92128a-a59f-43d5-9c15-aa94e052693f|Rabeprazole(1-)|isa|Anion
+9fe073b7-5cac-4ec6-bebf-33ce51e9dea5|Pantoprazole|has_conjugate_base|Pantoprazole(1-)
+40cd91a2-efae-4d35-8ed9-ef8f825b61d0|Lansoprazole|isa|Benzimidazole
+9ede280d-619f-43ab-b4c2-1d4e95f8247f|Lansoprazole|isa|Pyridine derivative
+2fe631ee-71b5-477b-b4a4-f62eb3c12d01|Lansoprazole|has_disposition|Proton pump inhibitor
+d0210d1b-e5ae-42c5-aed6-5829f90ced57|Cimetidine|has_disposition|H2-receptor antagonist
+b2e6dcf3-20a1-46ca-946f-1c8248a1c65d|Cimetidine|has_disposition|Cytochrome P450 inhibitor
+acf3ea7e-9a20-48f5-803f-60a22b8edc8d|Cimetidine hydrochloride|isa|Hydrochloride
+f73f4e60-37fe-4c0b-a3d9-2e807fa52550|Ranitidine hydrochloride|isa|Hydrochloride
+eb80b6d7-94ac-4cae-b954-d5b8feba2b1c|Famotidine hydrochloride|isa|Hydrochloride
+6f4daca0-d566-4f4e-9695-c0538d212738|Ranitidine|has_disposition|H2-receptor antagonist
+1c1a3a0a-bbe7-4024-a714-a2fb3b34e682|Famotidine|has_disposition|H2-receptor antagonist
+79d419e7-3866-403a-a509-4a199c3add6b|Famotidine|has_disposition|Cytochrome P450 inhibitor
+aab7512d-ecf1-4f9a-8d70-ac039e00213a|Potassium salt|isa|Salt
+6c167c9c-b114-4cca-9226-7b85bebeafc9|Sulfamethizole|isa|Sulfonamide
+ff6c4519-1d7e-400c-bbc4-1e2ed85e4e08|Sulfamethizole|isa|Thiadiazole derivative
+b5ac3287-7789-42f1-8114-a14bb18604d0|Sympathomimetic|isa|Adrenergic
+bf622497-7794-46fd-af81-55ec233c5ee3|Perindopril|has_disposition|Angiotensin-converting enzyme inhibitor
+36df31f8-7d17-49bd-a6ac-570f1254bc90|Acarbose|has_disposition|Alpha-glucoside inhibitor
+3a38d818-133c-484a-b98f-8bf9f05fcc5e|Cyclooxygenase 2 inhibitor|isa|Prostaglandin-endoperoxide synthase inhibitor
+358d7d59-89d9-4b66-a9b1-2895e70f049b|Acetohydroxamic acid|has_disposition|Hydrolase inhibitor
+54be86ba-c9f8-44a5-933f-44ce1bf7e257|Dipeptide|isa|Peptide
+5b5d0c3b-12f1-4a65-84a2-1046920a7a37|Ampicillin sodium|isa|Sodium salt
+0facf4e4-6e9b-4d5b-8920-6cbf6de8c5d3|Ampicillin trihydrate|isa|Hydrate
+b8a3dcbd-1cee-42bc-b4e8-6104bc643b7b|Ampicillin(1-)|has_conjugate_acid|Ampicillin
+a90dbda2-01b9-46f2-8ec2-2dbdf5a8bde0|Ampicillin|has_conjugate_base|Ampicillin(1-)
+a8e2afeb-4ca4-4ea6-9927-d098ee63d6a3|Metronidazole|isa|Imidazole
+50bea850-d3eb-472f-861e-a033e1f7646a|Metronidazole hydrochloride|isa|Hydrochloride
+7124235f-444b-4f6b-8935-dc4086bfdd78|Metronidazole benzoate|isa|Carboxylic ester
+23b9dc44-45da-4b83-be11-f5aad7a49b54|Atorvastatin(1-)|isa|Carboxylic acid anion
+32f6d5a3-4979-4b03-9da5-18865e0cd720|Atorvastatin(1-)|has_conjugate_acid|Atorvastatin
+450cc922-8c0f-49b3-bd39-d36efdb486be|Atorvastatin|has_conjugate_base|Atorvastatin(1-)
+884c8097-14f9-408a-9f3f-700a08c35c44|Minocycline|isa|Tetracycline derivative
+b1fe219b-8644-46dd-93dc-b6dca55c11fe|Monobactam|isa|Beta-lactam
+431573ae-472e-4e48-9398-ea3c40d70059|Aztreonam|isa|Monobactam
+927e4654-1eb3-40aa-b709-d625d4bfecf0|Minocycline hydrochloride|isa|Hydrochloride
+15320503-09a9-42e1-afd6-e279111021ef|Azithromycin|isa|Macrolide
+e000685f-2689-4186-bba9-c9f6fed790d5|Azithromycin dihydrate|isa|Hydrate
+e940fbbe-8d4e-4721-b9fa-281a4299a5c9|Pantoprazole sodium|isa|Sodium salt
+bc810b68-bac2-4338-8dc7-a2ebcaa56078|Doxycycline|isa|Tetracycline derivative
+5f4c650a-da3f-4eea-b025-62f9b5272636|Cephalothin|isa|Cephalosporin
+4736c6b1-507b-47b4-8ee2-f8c43b759143|Cephalothin|isa|Carboxylic acid
+3ffe5cac-925a-4f41-ac4d-8d64377649b8|Cephalothin|isa|Thiophene
+e4bcaab1-97b7-4338-ab04-b973c96a3295|Cephalothin sodium|isa|Sodium salt
+5612c384-52af-45fe-a97c-1cedd9110321|Cephalothin(1-)|has_conjugate_acid|Cephalothin
+741a319c-9f62-46ee-91f2-f733e570e56c|Cephalothin|has_conjugate_base|Cephalothin(1-)
+15a4f6ab-bdde-4ea8-b7c4-5d830a9a47f2|Cephalothin(1-)|isa|Carboxylic acid anion
+b95dcd95-a7ae-445a-8122-b39077f80694|Promethazine hydrochloride|isa|Hydrochloride
+3474c7d1-d722-4485-b934-5440b2b73e23|Fumarate salt|isa|Salt
+6b14f78b-9a52-4016-8cae-0f65086889b9|Serotonin re-uptake inhibitor|isa|Serotonergic
+7081d3ba-e4e9-4804-98a6-dcada42d1ebd|Esomeprazole magnesium|isa|Magnesium salt
+27f918af-4e2e-45b0-bda9-62d8473c390f|Nedocromil sodium|isa|Sodium salt
+307af1bb-a1cd-4786-a5ec-093ba68c0655|Nedocromil(2-)|isa|Carboxylic acid anion
+06ddedf5-e417-4a3c-951e-5fc4c06f0f5a|Nedocromil(2-)|has_conjugate_acid|Nedocromil
+ebd131e9-13aa-4229-9f6a-314f41f560c4|Nedocromil|has_conjugate_base|Nedocromil(2-)
+b585a5bf-0754-411b-99a1-3acb44868da7|Calcium salt|isa|Salt
+8e031413-4820-4cea-9683-ac679a477241|Atorvastatin calcium|isa|Calcium salt
+c546d4e0-ed5c-4b4a-ac98-2482e10913a3|R-epinastine|isa|Epinastine
+60109bfb-8653-4d5d-9bb8-e69c6525b67f|S-epinastine|isa|Epinastine
+e4e626dc-e606-4fd1-9e94-5c80c3d88088|R-epinastine|has_enantiomer|S-epinastine
+dc0c4bcc-67d6-4399-8464-6cdebe999b31|S-epinastine|has_enantiomer|R-epinastine
+e66edd7c-7a85-4c4a-addc-f0a130a2b665|Epinastine hydrochloride|isa|Hydrochloride
+980273f7-de0f-472b-abba-ba34ccf62b0a|Labetalol|isa|Benzamide derivative
+dfbc165c-0fdc-4f32-bbee-c091bae14e32|Cyclizine|isa|N-alkylpiperazine derivative
+e2519b65-e8b8-443c-8138-7b5610a698aa|Cyclizine|has_disposition|Cholinergic antagonist
+43a6bcc3-3f5f-4491-9c6f-e8cf6d319c0d|Cyclizine hydrochloride|isa|Hydrochloride
+5a0dec7d-d774-4a71-b4f7-daeebc0a6e75|Hormone antagonist|isa|Disposition
+130c53b5-9866-46a4-a657-b4692c9235d0|Dapiprazole|isa|Piperazine derivative
+3421996a-89c3-4e29-88e9-a660ee4d41d8|Dapiprazole|isa|N-alkylpiperazine derivative
+a28ba83a-e3e2-4a9b-b55a-9760cd5a7e4b|Dapiprazole|isa|Pyridine derivative
+17a46608-2b54-494c-a76f-7dfef5adf3e5|Pantoprazole(1-)|isa|Benzimidazole
+eec2cdac-6987-444e-996e-987bf4c72b40|Ranitidine|isa|Furan
+c2a18c63-892f-4cd6-acf2-f96e941f7fbf|Alfuzosin|isa|Monocarboxylic acid amide
+cc8c3132-b2d5-4a3d-b182-ed17a87b8eb9|Alfuzosin|isa|Quinazoline
+f0254b29-bcfc-4258-8849-63e0b4f4d705|Alfuzosin hydrochloride|isa|Hydrochloride
+6c20926e-5c9d-4f7c-9240-b3d7201b6701|Propranolol hydrochloride|isa|Hydrochloride
+dd3d7e31-c73a-4263-b8e1-3206890168ef|Doxazosin|isa|Quinazoline
+86da6361-7819-4386-bafb-f1866dc85cea|Doxazosin|isa|Piperazine derivative
+a9249e7b-cd22-4e0e-aac6-d34f68f910b9|Doxazosin mesylate|isa|Methanesulfonate salt
+eb2ed55b-2b4f-4d1f-b739-600ddac2ddc4|Mecillinam|isa|Penicillin
+5f3aa2a9-f2d8-470b-9625-4ea9f4300c10|Pivampicillin|isa|Penam
+f66df890-e5e2-4c5e-bb50-0833150164f2|Pivampicillin|has_functional_parent|Mecillinam
+0d5bed37-7c2d-486c-9bd1-dcb7b2728398|Pivmecillinam hydrochloride|isa|Hydrochloride
+6a1404f3-c12b-41d3-b2e8-cded024d50a8|Alprenolol|isa|Alcohol
+7a057f00-58e5-4414-8f76-c3bfb396d89c|Alprenolol|has_disposition|Nonselective beta adrenergic antagonist
+f67e3922-f4d8-4112-9fe2-58cb053d5afd|Alprenolol hydrochloride|isa|Hydrochloride
+b9d6cdfe-9ac4-4d19-92b5-5352623e61c9|Amoxicillin|isa|Penicillin
+1e213b8e-36fa-4458-a824-d1dab49d8ec2|Amoxicillin trihydrate|isa|Hydrate
+f43cf048-9fa2-4abd-a31d-973eb024bb1b|Amoxicillin sodium|isa|Sodium salt
+bd041814-e8f6-4b37-a97d-03b894f4626c|Carvedilol|has_disposition|Nonselective beta adrenergic antagonist
+31642712-8298-4207-9c93-9acb14db9e32|Aadamantane derivative|isa|Molecule
+1f7d8afc-cc29-4d25-a62c-113fda80795f|Amoxicillin(1-)|has_conjugate_acid|Amoxicillin
+b3fd5e36-6ed8-417c-8534-b9446948430a|Amoxicillin|has_conjugate_base|Amoxicillin(1-)
+e52d35e2-4ac4-47fa-bc15-9699dbcf566e|Benzathine salt|isa|Salt
+62150d77-83cf-47b2-b9aa-605fb71f94dd|Cloxacillin|has_conjugate_base|Cloxacillin(1-)
+57361847-aade-4391-a05a-928a3fed4623|Cloxacillin(1-)|has_conjugate_acid|Cloxacillin
+ced059a7-7601-426a-ab29-3cebccbe191e|Cloxacillin benzathine|isa|Benzathine salt
+28d5ba65-7eef-4b6f-83d0-5274974c0ab8|Benzylpenicillin benzathine|isa|Benzathine salt
+149f8f34-7661-490a-99bc-f81cf3eddfe9|Benzylpenicillin(1-)|has_conjugate_acid|Benzylpenicillin
+80073302-53d5-4caf-9d11-02640afdc82e|Benzylpenicillin|has_conjugate_base|Benzylpenicillin(1-)
+a9d4c8e1-8c2f-4102-871c-6481ea1ee40e|Phenoxymethylpenicillin|has_conjugate_base|Phenoxymethylpenicillin(1-)
+0a739218-7e39-4231-be5c-d19aeda438e7|Phenoxymethylpenicillin(1-)|has_conjugate_acid|Phenoxymethylpenicillin
+1470b6a8-cb2d-4cde-be80-1217eb337510|Penicillinate anion|isa|Monocarboxylic acid anion
+fb8567f3-0dfa-47ac-8938-3014accd3ce0|Phenoxymethylpenicillin(1-)|isa|Penicillinate anion
+7e1a11ac-ab02-4287-be45-b245a495cd6b|Benzylpenicillin(1-)|isa|Penicillinate anion
+5108e4c4-2fc0-45a6-91f4-96209c71b0a0|Ampicillin(1-)|isa|Penicillinate anion
+7aa73c0a-69a3-40f7-afc7-d092c92fb9eb|Cloxacillin(1-)|isa|Penicillinate anion
+3fa642cf-46a3-4c57-8713-c8628581f1b3|Terazosin|isa|Quinazoline
+2826d2d0-7a0b-4bdb-a2b5-bacc31886224|Terazosin|isa|Piperazine derivative
+d84029b5-9e53-4885-a707-d0e63c186177|Terazosin|isa|Furan
+d937f96e-5d44-40f5-ac4b-7730f3541f78|Cloxacillin sodium|isa|Sodium salt
+6a0a8922-87a7-4fb9-99be-9823ceabc05f|Terazosin hydrochloride dihydrate|isa|Hydrochloride
+72a9e860-e2da-4756-8384-f5e4dab592e0|Terazosin hydrochloride dihydrate|isa|Hydrate
+49f7d056-6bdd-471e-8f14-076edb7d6466|Buclizine|isa|N-alkylpiperazine derivative
+01bf3ab0-1878-4e22-99f7-bac7eed84c77|Buclizine|has_disposition|Cholinergic antagonist
+cc3647cd-4285-4f0b-81e7-83cae7598f5f|Buclizine|has_disposition|Histamine antagonist
+aa82809d-72d9-4184-985b-b814a7ca5e78|Carvedilol|isa|Alcohol
+c5e2fde9-9e9c-4569-89b6-9448fc19325f|Doxylamine|isa|Pyridine derivative
+3889552a-d853-4254-a2fd-0164da25c240|Doxylamine|has_disposition|Cholinergic antagonist
+60661584-3dc1-4321-a1f8-791b68254848|Prazosin|isa|Piperazine derivative
+569f2d2d-ea65-45e2-8e64-226b53110f31|Prazosin|isa|Quinazoline
+bb07fba1-53da-4152-b9e2-305e5316ccb4|Prazosin|isa|Furan
+aa0de46e-49c9-473f-ba5b-7647ff7de6f5|Prazosin hydrochloride|isa|Hydrochloride
+19306e3b-315f-4348-bbd1-bbac14943381|Carteolol|isa|Quinolone
+fcf1cc5b-115e-4809-bbc0-26dcf9158d1f|Carteolol|isa|Alcohol
+b5bc1a58-9e65-4920-9d52-4f109397f3aa|Carteolol|has_disposition|Nonselective beta adrenergic antagonist
+02533744-d818-4957-bed7-a86624322dd5|Carteolol hydrochloride|isa|Hydrochloride
+4ccbcd88-47a5-4d7f-a8f7-a6f3da6dc21d|Cinnarizine|isa|N-alkylpiperazine derivative
+157a4c03-1344-41d9-85ab-5655ff79bb13|Cinnarizine|has_disposition|Histamine antagonist
+8cccbfa6-8dbe-4962-8d3c-c3719a28211e|Cinnarizine|has_disposition|Muscarinic antagonist
+feb287b0-89d5-45ce-869a-5be0a090c724|Bisoprolol|isa|Alcohol
+5daedf31-5cbe-4731-98b7-39bae3cf4108|Bisoprolol|has_disposition|Beta 1 adrenergic antagonist
+d33e8825-5eab-4feb-9f94-78e9039b41a5|Bisoprolol fumarate|isa|Fumarate salt
+1c8f5726-5b31-4aa8-9218-6532e02eaaa8|Benzylpenicillin potassium|isa|Potassium salt
+df32e669-d086-4a98-ad06-41f53485bc5e|Benzylpenicillin sodium|isa|Sodium salt
+16b676b2-3598-44bf-9022-a302b09772db|Pivampicillin|has_functional_parent|Ampicillin
+dbe49a49-8c0a-4d70-b246-1622785d9b68|Amoxicillin(1-)|isa|Penicillinate anion
+28d3c9bc-838c-4204-bb8e-d4a3ee4c0bd2|Imipenem|isa|Carbapenem
+fae2a9b0-cb03-4e88-8433-e1ce50e45bbf|Ticarcillin|isa|Penicillin
+ab60a394-1f64-4521-b50b-d1ea3e14d109|Ticarcillin(2-)|has_conjugate_acid|Ticarcillin
+3811d0ea-1f75-4bcb-92de-ccda66981dc5|Ticarcillin|has_conjugate_base|Ticarcillin(2-)
+774bda8e-939d-41b2-9d16-9ae8cd992cb6|Ticarcillin(2-)|isa|Penicillinate anion
+5a941516-8a87-4a08-9936-7fccc422e998|Ticarcillin disodium|isa|Sodium salt
+e5b51ad7-4ae1-4df4-a5e8-0a791b79b9c3|Cyclacillin|isa|Penicillin
+d3a16cd2-3462-434d-88a4-fa09fa1de3ad|Temocillin|isa|Penicillin
+dd9f84fa-d01a-420c-a662-ddd304f2d92d|Azlocillin|isa|Penicillin
+ae264938-4857-4e54-9d5a-c9c2bd100e8a|Azlocillin(1-)|isa|Penicillinate anion
+8082106c-821f-4353-a000-a469365b05c7|Azlocillin|has_conjugate_base|Azlocillin(1-)
+67e5ed9a-3b13-4990-bbee-8ed17e13ecc1|Azlocillin(1-)|has_conjugate_acid|Azlocillin
+bdf86c30-0663-4446-a075-5689604c427c|Azlocillin sodium|isa|Sodium salt
+2f52f200-cbb9-4023-b61a-810530aba5af|Bacampicillin|isa|Penam
+97d3a4b8-6012-49e6-a77e-b6790ab36219|Bacampicillin hydrochloride|isa|Hydrochloride
+1389be9c-56cc-4b08-ad81-6b179d2ee29d|Bacampicillin|has_functional_parent|Ampicillin
+79ee6183-eaec-46d6-9682-543858bc9c8d|Carbenicillin|isa|Penicillin
+53a2a87b-141a-4ed0-aa9c-1e779b7d6f94|Carbenicillin(2-)|isa|Penicillinate anion
+41d5826b-b4f8-49a2-9c2c-0706e76f4aae|Carbenicillin|has_conjugate_base|Carbenicillin(2-)
+6f30addc-063e-4af8-a537-126d5c848077|Carbenicillin(2-)|has_conjugate_acid|Carbenicillin
+15166f30-1b9f-4172-a4a1-d1b280e2e16a|Carbenicillin disodium|isa|Sodium salt
+11a487fc-fb4a-4557-a4f6-b34ee32d0378|Carfecillin|isa|Penicillin
+494cbb87-009a-4b8d-bfd5-51cd5eb339ab|Carfecillin|has_functional_parent|Carbenicillin
+707e28a5-9cb3-4d54-8436-866902cae07a|Carfecillin(1-)|isa|Penicillinate anion
+768f023a-206e-4313-b1eb-9ce6f30849a3|Carfecillin(1-)|has_conjugate_acid|Carfecillin
+fe83a2a9-acfa-4952-8fc7-cfab662fbdf9|Carfecillin|has_conjugate_base|Carfecillin(1-)
+293732bf-16ea-484f-85e9-b092e59f78c7|Carfecillin sodium|isa|Sodium salt
+58108478-3865-47a0-9ce6-750a1952b905|Nafcillin|isa|Penicillin
+2bfa99c3-3aee-4541-9436-647ce49afecc|Nafcillin(1-)|isa|Penicillinate anion
+a58db0e7-c353-4018-b9c8-ca8374d85fb7|Nafcillin sodium|isa|Sodium salt
+2314197d-2c9b-48ba-9179-59c597454592|Nafcillin(1-)|has_conjugate_acid|Nafcillin
+4e668862-09e9-4dc8-af61-7aa5523cbed6|Nafcillin|has_conjugate_base|Nafcillin(1-)
+bca4eb7f-963a-4b75-8548-9b44598faa11|Chlorphenamine|isa|Pyridine derivative
+d1bbfe2e-4010-4b0d-8c8e-68903b034821|Dexchlorpheniramine|isa|Chlorphenamine
+761a79ce-bdfc-4996-8e03-0d7237a0b6d0|Dicloxacillin|isa|Penicillin
+4499586c-faa1-40b5-8786-73858e83cf01|Dicloxacillin(1-)|isa|Penicillinate anion
+71450685-e5d3-47fe-bb38-b9ba6bcddad2|Dicloxacillin(1-)|has_conjugate_acid|Dicloxacillin
+a21f8246-53b2-4eeb-91a2-8077f5f87875|Dicloxacillin|has_conjugate_base|Dicloxacillin(1-)
+05c0ffe4-51ad-48c5-ab0c-2cf603920f91|Dicloxacillin sodium|isa|Sodium salt
+a569947c-9c54-4e25-9964-3c0c13eb2692|Flucloxacillin|isa|Penicillin
+dacd2154-3e86-4c57-9d21-13b9e29c84f9|Flucloxacillin(1-)|isa|Penicillinate anion
+43831fa5-bca3-40b9-a6dc-e8f37385fecc|Flucloxacillin(1-)|has_conjugate_acid|Flucloxacillin
+55941683-447a-4cb4-a31a-695e877df58d|Flucloxacillin|has_conjugate_base|Flucloxacillin(1-)
+e3bdde19-bc52-4e9f-b562-1dd29ef71dc7|Flucloxacillin sodium|isa|Hydrate
+1f11312a-c129-4f51-ac18-0ee0feed36de|Hetacillin|isa|Penicillin
+ade5196c-9b2b-40ea-85a2-c88465d6ba07|Hetacillin(1-)|isa|Penicillinate anion
+776f6fc8-11f7-46cf-9052-abf293b903dc|Hetacillin|has_conjugate_base|Hetacillin(1-)
+0b2028a9-0888-4a4e-b623-2fa250bfda1b|Hetacillin(1-)|has_conjugate_acid|Hetacillin
+cbf2f654-4375-4eb6-80c0-e6e3b2658bf5|Methicillin|isa|Penicillin
+f97004cd-1cec-4b5e-8a8f-90c6b0c5bd22|Methicillin(1-)|isa|Penicillinate anion
+cc0bf89d-0085-4377-8c6f-67b9c9fc0cd1|Methicillin|has_conjugate_base|Methicillin(1-)
+6cab88fe-97ee-4e2e-9de7-e656c9454c40|Methicillin(1-)|has_conjugate_acid|Methicillin
+fa13b0dd-08b0-4356-a6e5-dc80ecdebaa2|Methicillin sodium|isa|Sodium salt
+eb773f5a-4127-4e4d-a7e1-2d774761142d|Mezlocillin|isa|Penicillin
+c4815e80-f4d2-4713-bbc5-41866f7d05dd|Mezlocillin(1-)|isa|Penicillinate anion
+6d93e301-937d-4cf4-86fa-a8bc12bdac81|Mezlocillin|has_conjugate_base|Mezlocillin(1-)
+5330ad1b-d81b-4cdf-a2e6-def4c79811f4|Mezlocillin(1-)|has_conjugate_acid|Mezlocillin
+8d66b766-3d4e-4143-8dfa-02de49f79f79|Mezlocillin sodium|isa|Sodium salt
+b260a679-3237-42a7-bbe7-4e35c48a33b6|Oxacillin(1-)|isa|Penicillinate anion
+05ecb1d3-b7d8-447b-9391-9ec39b36877a|Oxacillin(1-)|has_conjugate_acid|Oxacillin
+17fcafed-3706-4ad6-9ef9-d5eb402621ce|Oxacillin|has_conjugate_base|Oxacillin(1-)
+63e3d70d-92ee-47b0-b3fa-3993ea4fc3dc|Oxacillin sodium|isa|Sodium salt
+409a8551-8adb-4508-b006-337590e73ac6|Clemizole(1+)|isa|Cation
+225be218-c9ef-440e-8b97-1b554ae704b6|Clemizole(1+)|has_conjugate_base|Clemizole
+42085fa6-5617-41c1-a1b9-11405d499279|Clemizole|has_conjugate_acid|Clemizole(1+)
+72a84e5d-18b1-49d7-8e9b-a28685cb2b12|Clemizole|isa|Pyrrolidine derivative
+3fc2aa5c-b9c1-422b-ac4d-d35f3bed512b|Cetirizine|isa|Monocarboxylic acid
+49b28531-9829-41b1-b193-e48a94dbcaba|Neuraminidase inhibitor|isa|Hydrolase inhibitor
+ae2ea9ba-662e-4592-8a8d-262230636be4|Phenoxymethylpenicillin potassium|isa|Potassium salt
+a00e2aff-b8b5-4a25-a1fb-abe56ad52d2a|Phenethicillin|isa|Penicillin
+0119220c-cd58-46d5-a83b-a59710d86c11|Phenethicillin(1-)|isa|Penicillinate anion
+ad69f2aa-3563-4f9e-9e22-1872a06495bd|Phenethicillin|has_conjugate_base|Phenethicillin(1-)
+665b0f9d-181d-40ab-b917-34872a0a2892|Phenethicillin(1-)|has_conjugate_acid|Phenethicillin
+d0310227-59b0-4093-90a9-70c8ddb6826f|Piperacillin|isa|Penicillin
+be652b72-b069-42e9-887f-68d46b977b8e|Piperacillin(1-)|isa|Penicillinate anion
+09e28c36-a36a-4dd8-a63d-7008075661bf|Piperacillin(1-)|has_conjugate_acid|Piperacillin
+f46521e7-76b7-42e8-b9e8-1898557eb7c4|Piperacillin|has_conjugate_base|Piperacillin(1-)
+1eee6a9d-7244-4746-a88a-9fee4a83bd5e|Piperacillin sodium|isa|Sodium salt
+ad986c93-6e86-4892-9a77-736aabb89db7|Talampicillin|isa|Penam
+ed2ce1c5-fc16-4e6c-8592-fb8d86d9ae72|Talampicillin|has_functional_parent|Ampicillin
+11adcc24-ae2a-4c58-9353-cd4b1ecac3a9|Talampicillin hydrochloride|isa|Hydrochloride
+6bab0c0a-46ff-4818-a017-3cbdb274d4d4|Temocillin sodium|isa|Sodium salt
+fa9ae62a-b272-4a23-a9f6-63741ccf7706|Temocillin(2-)|has_conjugate_acid|Temocillin
+8ce3deef-9b25-4ee0-9a9e-bc6cfdcfe4d3|Temocillin|has_conjugate_base|Temocillin(2-)
+32d95536-ab52-4b39-a53f-2a18f4fa0c0e|Cefmetazole|isa|Cephalosporin
+9879f9f1-5161-4a00-86a0-3da46d3db2c2|Cephalosporin carboxylic acid anion|isa|Carboxylic acid anion
+8e94cee7-189c-4e07-91aa-5972eeac5592|Cefmetazole(1-)|isa|Cephalosporin carboxylic acid anion
+281b6150-10f6-4cde-8ebe-59afa89665d1|Cefmetazole(1-)|has_conjugate_acid|Cefmetazole
+d9f78e94-2a0c-4656-a859-c97b64adfb1e|Cefmetazole|has_conjugate_base|Cefmetazole(1-)
+4e49ce83-b7bd-4763-b91b-3f987ec5a27c|Cefmetazole sodium|isa|Sodium salt
+55ac517b-9466-4c24-8d07-e01c89993bcb|Cefonicid|isa|Cephalosporin
+8989cd49-0e42-4692-8ad3-877d34032b1e|Cefonicid(2-)|isa|Cephalosporin carboxylic acid anion
+35509caf-558f-420c-92a0-ba6919990aca|Cefonicid(2-)|has_conjugate_acid|Cefonicid
+71ce70b1-1a4f-4275-bd3d-8d3402fac7b3|Cefonicid|has_conjugate_base|Cefonicid(2-)
+a5e30d1f-94b4-4e6f-a702-b89ebd772ec3|Cefonicid sodium|isa|Sodium salt
+7fde2840-ebd7-44e1-84fd-cfb8290fec4a|Bepridil|isa|Pyrrolidine derivative
+b8edaf39-ef99-4f53-af25-d435f9ea0b13|Bepridil hydrochloride|isa|Hydrochloride
+c2da3c06-6e81-4dc8-b42f-5b49cc4a10a3|Bepridil hydrochloride|has_functional_parent|Bepridil
+f720ac76-50ad-42ec-bc09-adf112953e62|Fexofenadine|has_disposition|H1-receptor antagonist
+dabf9cf3-3282-48b1-a897-0e5a5870a760|Sulfasalazine|isa|Sulfonamide
+38d2759b-37b6-417c-ac78-86064a3d4c89|Sulfasalazine|isa|Pyridine derivative
+f972186f-1f29-4a33-a3c1-18167b20ca5a|Sulfasalazine|has_functional_parent|Sulfanilamide
+8b41a65a-276e-4237-b6a0-90aa13732bb4|Sulfamethoxazole|isa|Sulfonamide
+31cddd40-1376-4f4c-b942-b1bfcf89a531|Furazolidone|isa|Furan
+cc905394-11cf-4f6d-bd3b-d8df9ebbd36a|Furazolidone|isa|Oxazolidine derivative
+30c75fc4-00cf-467e-ba03-83bef33c1035|Furazolidone|has_disposition|Monoamine oxidase inhibitor
+828d05eb-b840-48f4-91bb-065b17bc66a0|Gatifloxacin|isa|Monocarboxylic acid
+4100fb79-5194-4df0-ab96-7f73af182a27|Gatifloxacin|isa|Piperazine derivative
+4590beb8-8d62-4033-a810-7cb059b40ba0|Gatifloxacin|has_disposition|Deoxyribonucleic acid topoisomerase (adenosine triphosphate-hydrolysing) inhibitor
+4d300db8-9c0b-4a3a-ab63-81e1881b523a|Cephalexin|isa|Cephalosporin
+f5ed59d5-c30a-40f9-acc0-22931fd36a90|Neamine|isa|Aminoglycoside
+a7df2140-cc17-423f-a28e-a2096e6287d3|Framycetin|isa|Aminoglycoside
+7a024330-d5fa-499b-851b-41ba8162d3d8|Neomycin C|isa|Aminoglycoside
+72ef13d6-1c51-4f6c-9325-5349574e3345|Cefamandole|isa|Cephalosporin
+801f1287-e44a-4beb-885b-34a5029562ca|Cefamandole(1-)|isa|Cephalosporin carboxylic acid anion
+7081700d-9926-4980-bbd0-7c60c8429022|Cefamandole(1-)|has_conjugate_acid|Cefamandole
+cc425d5e-c4af-4317-854d-82b9486b8cdd|Cefamandole|has_conjugate_base|Cefamandole(1-)
+64b8996f-d46a-4772-9c10-53a670456483|Cefamandole nafate|isa|Sodium salt
+4f64390a-059e-40c1-bdd1-b133d5802bef|Cefoxitin(1-)|isa|Cephalosporin carboxylic acid anion
+68f6ed29-cfb8-4acc-9713-d713a4b42c87|Cefoxitin(1-)|has_conjugate_acid|Cefoxitin
+af609089-5965-417f-9537-a0d1268c405f|Cefoxitin|has_conjugate_base|Cefoxitin(1-)
+7f95bb55-efe9-440a-afd0-438072b18c94|Cephaloridine|isa|Cephalosporin
+51c52b17-3bca-4c3b-9fd9-5b1c86347099|Cefazolin|isa|Cephalosporin
+27a5992f-368f-4ecc-80f2-965d1eb9a2d6|Cefazolin sodium|isa|Sodium salt
+9e862807-767a-475d-8c6b-93615186f1e9|Cefazolin(1-)|isa|Cephalosporin carboxylic acid anion
+0f210504-f41d-4e88-94fd-e4900c7133ee|Cefazolin(1-)|has_conjugate_acid|Cefazolin
+32c5bde7-3f26-4200-b852-f167ea8f82a5|Cefazolin|has_conjugate_base|Cefazolin(1-)
+3595c4e4-3fd2-42a3-ac4d-140e57046309|Ceftriaxone(1-)|isa|Cephalosporin carboxylic acid anion
+aa71ab34-b567-473b-9b75-6a9c705caede|Ceftriaxone(1-)|has_conjugate_acid|Ceftriaxone
+dd30addd-9439-4f95-b909-3026c82d045d|Ceftriaxone|has_conjugate_base|Ceftriaxone(1-)
+17788cf3-09e8-4073-9180-0d57bee3af35|Metformin|isa|Guanidine derivative
+b95c7a34-44d3-4bcd-b92c-2dd2a82eb679|Cefadroxil|isa|Cephalosporin
+7889208a-e310-42a4-8aac-f7fbb541b936|Cefadroxil monohydrate|isa|Hydrate
+26a69655-6542-439c-9a90-8de6de02173a|Cefadroxil(1-)|isa|Cephalosporin carboxylic acid anion
+fb079b16-132d-48af-8026-4395f57199d2|Cefadroxil|has_conjugate_base|Cefadroxil(1-)
+87a6b429-4973-44cc-acbe-1af0dc34cf13|Cefadroxil(1-)|has_conjugate_acid|Cefadroxil
+fba0a259-306c-4272-b924-2b43db22d939|Cefotaxime|isa|Cephalosporin
+7db87133-8b79-4b18-b6fb-6a832413a08a|Cefotaxime sodium|isa|Sodium salt
+5db64f3c-e124-486f-a856-f45b997f96b1|Cefotaxime(1-)|isa|Cephalosporin carboxylic acid anion
+12329ea7-d926-4661-bfc8-56880b655a46|Cefotaxime|has_conjugate_base|Cefotaxime(1-)
+24727130-4253-4cef-be95-f8783a5048aa|Cefotaxime(1-)|has_conjugate_acid|Cefotaxime
+753e68ef-0539-4f48-b7f5-bf9b328aa986|Ceftazidime|isa|Cephalosporin
+97e1b3f6-028e-4a7c-8348-107c1577c7d5|Ceftazidime sodium|isa|Sodium salt
+33913992-4bce-44f7-9c79-81cab0ac5dfb|Ceftazidime(1-)|isa|Cephalosporin carboxylic acid anion
+ffde0dac-6d8b-4934-ad1d-826e9911429d|Ceftazidime|has_conjugate_base|Ceftazidime(1-)
+8961385e-95c7-45ec-8c3a-120cad0e5c3c|Ceftazidime(1-)|has_conjugate_acid|Ceftazidime
+5b89410c-b03f-461e-ad32-552c71231c26|Sulfisomidine|isa|Pyrimidine derivative
+d8e05ce0-f200-4d04-9bf3-4dad8793dd6c|Sulfisomidine|has_functional_parent|Sulfanilamide
+94d9198c-b715-455e-81f4-7f2bd0dc4da0|Sulfamethoxypyridazine|has_functional_parent|Sulfanilamide
+da617339-6732-441a-ad43-5e250da06b37|Sulfamethoxydiazine|isa|Pyrimidine derivative
+3c30353b-c186-48e3-ae3f-194fada72382|Sulfamethoxydiazine|has_functional_parent|Sulfanilamide
+57d6f00a-7166-4eaf-993a-d16e81e4fa36|Sulfamethazine|isa|Pyrimidine derivative
+705da28e-0cc1-454d-8f62-4c5cc3c2ebbe|Sulfamethazine|has_functional_parent|Sulfanilamide
+21827840-7396-485e-9d34-0983dd04245f|Sulfamerazine|isa|Pyrimidine derivative
+cdcb49f2-a473-4949-8e6f-ada5da130dc0|Sulfamerazine|has_functional_parent|Sulfanilamide
+67ab922a-8327-491f-8588-beac639e395b|Sulfapyridine|isa|Pyridine derivative
+40db63fd-9999-4586-b67b-9be4d434c483|Sulfapyridine|has_functional_parent|Sulfanilamide
+cd8ca55e-f834-425d-ab38-96a1d214f5e4|Cefaclor|isa|Cephalosporin
+540d1bbd-9de3-447f-8cc5-64e402a98f8f|Gemifloxacin|has_disposition|Topoisomerase IV inhibitor
+8411f9b8-e1af-43ce-b234-4da36891137d|Gemifloxacin|isa|Monocarboxylic acid
+4b4caed4-bf10-4bc7-81c2-fb922eb6fb35|Gemifloxacin mesylate|isa|Methanesulfonate salt
+5307b4b1-cbeb-4b6f-8605-538024ae0e11|Voriconazole|isa|Pyrimidine derivative
+65b53218-106e-4a12-8bd5-28894b3d95fd|Voriconazole|isa|Triazole
+0dbd7802-44cb-4ad5-b4f2-8fb330a5cd19|Amlexanox|isa|Monocarboxylic acid
+3435ee95-b7d9-45b7-86d1-a33da72f5649|Amlodipine|isa|Dihydropyridine
+f04e1cc5-5edb-4521-8d80-034ae33eae67|Arformoterol|has_disposition|Beta 2 adrenergic agonist
+d7d8b38b-bacd-4892-a485-6b5f5da2e86b|Astemizole|isa|Benzimidazole
+afb4d982-78c6-4a68-b938-708a96de61fc|Astemizole|isa|Piperidine derivative
+f88e1a46-dde7-4f0e-acb4-547887a3f8fc|Astemizole|has_disposition|H1-receptor antagonist
+0e23592d-121b-45ee-a53b-6bf0b5211f58|Atenolol|isa|Ethanolamine derivative
+f12219a9-fcdb-464f-acfe-67f2e7457804|Atenolol|isa|Monocarboxylic acid amide
+34eb73cb-ecdd-4287-ac97-c2e346f4808f|Acebutolol|isa|Ethanolamine derivative
+1ab1dd48-ab5d-43ea-b98a-98c0c83af411|Atenolol|has_disposition|Beta 1 adrenergic antagonist
+146f6d53-92cc-4f4d-8b6d-b83e360a1956|Azatadine|isa|Benzocycloheptapyridine
+8a99749a-2e41-46dc-980f-cddadb306d23|Azatadine|has_disposition|H1-receptor antagonist
+195ca915-1cbf-4b23-9619-62ef7096c8fa|Azatadine maleate|isa|Maleate salt
+d0a83f1d-77f5-44c1-8b2b-02c8e1646a1d|Azelastine|isa|Phthalazine derivative
+e54a2405-2a40-4963-872c-94d49751b1e9|Azelastine|has_disposition|H1-receptor antagonist
+8a7cdb91-289e-411d-9a24-0c8e683b786f|Azelastine|has_disposition|Platelet aggregation inhibitor
+aefb4590-a68d-48d3-97c9-e142def1c975|Azelastine hydrochloride|isa|Hydrochloride
+9f674d3e-a685-47e6-bd17-e76f8d0c2ccd|(R)-azelastine|isa|Azelastine
+f36d83df-30fd-4f18-9142-1193090f965a|(S)-azelastine|isa|Azelastine
+5443fa45-900d-4250-bcba-f20f7bef2a7b|(S)-azelastine|has_enantiomer|(R)-azelastine
+80c85f51-12fa-4069-8e99-b72ba65c9fc3|(R)-azelastine|has_enantiomer|(S)-azelastine
+79f340d8-8fdf-4565-8cce-10eb6d6ab483|Oxazolidinone|isa|Oxazolidine derivative
+904f2347-81d2-4a45-b048-76798ed3bd84|Cephamycin|isa|Cephem
+9656e90d-bb08-4385-a272-7a7919509a86|Cefoxitin|isa|Cephamycin
+2bb20e4a-e504-48fc-9796-61b1aa5db343|Cephapirin|isa|Cephalosporin
+a4487d1c-b83e-4240-ad5f-7933c434825a|Cephaloglycin|isa|Cephalosporin
+19c785db-5c09-4778-a445-b46add6ceca4|Ceftizoxime|isa|Cephalosporin
+b77a3446-6f3a-4d43-8a64-8e69a0642eca|Cefsulodin|isa|Cephalosporin
+ce9660d8-6bfa-4e5e-b52d-e4828b22c390|Cefoperazone|isa|Cephalosporin
+602f13b6-bfd5-4870-9c8b-543146009051|Ceftizoxime(1-)|isa|Monocarboxylic acid anion
+2891231c-dda1-472e-9dee-67ed9de81241|Ceftizoxime(1-)|has_conjugate_acid|Ceftizoxime
+d7651a54-0652-4118-b496-53272b0d0c3a|Ceftizoxime|has_conjugate_base|Ceftizoxime(1-)
+f033b898-2f7f-4486-a0a5-882f3bbb6e34|Ceftizoxime sodium|isa|Sodium salt
+fee6b77f-d337-4a25-b027-637669ac7c51|Loracarbef|isa|Beta-lactam
+3afacb0d-f372-48f5-ab11-58129456c080|Oleandomycin|has_conjugate_acid|Oleandomycin(1+)
+a2154907-4e3a-48ef-affb-9be66e5cfcc0|Oleandomycin(1+)|has_conjugate_base|Oleandomycin
+37f2a077-db31-4073-a474-1380847dee10|Streptomycin|has_conjugate_acid|Streptomycin(3+)
+10c6727f-6060-4551-a4da-f23f5a1159ce|Streptomycin(3+)|has_conjugate_base|Streptomycin
+e78d4b98-f719-4474-942d-f79bb43a6fd9|Carboxylic acid|has_conjugate_base|Carboxylic acid anion
+33b10722-733e-4489-92ec-c2c34c352c6c|Carboxylic acid anion|has_conjugate_acid|Carboxylic acid
+3009cea4-09b1-4e99-8670-5c3b8d6953d8|Clavulanate|isa|Monocarboxylic acid anion
+4a9b701c-e511-4524-8f53-3b4d527c064c|Clavulanic acid|has_conjugate_base|Clavulanate
+e88ea802-a7d2-48bd-a27c-347ddf65e57d|Clavulanate|has_conjugate_acid|Clavulanic acid
+5abf59a2-182d-467a-8593-7c5d65161d5c|Sulfamoxole|isa|Sulfonamide
+115b7657-2a27-4e72-8293-d39e6746bb14|Epicillin|isa|Penicillin
+db8db404-3602-4467-a412-6e0ad5eef03d|Epicillin|has_functional_parent|Ampicillin
+d13126e1-62e5-4255-a886-58554987bca7|Tetracycline|has_disposition|Protein synthesis inhibitor
+8f5331c5-6698-44be-b7ec-db54c7bd34d4|Lymecycline|isa|Tetracycline derivative
+66f3c180-5736-40d7-9681-05abf5417bd1|Lymecycline|has_disposition|Protein synthesis inhibitor
+c852df21-a57c-4adf-b04f-537d018c9c97|Sulfachlorpyridazine|isa|Sulfonamide
+03c2e875-5482-438b-9782-e0b2cdf0771b|Polymyxin|isa|Cyclic peptide
+6f3a61a8-b818-4ebe-b5e8-e52e5ed2d488|Fosinopril|has_disposition|Angiotensin-converting enzyme inhibitor
+bc961b05-a658-42e4-8e98-3495c65b495c|Fosinopril sodium|isa|Sodium salt
+441530ed-37cc-4e3b-8708-2f0a5c5a362f|Tamsulosin|isa|Sulfonamide
+3f63130f-c78f-4e3b-a719-3072a159fc0b|Fosinopril(1-)|isa|Monocarboxylic acid anion
+21a47b4d-f3ba-43ed-9fc5-923532b450e8|Fosinopril|has_conjugate_base|Fosinopril(1-)
+109d68c6-44fb-484d-89f7-ba54800d134c|Fosinopril(1-)|has_conjugate_acid|Fosinopril
+c00dcaee-4a63-4d63-bdec-50878f2da8e6|Sulfachlorpyridazine|isa|Chlorine compound
+fc742b5c-0a37-4221-b701-732bda9f6b35|Bambuterol|has_disposition|Beta 2 adrenergic agonist
+22dab8b7-7073-46a4-bbbe-321c7d330f8b|Bambuterol hydrochloride|isa|Hydrochloride
+f6f5999d-d6a7-4cd1-87d4-022734bd7d1c|Bambuterol|has_disposition|Sympathomimetic
+de93d7d0-e5d6-4948-bd32-91b41cbb1cae|Bambuterol|isa|Ethanolamine derivative
+95cdbad3-ca7c-4cd4-a480-7fdf2ef4b535|Bitolterol|isa|Ethanolamine derivative
+6d9c3b7a-f8ee-4077-b258-ed9f9ba6adee|Bitolterol|isa|Carboxylic ester
+f3052ba7-d193-42a3-beb6-e8ee11d63817|Bitolterol|has_disposition|Beta 2 adrenergic agonist
+a5d2e2d3-22ed-45c6-9465-faef5ceae025|Bitolterol mesylate|isa|Methanesulfonate salt
+999bdc2a-043a-474a-8e77-d869bada8a9b|Bitolterol mesylate|has_part|Bitolterol
+5897a115-2ac6-44e2-810b-95b9fad1b243|Bitolterol mesylate|isa|Carboxylic ester
+66e9fc4a-a989-4c0a-84f9-1823ba90a725|Bitolterol mesylate|isa|Alcohol
+8a92b34d-6707-4851-8069-95bbf6fe1972|Bromazine|isa|Bromine compound
+73b5d872-ca61-432c-a4b6-f51628980fd1|Bromazine|has_disposition|Muscarinic antagonist
+1401ed3e-9385-4a74-b65a-b4b8ac6d8670|Bromazine|has_disposition|H1-receptor antagonist
+c28dd8a5-2bf7-4598-bce0-c43fce6fad76|Bromazine hydrochloride|isa|Hydrochloride
+3f82b7da-2bed-4f11-a0c4-150ad2739ba6|(R)-bambuterol|isa|Bambuterol
+c33e683d-9deb-4a8d-a73f-83ec34041c07|(S)-bambuterol|isa|Bambuterol
+b6ea9080-3b20-4ba3-a075-2d8cbdc0527f|(S)-bambuterol|has_enantiomer|(R)-bambuterol
+efd2a212-87a2-4a34-8121-7682ae419a4e|(R)-bambuterol|has_enantiomer|(S)-bambuterol
+904e7914-2b14-42fa-949d-81e14eed29af|(R)-bambuterol hydrochloride|isa|Bambuterol hydrochloride
+fb85d269-e704-48c2-b3da-7edb76bfb026|(S)-bambuterol hydrochloride|isa|Bambuterol hydrochloride
+e72b5b47-6117-48d0-b8d1-ddd6c9e2ee0f|(S)-bambuterol hydrochloride|has_enantiomer|(R)-bambuterol hydrochloride
+dc5be1c5-172c-4940-bb5a-4a487178f532|(R)-bambuterol hydrochloride|has_enantiomer|(S)-bambuterol hydrochloride
+9cbc026e-2eaf-4a4f-8810-8ac92611dbca|(R)-bitolterol|isa|Bitolterol
+f0234372-5a6f-495e-9f5b-854b09c55dff|(S)-bitolterol|isa|Bitolterol
+e30b4683-1749-4805-9a1a-d5aed91197b3|(S)-bitolterol|has_enantiomer|(R)-bitolterol
+9f3f8c03-fce5-4ce3-9d60-b98bfc080041|(R)-bitolterol|has_enantiomer|(S)-bitolterol
+9461892d-8160-436d-83e9-4e64878b6a2a|(R)-bitolterol mesylate|isa|Bitolterol mesylate
+172f81ff-3747-479b-8457-849cbf729487|(S)-bitolterol mesylate|isa|Bitolterol mesylate
+fdb2f8cf-b336-4cd4-80b3-812327b1fc83|(S)-bitolterol mesylate|has_enantiomer|(R)-bitolterol mesylate
+0ed5a0cf-bae9-4746-8f9a-24444b7a166f|(R)-bitolterol mesylate|has_enantiomer|(S)-bitolterol mesylate
+cb3671a2-d5cd-4b6b-887c-a38815ccd3e4|Bambuterol|has_functional_parent|Terbutaline
+6a066b5a-47bc-41c5-8291-25d8530694e6|Ceforanide|isa|Cephalosporin
+27459e2c-d9fd-4024-8f94-4953a74322bc|Cefotiam|isa|Cephalosporin
+4ee06471-7d3b-40ac-b174-867de0162641|Cefotiam dihydrochloride|isa|Hydrochloride
+acb9388e-2023-43af-a0b8-69d28c14f30b|Cefprozil|isa|Cephalosporin
+4fe51704-a449-4041-b5e1-d0c8415ec0b3|Cephapirin sodium|isa|Sodium salt
+d490b382-0d10-4fe1-bd5c-22710f17227a|Cephapirin(1-)|isa|Cephalosporin carboxylic acid anion
+b17c242a-9b03-46fb-98bd-4a0f3dd0d9d7|Cephapirin(1-)|has_conjugate_acid|Cephapirin
+73be2798-0c8e-466e-98f6-89f2b2e9ab24|Cephapirin|has_conjugate_base|Cephapirin(1-)
+6c022e92-8721-4760-9b38-06dbd64125e0|Betaxolol|has_disposition|Beta 1 adrenergic antagonist
+73c8f85e-3732-44cd-88a7-8705b6e666e7|Betaxolol|isa|Propanolamine
+a1f61e9a-9c2e-42d6-ab71-9bc8a8f36a4c|Betaxolol hydrochloride|isa|Hydrochloride
+f4c407d1-c097-4a32-a8ed-d79a49a20af9|Betaxolol hydrochloride|has_part|Betaxolol
+c14c1a0d-55e3-4b7b-bf60-122d2effd3b8|(R)-betaxolol|isa|Betaxolol
+674b0864-ac14-462c-b358-430e96d6b0e6|(S)-betaxolol|isa|Betaxolol
+f2ade041-fcbc-410f-9620-adb0c77d4b07|(S)-betaxolol|has_enantiomer|(R)-betaxolol
+537c57ec-0a98-4c40-b68f-746f059aba45|(R)-betaxolol|has_enantiomer|(S)-betaxolol
+bda12155-d789-40cf-9431-98bf5d98dc7c|(S)-betaxolol hydrochloride|isa|Betaxolol hydrochloride
+a82143b0-d2e4-422d-99e8-ff80a343ea49|(R)-betaxolol hydrochloride|isa|Betaxolol hydrochloride
+6d99a414-c33c-4a1d-889f-3de47e0d6757|(S)-betaxolol hydrochloride|has_enantiomer|(R)-betaxolol hydrochloride
+179bec25-a3de-474a-853c-905b1bd471a2|(R)-betaxolol hydrochloride|has_enantiomer|(S)-betaxolol hydrochloride
+cc169e51-879b-4ec7-ab6b-1ccbe8d42670|Brompheniramine|isa|Pyridine derivative
+6d659388-694b-46a9-bc05-53979849373b|Brompheniramine|has_disposition|H1-receptor antagonist
+8dda5949-2dd4-4147-add0-9a1fc863acea|Brompheniramine|isa|Bromine compound
+d837e38e-2e4a-42f2-b302-16c4a0d596d7|Dexbrompheniramine|isa|Brompheniramine
+b860f35b-b7a9-4470-8327-0e61dc6abe11|Dexbrompheniramine|has_disposition|H1-receptor antagonist
+896dd35b-6172-47b1-823d-67366f7495d1|Brompheniramine maleate|isa|Maleate salt
+726883dc-0892-4aca-8780-d4ef17442556|Dexbrompheniramine maleate|isa|Brompheniramine maleate
+202e3dc2-5b0c-480c-8c9e-e136b3f9a7f2|(R)-bromazine|isa|Bromazine
+8d54eb6c-6d0a-416d-b3ef-58c76f4f8a88|(S)-bromazine|isa|Bromazine
+fb52380b-fd87-4472-9d22-150ca135e73b|(S)-bromazine|has_enantiomer|(R)-bromazine
+aaa431e2-0c00-4a83-9c68-e5117efed3ac|(R)-bromazine|has_enantiomer|(S)-bromazine
+85496934-a682-4444-9b58-d5a6a877481a|(R)-bromazine hydrochloride|isa|Bromazine hydrochloride
+2a6c61fc-6726-463f-be51-7c3a50101583|(S)-bromazine hydrochloride|isa|Bromazine hydrochloride
+a16bc06f-c781-41a4-92ee-aadc96958308|(S)-bromazine hydrochloride|has_enantiomer|(R)-bromazine hydrochloride
+8d550921-fd68-4bb5-93f2-05aeccdc5a46|(R)-bromazine hydrochloride|has_enantiomer|(S)-bromazine hydrochloride
+16e3246f-0e7d-43bf-8e7b-98216dc3fcaa|Carbinoxamine|isa|Pyridine derivative
+7363e751-469b-4d57-b020-b7cc74e40232|Carbinoxamine|has_disposition|H1-receptor antagonist
+2e57beec-c5ca-4f7e-a5bf-76b961179f0b|Carbinoxamine|has_disposition|Muscarinic antagonist
+7d415821-eb95-4ab3-a4b9-566f1228487c|Carbinoxamine maleate|isa|Maleate salt
+4a8ebf76-5acf-48a1-a9f0-be99869a2a05|Cefixime|isa|Cephalosporin
+69141d3a-49e3-4e6c-8356-40f440ef107b|Cefdinir|isa|Cephalosporin
+d31de185-ce01-48b7-91d1-823db1f5b84d|Cefditoren|isa|Cephalosporin
+693aa41b-3626-4178-9609-c4d57f511dad|Cefditoren|isa|Carboxylic acid
+e523b30d-e12f-4ed6-806b-94838d9cf878|Cefditoren pivoxil|isa|Carboxylic ester
+b72a5305-12a3-4653-aec4-041eea604c53|Cefditoren pivoxil|has_functional_parent|Cefditoren
+0af87c75-8efe-42dd-b2dd-8dc90193f731|Cefepime|isa|Cephalosporin
+1c02c026-a04d-4037-8c5a-28b76b59bac2|Cefepime hydrochloride|isa|Hydrochloride
+c1d58e55-4eb4-4288-8b8a-75d1da501e38|Cefepime hydrochloride|isa|Hydrate
+784ac452-e9c9-494f-bd3a-423723e3a103|Cefepime(1+)|isa|Cephalosporin
+604a4190-3733-4ab8-aa5c-ac989b73cfae|Cefepime|has_conjugate_acid|Cefepime(1+)
+fd7dfea8-6ca7-4de3-a991-21f49ed47fe1|Cefepime(1+)|has_conjugate_base|Cefepime
+fbf711a1-b2f4-43ad-8494-a9df823aeeb6|Cefotetan|isa|Cephalosporin
+a546e336-a781-45ad-9b48-f61a5eaa4f7e|Cefotetan disodium|isa|Sodium salt
+fb82da73-8709-4cfa-bca0-3470588dc899|Cefotetan(2-)|isa|Dicarboxylic acid anion
+a489dc11-d33d-4e46-bc5a-4aa028f333c1|Cefotetan(2-)|has_conjugate_acid|Cefotetan
+aa00d835-eca3-4187-92aa-7158bc32a624|Cefotetan|has_conjugate_base|Cefotetan(2-)
+79d4a227-81dd-477a-856b-1ca02262650f|Cefpodoxime|isa|Cephalosporin
+1c8ec31e-b50b-4c7d-8654-09bcb0cc5278|Cefpodoxime|isa|Carboxylic acid
+b9a5dff1-27e6-4ebe-b104-4700a772b2ce|Cefpodoxime proxetil|isa|Carboxylic ester
+edacbefd-4787-47b7-8006-296b8f165a04|Cefpodoxime proxetil|has_functional_parent|Cefpodoxime
+bf618059-c7b8-4e93-8e42-156d96835bb2|Ceftibuten|isa|Cephalosporin
+b55b7d87-012b-4b1a-9344-0073c5770ea5|Ceftibuten|isa|Dicarboxylic acid
+31e8510d-1b30-4207-9fbd-65757462ecec|Cephalexin monohydrate|isa|Hydrate
+94945af6-9146-4ac5-b36f-d6848e4f0fb4|Cephalexin(1-)|isa|Cephalosporin carboxylic acid anion
+9b0530a8-fb7b-47d5-ba59-d16d27a46f06|Cephalexin(1-)|has_conjugate_acid|Cephalexin
+80a59074-ab07-433a-ae80-409b3a78f074|Cephalexin|has_conjugate_base|Cephalexin(1-)
+aa5185f6-69a4-40a5-a69f-a684622ea335|Cerivastatin|isa|Pyridine derivative
+3b3f2617-2e07-4c09-b0a5-c605048d8f17|Cerivastatin|has_disposition|HMG-CoA reductase inhibitor
+4ff6f058-8b7b-43f5-9481-37ba91493c13|Cerivastatin|isa|Monocarboxylic acid
+ab28aba2-486e-4592-9830-b7f659ab5ff0|Cerivastatin sodium|isa|Sodium salt
+dd97775f-279d-4b10-b494-d4bcd5c0b19e|Cerivastatin(1-)|isa|Monocarboxylic acid anion
+6eda2e41-0ee6-426e-a1bd-2b6907589207|Cerivastatin(1-)|has_conjugate_acid|Cerivastatin
+cf01e54a-f8ac-4812-99f2-38d2f6641f84|Cerivastatin|has_conjugate_base|Cerivastatin(1-)
+b480c787-d11c-4076-9c92-034601274388|Cinoxacin|isa|Carboxylic acid
+425eba4e-893b-41b3-bb0e-b1e1a5e21c1e|Ciprofloxacin|has_disposition|Topoisomerase IV inhibitor
+38372c16-2db3-4bf5-b1b0-be149ad18728|Ciprofloxacin|has_disposition|Deoxyribonucleic acid topoisomerase (adenosine triphosphate-hydrolysing) inhibitor
+eb7c84c1-7526-40b7-9113-acaab3bb48de|Clarithromycin|isa|Macrolide
+4d2f2ae7-f5aa-446a-8277-2ca9a6bdb1e5|Clemastine|isa|N-alkylpyrrolidine derivative
+c24c8381-2ec4-46c6-85c4-c33cf8521208|Clemastine|has_disposition|H1-receptor antagonist
+33be8a61-960d-459b-a595-14ddaddd0380|Clemastine|has_disposition|Muscarinic antagonist
+c2da8aee-ce6e-472f-844e-d762daa89057|Clemastine fumarate|isa|Fumarate salt
+17a3f3b2-d7cf-4023-b829-85d87558f143|Clenbuterol|isa|Ethanolamine derivative
+a93ac75c-ec92-487c-941d-50b850305c66|Clenbuterol|has_disposition|Beta 2 adrenergic agonist
+9aea2098-7641-4edb-b762-861d1f529a65|Clenbuterol|has_disposition|Sympathomimetic
+0302dc7b-a97f-4679-9d3d-c761c0b9b45f|(R)-clenbuterol|isa|Clenbuterol
+043f7f19-1557-429c-b7eb-35cb4a35ae38|(S)-clenbuterol|isa|Clenbuterol
+21594662-16ec-40fb-916d-c86e46760c77|(S)-clenbuterol|has_enantiomer|(R)-clenbuterol
+2be12bbf-67cd-465a-b4f0-8f0a96ff18b1|(R)-clenbuterol|has_enantiomer|(S)-clenbuterol
+c4867f27-669c-4d57-957b-a4b9b46843d2|Clomocycline|isa|Tetracycline derivative
+a0372f29-4e96-43c0-a9b2-48e4ccce6022|Clomocycline|has_disposition|Protein synthesis inhibitor
+a45aadc8-85aa-4ca6-8f58-28d9dcd4739f|Colistin|isa|Polymyxin
+d8dcd38b-ec4e-4535-8978-35364af107f6|Colistimethate sodium|has_functional_parent|Colistin
+4fef42c7-42a7-463b-90fa-1b3d622e8be4|Colistimethate sodium|isa|Sodium salt
+77d90f57-bdc9-40e9-b5f7-ce89083b3508|Colistimethate(5-)|isa|Anion
+0f16e20d-dc40-4e42-ab4f-cb460ab05622|Colistimethate|isa|Polymyxin
+409b6760-54f7-4d3d-a8d0-add4f4ce874f|Colistimethate(5-)|has_conjugate_acid|Colistimethate
+16d20fd7-b4a6-46d9-b38a-cea5cea3a1fb|Colistimethate|has_conjugate_base|Colistimethate(5-)
+ef851643-3948-490f-b559-48193d5e0bb3|Colistimethate|has_functional_parent|Colistin
+3c4c425b-bb6a-4b96-b402-ed4bc6e7710a|Cyproheptadine|isa|Piperidine derivative
+b3014a72-9cbc-43c2-b9fa-94a494c8404f|Cyproheptadine|has_disposition|H1-receptor antagonist
+55b7f3c9-c2c4-4c38-a646-12a0af7f27bd|Cyproheptadine|has_disposition|Serotonergic antagonist
+09c598bb-b753-4b02-bb16-96583bd270df|Daptomycin|isa|Macrolide
+cd2dc358-b07a-4418-8eb3-0d688de787b2|Daptomycin|isa|Cyclic peptide
+3a33d15f-0206-4cc4-b2cd-e2bb7ae3434f|Demeclocycline|isa|Tetracycline derivative
+f4d72e8b-9afe-4c61-81f5-92d5c4a8a594|Demeclocycline hydrochloride|isa|Hydrochloride
+70a84fa2-980e-4732-90f8-98f70901791f|Desloratadine|isa|Benzocycloheptapyridine
+1cc83a09-f584-4981-99d3-de1f933d9561|Desloratadine|has_disposition|H1-receptor antagonist
+7d9a47b2-afe1-41be-9232-f1ea20e7dbd3|Diltiazem hydrochloride|isa|Hydrochloride
+0c960067-86cd-472e-b859-83dc754e594f|Diphenhydramine|has_disposition|H1-receptor antagonist
+8671df80-a5bd-40c4-88a4-7fb2406163c4|Diphenhydramine|has_disposition|Muscarinic antagonist
+ad1c5841-2c81-4ec8-ac11-a9d4d9037f38|Diphenhydramine hydrochloride|isa|Hydrochloride
+6228b8af-88d1-45ab-9966-ff910f452df4|Diphenhydramine hydrochloride|isa|Ammonium salt
+f08728a5-a621-4dd7-aebd-64d227e7df4a|Dimenhydrinate|isa|Salt
+53263e86-2781-4a7c-aeca-de2e7677aa9e|Dimenhydrinate|has_disposition|H1-receptor antagonist
+dc5f8d1a-84df-4bc4-a8b4-0ec79c7951df|Diphenylpyraline|isa|Piperidine derivative
+6c13004e-8fa3-4b74-a202-629cc366671e|Diphenylpyraline|has_disposition|H1-receptor antagonist
+fe4ba079-c249-4afd-ad24-3de54a7e9501|Diphenylpyraline|has_disposition|Cholinergic antagonist
+5d87e88c-4eb3-4180-bfe9-41d40017f8b7|Diphenylpyraline hydrochloride|isa|Hydrochloride
+08cbc6cc-7b66-4b05-aa94-a92002ee66e6|Dirithromycin|isa|Macrolide
+0533a830-cb89-4c78-991a-20dc2d7e2f8a|Emedastine|isa|Benzimidazole
+a31aafe3-7ce5-4fd2-967c-82b5554e46b9|Emedastine|has_disposition|H1-receptor antagonist
+5f701a57-38ef-4ba9-b1fb-fff5e03ea624|Emedastine difumarate|isa|Fumarate salt
+38207df2-8716-42be-aa8a-b1038b95c406|Enalapril|isa|Carboxylic ester
+64f79777-e711-4ea1-9c5f-780f09d6e0ff|Enalapril|isa|Dipeptide
+a82e2eea-1864-43be-b4dd-9f8f6ba26a78|Enalapril|has_disposition|Angiotensin-converting enzyme inhibitor
+78178ad8-c8dc-467a-80b8-b852e7938664|Enalapril maleate|isa|Maleate salt
+531c6f6a-0abc-410f-8151-d8c2711410f0|Enalaprilat|isa|Dicarboxylic acid
+448f661d-7747-47a6-90d8-f894a83ede15|Enalaprilat|isa|Dipeptide
+e25a1c8f-95e7-464a-b4e7-92f1e6f919ab|Enalapril|has_functional_parent|Enalaprilat
+e3e44db1-56b0-4b7c-b723-b3035c965aec|Enalaprilat|has_disposition|Angiotensin-converting enzyme inhibitor
+6d38d738-b7a8-42d4-97a7-8d18698da373|Enoxacin|isa|Monocarboxylic acid
+117d8c3c-c628-4a00-ac31-f88c1f72a163|Enoxacin|has_disposition|DNA synthesis inhibitor
+b716179e-9a5e-4645-a755-768e5319c4c5|Dihydroergocornine|isa|Ergot alkaloid
+e11feff5-1251-46c1-992e-f598fb290522|Dihydroergocristine|isa|Ergot alkaloid
+97ca9526-9f26-486d-af8f-d299a4b0c642|Dihydroergocristine mesylate|isa|Methanesulfonate salt
+90fafaa7-9323-420e-9efb-01d37bb837dd|Dihydroergocristine mesylate|has_part|Dihydroergocristine
+1de44c8e-5ada-4615-a6d4-51d15aa9763e|Dihydroergocristine|has_disposition|Adrenergic antagonist
+90e38935-4a20-4c62-ae6c-4a47d99406f5|Dihydro-alpha-ergocryptine|isa|Ergot alkaloid
+935c6758-c531-4779-bc60-9079bc8926f7|Dihydro-alpha-ergocryptine mesylate|isa|Methanesulfonate salt
+90ef8184-873a-4f1b-95f6-abb4ba208d77|Dihydro-beta-ergocryptine mesylate|isa|Methanesulfonate salt
+f907ea5a-2be1-46f9-905d-d04af869e2a4|Dihydro-beta-ergocryptine|isa|Ergot alkaloid
+220c31c4-3aab-4004-82fc-f3966c228c99|Ciprofloxacin dihydrochloride|isa|Hydrochloride
+eec48e1f-8d31-46da-9a9a-0ac961192cbd|Ciprofloxacin dihydrochloride|has_disposition|Topoisomerase IV inhibitor
+bb4e74d5-f90d-4f95-8138-50fd7d19752b|Clarithromycin|has_disposition|Protein synthesis inhibitor
+1e095fdd-d528-4a45-b442-181eaaa1573c|Ertapenem|isa|Monocarboxylic acid
+52c861db-a05d-4262-a021-d7280fd522d0|Ertapenem|isa|Pyrrolidinecarboxamide
+32a18379-c52c-4f10-ad3a-0c03f3e17b75|Ertapenem sodium|isa|Sodium salt
+e52fba56-4f49-480b-bd8d-d0ba1ff99c25|Ertapenem(1-)|isa|Carboxylic acid anion
+8f00620e-ecdf-4987-864b-cc604003ce27|Ertapenem(1-)|has_conjugate_acid|Ertapenem
+daf6e2ee-dd3e-4489-b1af-0acdafaaad65|Ertapenem|has_conjugate_base|Ertapenem(1-)
+8cae99d3-f2d8-4a7e-9fc3-29b13b02ec67|Esmolol|isa|Carboxylic ester
+52c21891-fe19-40e8-9e8f-ef93a3ab312b|Esmolol|isa|Ethanolamine derivative
+521f699a-e3f5-4220-afcc-3845aae18d14|Esmolol|has_disposition|Beta 1 adrenergic antagonist
+9cad2f3f-2661-4dd3-ab25-b9baf4d8a25b|Esmolol hydrochloride|isa|Hydrochloride
+b443b8db-32cb-43e7-a032-5bd1011c4b02|Ethambutol|isa|Ethanolamine derivative
+c78a3ed3-bfb2-4799-9232-9b7bd12a29c2|Ethylenediamine derivative|isa|Molecule
+c1d1834c-58ff-46d0-95d2-2e5d150f6317|Ethylenediamine derivative|isa|Ethylenediamine derivative
+f444e973-1453-4df2-abda-23624831c519|Ethambutol dihydrochloride|isa|Hydrochloride
+bc1a7d77-0b38-4a36-b565-7c8f3ae480fa|Viomycin(3+)|has_conjugate_base|Viomycin
+419942ec-7366-49d2-a756-3a70b02208fb|Viomycin|has_conjugate_acid|Viomycin(3+)
+b450b875-eac5-4d00-95df-9969ece67792|Viomycin(3+)|isa|Cation
+ba6fba27-1cbb-4c3e-8441-436ad1f7beb3|Viomycin|isa|Cyclic peptide
+344a490d-0775-45cd-8dd4-c8ab4f0d3876|Practolol|isa|Propanolamine
+cea43436-e014-44c2-b32f-bc36231c5971|Atenolol|isa|Propanolamine
+76e537df-ae7a-4d0e-b4e7-8d966a875f37|Acebutolol|isa|Propanolamine
+c6c4062e-eb07-40b5-851a-330e71deec65|Propranolol|isa|Propanolamine
+58305c39-2cd7-44ee-9e34-cd15d4b8bbac|Practolol|isa|Ethanolamine derivative
+f8152e52-e3c0-4241-a749-fd2157a29b1a|Practolol|isa|Alcohol
+f5dc447e-2ed1-463f-8ced-87d0fca66af8|Practolol|has_disposition|Beta 1 adrenergic antagonist
+c7a0feab-3974-4d16-9c24-30db88f66069|Norfloxacin|isa|Monocarboxylic acid
+9dbbda7e-9006-4294-976f-04cb10029593|Norfloxacin|isa|Piperazine derivative
+815e7cd2-6e78-43ff-ad24-718c1724341f|Norfloxacin|isa|Quinolone
+14cc073b-1c1d-48c4-9630-dc3a17b0b150|Norfloxacin|has_disposition|DNA synthesis inhibitor
+e5fef6f9-f4cd-467a-b5f3-ef92b6cc7c28|Sulfisoxazole|has_functional_parent|Sulfanilamide
+f608b86e-fd55-4812-962b-de54bbb833ef|Sulfisoxazole|isa|Sulfonamide
+2a32b3b8-2202-450d-9409-01a82f754e95|Lomefloxacin|isa|Quinolone
+91c28bde-1b3a-47d0-b6c2-e6551063c422|Lomefloxacin|isa|Piperazine derivative
+7d74460e-dbfc-4593-9d70-6ec478fb117d|Lomefloxacin|isa|Monocarboxylic acid
+78382fcd-0e1c-49dc-9bc3-4a3ff16adbeb|Oleandomycin(1+)|isa|Ammonium ion
+ef12645f-cdc8-4cf0-abe4-3f9203e490e4|Felodipine|isa|Dihydropyridine
+01c4dd2a-03c5-449b-b65e-36ab770f40f8|Fenoterol|isa|Alcohol
+05f5de5c-dd2d-4f92-9f28-80e5cd64b609|Fenoterol|has_disposition|Sympathomimetic
+ee179bfb-6ec4-4560-9045-35ae9eb919fe|Fenoterol|has_disposition|Beta 2 adrenergic agonist
+8b3d5538-214d-4d4d-b8aa-0e7ec780e751|Fenoterol hydrobromide|isa|Bromide salt
+b5286262-f272-49f2-8dc1-8a697f60ae33|Fenoterol hydrobromide|has_part|Fenoterol
+b0acd388-3d09-47d8-8de4-5538fafc51e2|Nalidixic acid|isa|Monocarboxylic acid
+4400c38a-9694-4290-a51f-2b82dec9013f|Nalidixic acid|has_disposition|DNA synthesis inhibitor
+39c09172-9fb4-41c8-b8ca-bb41a99d40d6|Streptomycin(3+)|isa|Cation
+c9bc7a53-d2ae-40ad-ac13-a04b6a5ebe2e|Lomefloxacin hydrochloride|isa|Hydrochloride
+e9fd5e2f-0dcf-45ed-9dd2-11de00510d9a|Doxycycline monohydrate|isa|Hydrate
+f327a338-421d-4ffc-abfb-f66677d65f74|Doxycycline hyclate|isa|Hydrate
+21fba2db-2ed1-4c7d-adfc-a40897a906f3|Tigecycline|isa|Tetracycline derivative
+d76df473-6428-474d-a7f9-9ea403a477f3|Metipranolol|isa|Propanolamine
+f71a7ddd-6b49-4601-87e5-4b515a1ac4e4|Metipranolol|has_disposition|Nonselective beta adrenergic antagonist
+ae3b2108-aa20-4991-99b8-d90282d0800f|Metipranolol|isa|Ether derivative
+1f44741d-83eb-420e-bbdc-781ff918f72a|Metipranolol hydrochloride|isa|Hydrochloride
+8c381af2-6c53-43a8-9a80-824530eb117a|(S)-timolol hemihydrate|isa|Hydrate
+f01ccabd-3335-42cb-b656-4c9da981c0ce|(S)-timolol maleate|isa|Maleate salt
+ec8fd4bf-7ea1-4b77-a128-6f01eeaabe3f|Diphenhydramine|isa|Ether derivative
+f311b4bf-d2c2-4168-b164-19fa59787e88|Tubulin modulator|isa|Disposition
+25497dd2-5fe8-4ad1-b401-a36ca4a008b3|Cyclizine|has_disposition|H1-receptor antagonist
+4e54b7a6-3e8c-4c53-8aa8-8479f8368ead|Angiotensin receptor antagonist|isa|Hormone antagonist
+bd0eeed5-9fd6-4ac2-ad56-d85fa22aef00|Losartan|isa|Imidazole
+668fcc10-8511-4942-b5f8-ba04428ce0ae|Losartan|has_disposition|Angiotensin II receptor antagonist
+30e24017-3fdd-43b5-a6c2-9331ba3c2b00|Clenbuterol|isa|Amino alcohol
+11dbc3eb-d62d-421b-a03f-19501d4c6997|Buclizine(2+)|isa|Ammonium ion
+ad19b1a4-1ea9-4ecb-9e33-355b8d6027bb|Buclizine|has_conjugate_acid|Buclizine(2+)
+295d7b5c-cbe4-470f-950f-5ac241a64a2e|Buclizine(2+)|has_conjugate_base|Buclizine
+d46783be-2c30-450c-ad02-e7385f519c0d|Buclizine dihydrochloride|isa|Hydrochloride
+6b4617d6-fc60-48f9-85ec-9f2fecb0e396|Carteolol(1+)|isa|Ammonium ion
+dfcdbaeb-a9a1-4620-9a69-9b24494aeb13|Carteolol|has_conjugate_acid|Carteolol(1+)
+21f1c737-a9fd-4400-a6df-6f183d606ef5|Carteolol(1+)|has_conjugate_base|Carteolol
+d2d808df-42d1-482b-8032-ce75692a0163|Promethazine(1+)|isa|Ammonium ion
+8aeb41c9-1a50-4cd4-a61b-0d4386862a15|Promethazine|has_conjugate_acid|Promethazine(1+)
+b1139baa-18e9-4f12-bc59-199203ca56db|Promethazine(1+)|has_conjugate_base|Promethazine
+3e2e17ef-20c2-4a0e-ad87-cfb164fcb9b1|Temocillin(2-)|isa|Dicarboxylic acid anion
+1fc1f7d2-b5b3-42c4-ac80-7fce97df496f|Levobunolol|isa|Propanolamine
+f656e489-5dd0-4479-8553-25dab2b1297e|Apramycin|isa|Molecule
+3629c040-a483-4baf-8261-c178a3025699|Apramycin|isa|Aminoglycoside
+97529da8-56cf-4053-806b-6601a2cf47a2|Peptide|isa|Amide
+de15b5e2-01df-4361-b5d7-977fc5db6e87|Microtubule inhibitor|isa|Tubulin modulator
+d59a8a78-7d54-49fb-8e8f-697001876ac0|Nalidixic acid anion|isa|Monocarboxylic acid anion
+65d8410f-461b-40eb-af87-fe74c023f896|Nalidixic acid anion|has_conjugate_acid|Nalidixic acid
+d6f46495-ef22-4b0d-bec6-a7cda233be89|Nalidixic acid|has_conjugate_base|Nalidixic acid anion
+e885e503-7b3a-42bc-a6b5-a81eac541254|Acebutolol|has_conjugate_acid|Acebutolol(1+)
+0260cfc7-8713-4166-b25f-980aa049f9e9|Acebutolol(1+)|has_conjugate_base|Acebutolol
+373c08c2-219d-421b-bb96-4dfc8932b32c|Acebutolol(1+)|isa|Ammonium ion
+b40ef6e0-bd4d-44da-a8f4-3bc6566c95ff|Acebutolol|has_disposition|Sympathomimetic
+5c260e67-a493-4584-8eca-b751e939590d|Acebutolol|isa|Ether derivative
+0b9d100e-e135-47d9-9d71-7b9d577b3f69|Cefpodoxime proxetil|isa|Cephalosporin
+ac49122e-b49a-4039-bbdf-597600e62a62|Cefpodoxime proxetil|isa|Carboxylic acid
+64ea55df-6ddb-4b1f-8f35-716a761be922|Tobramycin|isa|Amino cyclitol glycoside
+004b7b63-2fde-4af6-8847-71c40fab7271|Epinastine|isa|Guanidine derivative
+ddc657aa-62f6-4b31-97d9-3857ac592b28|Chlorobenzene derivative|isa|Benzene derivative
+086a2193-1889-44cf-9631-c602a68a34a3|Peptide|isa|Molecule
+8cec2a4f-2c4f-4a8f-8cd6-88e06b62307c|Sulfathiazole|isa|Sulfonamide
+542a826f-a23e-4daf-aac0-d91cc80689c0|Mandelic acid|isa|Benzene derivative
+e7f2762c-e57f-4216-a40b-e5a9a47a4587|Arformoterol|isa|Phenol derivative
+de4fcf31-416b-4503-928f-1a4035bc7113|(S,S)-formoterol|isa|Phenol derivative
+59893173-5b6e-4943-aa8f-52154edd01a3|(S,S)-formoterol|has_enantiomer|Arformoterol
+8fa2ca44-db67-410c-bad2-3b306baf7d28|Arformoterol|has_enantiomer|(S,S)-formoterol
+1ffc4386-2212-4ef3-95a3-59162a46c947|Arformoterol(1+)|isa|Ammonium ion
+c81ea3e8-ecd2-4b72-ac6a-f06624dab3c9|Arformoterol(1+)|isa|Cation
+7d51c05c-e5dc-4e7a-8a52-ea09adbdf2fc|Arformoterol(1+)|has_conjugate_base|Arformoterol
+793e15af-c89a-4f51-94c3-24e9fe3730f4|Arformoterol|has_conjugate_acid|Arformoterol(1+)
+172e0d26-fba8-49ed-b6e6-2a069ff6d8e4|Arformoterol fumarate|isa|Fumarate salt
+7078b559-fa55-4e2b-978f-0acc87a94b0a|Arformoterol fumarate|has_part|Arformoterol(1+)
+6b3f9c82-7668-42dc-918e-8fd79ec3e54f|(S,S)-formoterol fumarate|isa|Fumarate salt
+95e8662b-e53b-416c-8d9c-66de7c799796|Arformoterol fumarate|has_enantiomer|(S,S)-formoterol fumarate
+2a9373f9-f061-49b3-bda1-11dc12faef29|(S,S)-formoterol fumarate|has_enantiomer|Arformoterol fumarate
+73a9a967-909b-4dd7-b714-0e42f86419aa|(S,S)-formoterol(1+)|isa|Ammonium ion
+0e2fd3b3-1c36-4249-8d05-9cb72ac9325f|(S,S)-formoterol(1+)|has_enantiomer|Arformoterol(1+)
+e8c3b891-2f75-4ffe-9e55-642d3eafb625|Arformoterol(1+)|has_enantiomer|(S,S)-formoterol(1+)
+c3dabcc1-b375-459b-ad3b-7ddf17a3ed76|(S,S)-formoterol(1+)|has_conjugate_base|(S,S)-formoterol
+11d96ce8-f77e-493d-9126-68b3855f7387|(S,S)-formoterol|has_conjugate_acid|(S,S)-formoterol(1+)
+26cfe19e-ab3a-47a3-917d-f034bc499e77|(S,S)-formoterol(1+)|isa|Cation
+395e1940-8766-47a8-a6f8-0de0a054a829|Formoterol|has_disposition|Beta 2 adrenergic agonist
+4d58bc0f-f50d-4c8e-b364-09ef89b1a0a4|(S,S)-formoterol fumarate|has_part|(S,S)-formoterol(1+)
+ce802a87-c030-432b-b85b-0408cc0d9696|Cefodizime|isa|Cephalosporin
+0193d34f-5925-4400-927d-08d24daa79ed|Cefuroxime|isa|Furan
+83326b4c-5bce-44e4-a251-a74956328ad4|Cefotaxime|isa|Thiazole
+b06a0100-30e9-4b25-bcd9-5a74c5bbe380|Cefodizime|isa|Thiazole
+b729532b-1d40-46ca-a3ec-1ceed6c344f1|Ceftriaxone|isa|Thiazole
+b71f7768-2df0-43ae-bafb-11d99b9b61cc|Cefuroxime|isa|Ether derivative
+9b9c72c6-f286-4384-9d51-5d4cb254448f|Cefotaxime|isa|Ether derivative
+969cc1a7-ea76-4fbe-ac24-efddcfa9a48f|Cefodizime|isa|Ether derivative
+462b0e4e-75e8-4902-b079-d842da8b8b7c|Ceftriaxone|isa|Ether derivative
+cf21ae86-a1d3-41fe-9718-ddbd2a0d10b8|Cefepime|isa|Ether derivative
+a7b3775e-30c5-4160-b5a9-da4cb3f4f319|Ceftazidime|isa|Ether derivative
+7e9db116-4b53-43df-a25c-27df723c1d3f|Rolitetracycline|isa|Tetracycline derivative
+7465f77f-1482-4459-a4a2-edf7e19c1370|Rolitetracycline|has_disposition|Protein synthesis inhibitor
+7d3647f5-f904-44e2-8eb4-13824ebf75da|Methacycline|isa|Tetracycline derivative
+a5a84cd0-16ec-4a40-81db-ea2ce6c5aff9|Epinastine|isa|Benzazepine derivative
+46733107-22df-4dda-addd-b23869596068|Levofloxacin|isa|Ofloxacin
+ee735a02-e05e-4c65-9ac5-31bd1697ee3a|Ofloxacin|isa|N-alkylpiperazine derivative
+b583ed89-9f65-4b7e-a0ee-c15d73d61658|Ofloxacin|isa|Piperazine derivative
+3a093b14-6b0c-4e1f-a979-6a23c95c3827|Ofloxacin|isa|Monocarboxylic acid
+e8e33473-bb9f-472f-8f14-72ca8dede884|Levofloxacin|has_disposition|DNA synthesis inhibitor
+40e19d38-a4a3-43cf-937e-398ea195ce4d|Levofloxacin|has_disposition|Topoisomerase IV inhibitor
+02ea9913-8bde-4039-8690-b42032e02174|Sotalol|isa|Ethanolamine derivative
+ac490ed7-82dc-45e4-8593-d83c85945f1a|Sotalol|isa|Alcohol
+3a210132-a952-4a6c-ab15-55eb07c90a3a|Sotalol|isa|Sulfonamide
+2b8534a1-79ca-45a9-92ad-96b2283b4e2d|Sotalol|has_disposition|Nonselective beta adrenergic antagonist
+3ab51331-89c8-4e0a-b7b1-bc391a527c4a|Sotalol hydrochloride|isa|Hydrochloride
+6e98031a-5cc1-4fd6-8a15-25ec7bbeda43|Sotalol(1+)|isa|Ammonium ion
+603f161b-7713-44fe-99ef-5ab8ad89e758|Sotalol|has_conjugate_acid|Sotalol(1+)
+aaa0a15c-b72e-438d-bed7-972fe0fedab2|Sotalol(1+)|has_conjugate_base|Sotalol
+1776fa09-b7d0-4fa8-bc3c-26787193915e|Pravastatin|isa|Monocarboxylic acid
+d2f358f2-727f-40a9-a5a8-e6a4c481172c|Pravastatin|isa|Carboxylic ester
+321c33e4-239f-4168-86af-b2ce638ad3e1|Pravastatin|isa|Alcohol
+2813ed4b-4a0d-49e3-9088-93feafc34b17|Pravastatin|has_disposition|HMG-CoA reductase inhibitor
+a61779d2-407d-4ae0-a4aa-02fb534c84dc|Pravastatin sodium|isa|Sodium salt
+a3db0cdb-6d25-4427-be06-439819b07457|Pravastatin(1-)|isa|Monocarboxylic acid anion
+226330a2-e344-4675-9287-0c4349bc4961|Pravastatin(1-)|has_conjugate_acid|Pravastatin
+329751b9-cd2a-4daf-a622-8773f2a98625|Pravastatin|has_conjugate_base|Pravastatin(1-)
+3c0f3248-cd92-4efd-8314-274b2c9f6999|Linezolid|isa|Oxazolidinone
+43a1712d-6865-4ca0-9863-03bdf8447938|Linezolid|has_disposition|Protein synthesis inhibitor
+acfcbde5-68ce-4040-a39e-9a61dfb5e7d1|Moxifloxacin|isa|Monocarboxylic acid
+7ee433a5-b298-48ce-9425-8efa9a8c54e8|Moxifloxacin|isa|Quinolone
+68602605-1637-4ad9-88a0-aa18d7aca9e7|Moxifloxacin|isa|Ether derivative
+b423a348-1210-4b81-b6bb-d1cf53bf9b68|Moxifloxacinium(1+)|isa|Ammonium ion
+780f0398-a508-445e-9994-9ca81f812956|Moxifloxacinium(1+)|isa|Cation
+21f6adfc-7c16-4fbe-a112-c0ed01e1624d|Moxifloxacin|has_conjugate_acid|Moxifloxacinium(1+)
+4b962175-8883-49b1-b00f-164a6fe5f3b2|Moxifloxacinium(1+)|has_conjugate_base|Moxifloxacin
+ddf8698d-a353-43fc-aad7-ec34351680ca|Moxifloxacin hydrochloride|isa|Hydrochloride
+2c1786f3-a299-4c5c-97c0-aedd6219c41c|Tinidazole|isa|Imidazole
+a25b0281-fc9a-4801-bc43-2a5b2277809c|Monocarboxylic acid|has_conjugate_base|Monocarboxylic acid anion
+ce1ac90c-67c2-4500-a75a-d1b62bbc7788|Monocarboxylic acid anion|has_conjugate_acid|Monocarboxylic acid
+d70926e0-dd93-455c-a575-1186f84680e3|Sulfacetamide|has_functional_parent|Sulfanilamide
+5721c472-0eb8-4659-acb5-6045dc4aa17c|Sulfacetamide|isa|Sulfonamide
+7b0883ae-901b-48e0-9a0a-fdbe6b7e4439|Sulfacetamide(1-)|isa|Anion
+c4dd68d8-c19b-4056-a81b-54ba34c26b5f|Sulfacetamide|has_conjugate_base|Sulfacetamide(1-)
+c0465b24-d95b-4e73-a6b3-c40e10778f82|Sulfacetamide(1-)|has_conjugate_acid|Sulfacetamide
+eee93223-427a-43e8-80ea-4beb7807f32c|Sulfacetamide sodium|isa|Sodium salt
+f160bd37-c099-4c35-b219-2da8122e6b0f|Sulfacetamide sodium|isa|Hydrate
+ef7d45b1-60f4-4ba0-ba44-d66c69a6829f|Nimodipine|isa|Dihydropyridine
+e1397c5b-f092-4e14-ab61-d7758e89e461|(S)-salmeterol|isa|Ether derivative
+e50e987a-c3aa-4360-a086-5399094f03c7|(R)-salmeterol|isa|Ether derivative
+460dcc2b-6e7d-40f6-a40d-6f8ffdc5504c|(S)-salmeterol|has_enantiomer|(R)-salmeterol
+fdab2d97-b933-4bf5-bbf8-153f640add55|(R)-salmeterol|has_enantiomer|(S)-salmeterol
+4f96b473-f68e-4f20-a2b9-a021608ad93d|Thiostrepton|isa|Cyclic peptide
+61537720-a275-4d35-b343-f944b2a624f0|Thiostrepton|has_disposition|Protein synthesis inhibitor
+635007ad-a672-4785-9cb0-5c8f11bf186a|Isoprenaline|has_disposition|Sympathomimetic
+00779387-36bb-4f5d-8c72-7464deeae4c5|Isoprenaline|isa|Alcohol
+d8210fd4-8f95-4e74-bf8c-4243f8cc615d|Isoprenaline|has_disposition|Nonselective beta adrenergic agonist
+55aef704-b388-49d2-b910-80f439171653|Posaconazole|isa|Triazole
+ac23de7a-43d1-4126-a665-bef30582d143|Posaconazole|isa|Piperazine derivative
+dafa0ea4-bc5d-4de6-90f8-354bc7121a4c|Posaconazole|isa|Ether derivative
+eb3a6823-04cc-4a02-bf4b-45167cabce72|Pizotifen maleate|isa|Maleate salt
+88ae1a8f-195a-4af4-b120-ca9d1eb7321a|Pizotifen|isa|Piperidine derivative
+c22af17b-09d5-4e36-96d9-230bc91a1035|Pizotifen|has_conjugate_acid|Pizotifen(1+)
+f0c77a53-5107-4f9a-bd53-2f4568b67855|Pizotifen(1+)|isa|Ammonium ion
+8343f490-a324-4db1-aed6-b1091dc04f7e|Pizotifen malate|isa|Malate salt
+6fba43ec-4c20-4186-9587-d34b5853028e|Organosulfonate salt|isa|Salt
+bd2ad051-d8d3-49a4-807a-55b4013d8413|Methanesulfonate salt|isa|Organosulfonate salt
+664ad73f-f5cd-42f9-a7b7-1d77f1575002|Amlodipine besilate|isa|Organosulfonate salt
+508e3702-3f51-49a8-9366-e156806ee92c|Metronidazole|isa|Alcohol
+23501f04-bed3-422b-b712-09be2b4e815b|Metronidazole(1+)|isa|Cation
+307ce1ea-612d-4823-ba84-936e1ca1fd96|Metronidazole(1+)|has_conjugate_base|Metronidazole
+e45a827d-421e-4e76-b75c-23eb441f7a26|Metronidazole|has_conjugate_acid|Metronidazole(1+)
+02ee95e4-9242-45b7-9db2-7bf1731cb85c|Metronidazole hydrochloride|has_part|Metronidazole(1+)
+bcca487f-4f37-41cf-b721-30c30029e217|Mitotic inhibitor|isa|Disposition
+748d3d2a-727e-49cc-95b2-5c7176416fd4|Microtubule inhibitor|isa|Mitotic inhibitor
+4a4d6dc3-409d-4242-88c4-b7dfdc93f8b0|Azelastine|has_disposition|Oxidoreductase inhibitor
+9ffe4bf8-228d-44ab-ad45-f217bc81145c|Neamine(4+)|isa|Ammonium ion
+e48a3440-a50b-42e7-905d-126efdc5da06|Neamine(4+)|isa|Cation
+6c676f3a-d05d-4961-b183-9558970baa97|Neamine(4+)|has_conjugate_base|Neamine
+d3e2aced-cb8e-4bdb-a3b6-1a15abd8f9f5|Neamine|has_conjugate_acid|Neamine(4+)
+04aca121-a1a8-462e-b0ae-8cea143a64e8|Butirosin|isa|Amino cyclitol glycoside
+ca0594ed-8fee-4a86-9391-5ffc8bc6d48a|Neomycin C(6+)|isa|Ammonium ion
+7d020638-eecb-4162-a92a-7b1d1896b35e|Neomycin C(6+)|isa|Cation
+e0192eb1-ad24-440f-889f-c64b29404e39|Neomycin C(6+)|has_conjugate_base|Neomycin C
+632d516f-846e-457a-9d9b-6eafccdf4024|Neomycin C|has_conjugate_acid|Neomycin C(6+)
+8f551eb2-f93e-4762-ba43-7759a3268df6|Cetirizine|has_disposition|H1-receptor antagonist
+0399c375-4113-42b4-9bc2-b0a2555c7d27|Ergot alkaloid|isa|Molecular entity
+14d24cff-e357-4552-8208-0c3ab1676448|Mirabegron|isa|Thiazole
+cf77cee0-0ae6-45dd-b573-d4a0be34a45c|Mirabegron|isa|Amide
+231a3841-43f4-47bd-9cfd-ce169e3a65f5|Mirabegron|isa|Ethanolamine derivative
+17e3bfbd-c2f8-4060-8349-9718c7940d5f|Mirabegron|has_disposition|Beta 3 adrenergic agonist
+d493adb9-115d-41e2-a8ff-d1c77f8d1cd8|Dicarboxylic acid anion|has_conjugate_acid|Dicarboxylic acid
+d06fdba4-40c2-4c29-9021-4b9d3ee3dfc9|Dicarboxylic acid|has_conjugate_base|Dicarboxylic acid anion
+78780da6-318c-462d-95bf-51f79ecb3cbf|Penicillin|has_conjugate_base|Penicillinate anion
+9e7d763d-e8ee-44ce-8da8-d0ed4cdb4f82|Penicillinate anion|has_conjugate_acid|Penicillin
+6c79918c-bb9c-4a01-890e-0c8722c7d4c7|Janus kinase inhibitor|isa|Tyrosine kinase inhibitor
+141fe31e-1692-47f3-ac17-2401df8027b6|Sympatholytic|isa|Adrenergic
+60b9bbdc-91bb-4bf4-8341-140261bbb789|Cefoxitin|isa|Cephalosporin
+ca093ace-2a4a-4fd9-98a5-b694efbeb9d8|Roxithromycin|isa|Macrolide
+e89d68cd-e901-4ab1-abfc-bbb728984929|Moxalactam|isa|Cephalosporin
+8a41c4b9-e4b9-4561-95a8-ff96f0feeaf6|Amikacin|isa|Aminoglycoside
+41eb46b1-d6e3-4210-8458-7562d346767f|Pivampicillin|isa|Penicillin
+8aaddb44-5332-48a2-a8df-0cefdf9caacb|Sulfamerazine|isa|Sulfonamide
+ceae16b1-4c07-4749-adb3-ad9133a0dcef|Gemifloxacin|isa|Quinolone
+3fee8b43-b9bf-491d-ac37-2349b053adbb|Sulfamethazine|isa|Sulfonamide
+0a58f646-e468-4c22-97dd-15f98e93c7b6|Sulfapyridine|isa|Sulfonamide
+38009b32-76f2-4a63-acd8-23005a3d5a10|Gatifloxacin|isa|Quinolone
+75c171fd-1f5e-4f25-9ebb-9f8280079ac3|Desloratadine|has_disposition|Cholinergic antagonist
+844cdf14-db15-48d7-95fc-89fab9036ef1|Chlorphenamine|has_disposition|H1-receptor antagonist
+e0453bd0-e650-4c34-95f9-76081e18cfba|Chlorphenamine|has_disposition|Histamine antagonist
+e61593c4-2db4-4fce-af81-9faa2f85aea7|Doxylamine|has_disposition|H1-receptor antagonist
+529b24d4-c52e-4992-9437-1748cc4da6c5|Esomeprazole|has_disposition|Histamine antagonist
+c5961d51-949b-48d0-9d59-6445d1fadec4|Esomeprazole|has_disposition|Proton pump inhibitor
+f78d702a-1462-4606-a9bd-4f897d97a4e9|Valsartan|has_disposition|Angiotensin II receptor antagonist
+761a7ee0-1b08-4c33-bcf3-06deef31b1d3|Candesartan|has_disposition|Angiotensin II receptor antagonist
+e8e372d7-71af-470e-b6b2-2ec12d76c252|Telmisartan|has_disposition|Angiotensin II receptor antagonist
+d7538382-93e2-4c80-884e-6365e8d427e7|Telmisartan|has_disposition|Angiotensin-converting enzyme inhibitor
+17dff84a-49bc-4790-8a7c-a709ab76365d|Bisoprolol|has_disposition|Sympatholytic
+52dd1a01-3a54-4b31-b21f-f562000d09cd|Eprosartan|has_disposition|Angiotensin II receptor antagonist
+981b6dcc-a0ff-4380-979b-05c689a26e32|Ciprofloxacin|has_disposition|DNA synthesis inhibitor
+03bef21e-3d96-4720-9bbe-1105d1e02183|Carteolol|has_disposition|Sympatholytic
+1b629948-b67b-44a6-be08-516b1fc86dab|Atenolol|has_disposition|Sympatholytic
+04713b0d-dec2-4e83-b37b-56f463d774f7|Pefloxacin|has_disposition|DNA synthesis inhibitor
+a98bc4a6-e449-4bf1-9903-2ff68ff2111a|Rifampicin|has_disposition|DNA synthesis inhibitor
+d222e594-2696-4734-bf7b-60f74246ea1b|Betaxolol|has_disposition|Sympatholytic
+f126b181-2679-494a-ab6d-e11dd284c8b8|Chloramphenicol|has_disposition|Protein synthesis inhibitor
+36962c19-1b1a-417b-916d-1cf212601a9e|Ofloxacin|has_disposition|DNA synthesis inhibitor
+5c23ba67-78ac-40ea-ba66-4496478de299|Cinnarizine|has_disposition|H1-receptor antagonist
+8724b894-df9e-40d4-a944-e8a4509bd750|Streptomycin|has_disposition|Protein synthesis inhibitor
+ec419632-60ba-4120-84f0-2c6998a8f334|Epinastine|has_disposition|H1-receptor antagonist
+5efef246-9815-455f-ac19-21a333867bb9|Alprenolol|has_disposition|Sympatholytic
+7241086b-a1e3-444b-95c6-e23c9ecb0358|Irbesartan|has_disposition|Angiotensin II receptor antagonist
+7620fb44-2fb8-44b8-8103-2e2372df47dd|Labetalol|has_disposition|Sympatholytic
+005ab3c8-0cb8-4584-a2f2-f3c197faef93|Labetalol|has_disposition|Nonselective beta adrenergic antagonist
+9aea7f1a-bd8f-4fd5-9bc3-664e74af27c2|Olmesartan|has_disposition|Angiotensin II receptor antagonist
+ccdebe8c-1e71-4e2a-a986-877ef806b013|Tetrazole|isa|Azole
+7793fb1a-0d84-48a9-84e7-868d2a960d5f|Thiazole|isa|Azole
+b625fc87-9df3-4d77-96fe-add6ff1c0893|Apoptosis inhibitor|isa|Disposition
+aa22db2f-e72d-4151-aa30-bfd0cae142c4|Nedocromil|isa|Dicarboxylic acid
+7c7494ef-1ebd-4dec-8677-18838ffe5e1e|Bradykinin receptor antagonist|isa|Disposition
+a227207c-bb3b-46e8-a26f-5ea0d6e906f8|Indacaterol maleate|isa|Maleate salt
+95929522-98e6-4816-b03d-2cb7ba0e8600|Indacaterol(1+)|isa|Ammonium ion
+f7820ac1-f5b9-4b7b-bb97-a948fa4a3dc6|Indacaterol(1+)|isa|Cation
+aee21c6d-6c0b-4d47-914f-a0b8e4c8d44b|Indacaterol|isa|Quinolone
+73c55eda-3737-4ced-b5fc-090f011639c1|Indacaterol|isa|Alcohol
+90786e63-9e07-4e71-96e9-ec445949bd25|Indacaterol|has_disposition|Beta 2 adrenergic agonist
+3fc889f4-a539-4fab-8a30-7154012ba173|Indacaterol|has_conjugate_acid|Indacaterol(1+)
+0095dcbb-e640-4b25-846d-5ea40530e044|Indacaterol(1+)|has_conjugate_base|Indacaterol
+1155d9fe-d51f-4d7d-8d8e-b62eb81289bc|Fidaxomicin|isa|Macrolide
+9380eb0d-388e-408c-b64d-48065ac06b44|Fidaxomicin|isa|Chlorine compound
+b882c8b7-c629-4dab-984e-5f2b289778d3|Fidaxomicin|isa|Carboxylic ester
+ab13703e-329b-49e3-a23e-1d229d214a39|Fidaxomicin|isa|Phenol derivative
+9769d0c5-670a-4b36-bf5b-6b3ad643738d|Linagliptin|isa|Quinazoline
+a21791a2-0e15-4300-8fe2-6cc0ca8c96a8|Linagliptin|isa|Piperidine derivative
+e40c7238-ab5d-4589-975d-aae1b57cd278|Linagliptin|has_disposition|Dipeptidyl peptidase IV inhibitor
+38839c64-89b4-4da4-a942-5b806a94a1b3|Azilsartan medoxomil|isa|Benzimidazole
+07a6fec3-81ab-4f2e-bf94-789e1c2cf96e|Azilsartan medoxomil|isa|Dioxolane
+79725570-cf9a-43db-ac02-316ce440b264|Azilsartan medoxomil|isa|Ether derivative
+a7cbdfd8-5e58-4517-90ef-71910869ea82|Azilsartan medoxomil|has_disposition|Angiotensin II receptor antagonist
+bccb1b75-5c78-4df2-9e47-f2cd2cc63b8c|Azilsartan medoxomil|isa|Carboxylic ester
+286b606b-f939-4e0d-8f93-06d210c7ae94|Azilsartan|isa|Benzimidazole
+783ae36c-c37c-4a13-b58f-3c95b388784d|Azilsartan|isa|Ether derivative
+74ebfc7b-b29c-453a-8aef-5fda477e57cc|Azilsartan|has_disposition|Angiotensin II receptor antagonist
+2115af25-5227-4a53-a377-6759ec51eba9|Ceftaroline fosamil|isa|Cephalosporin
+3cfcb35e-61bb-4508-800b-2cd0bf6c4879|Ceftaroline fosamil|isa|Thiazole
+1d7a741d-8432-4b6e-820b-dddce95da138|Ceftaroline fosamil|isa|Ether derivative
+448ad42d-455f-4de4-9e3b-2eed6db19285|Ceftaroline fosamil|isa|Thiadiazole derivative
+07034040-f765-4286-a008-d7de5828e78c|Topoisomerase IV inhibitor|isa|Topoisomerase inhibitor
+441e8ab7-4ec3-477c-81b4-7e6e1b96f2d7|Deoxyribonucleic acid topoisomerase (adenosine triphosphate-hydrolysing) inhibitor|isa|Topoisomerase inhibitor
+0c962a1e-df4a-4710-9f1e-9cd7aaacfb24|Ceftaroline|isa|Thiazole
+b24557ac-e315-4b86-9383-f6c84f7c2c8c|Ceftaroline|isa|Cephalosporin
+4a860452-4cb9-4e3c-b849-c47a89682acb|Ceftaroline|isa|Ether derivative
+4876c5b0-470d-4934-b703-d877201f17cf|Ceftaroline|isa|Thiadiazole derivative
+508ffa39-3b36-4f6b-a2d4-d906331f7830|Ceftaroline fosamil|has_functional_parent|Ceftaroline
+f66aa970-c27f-41a2-a19c-cac3655fe5e0|Salbutamol|has_disposition|Beta 2 adrenergic agonist
+5ad14536-639a-4f85-bd60-af323fe43ebc|Alcaftadine|isa|Aldehyde
+e3412a22-fd56-4c4e-949d-43945734bcd8|Alcaftadine|isa|Piperidine derivative
+d00a8acb-43f7-4e25-a802-9c4cb32700c3|Alcaftadine|has_disposition|H1-receptor antagonist
+f1a9f63a-c1bf-4747-ad75-d396927d17e7|Bepotastine besylate|isa|Organosulfonate salt
+c32fd0fb-52e7-45d3-b696-dd246e493416|Bepotastine(1+)|isa|Cation
+b0d5c63a-248e-41a3-af3d-24f90cbc012b|Bepotastine|isa|Pyridine derivative
+7fcf4672-90e2-4370-acee-d8161b37532c|Bepotastine|isa|Monocarboxylic acid
+f4a4fd24-a53f-44fc-85c2-4f046cbb6646|Bepotastine|isa|Piperidine derivative
+1a4b4e58-040c-484f-85f5-0b754af300ef|Bepotastine|isa|Ether derivative
+1ecb51c2-af06-4837-86b4-2413ddb00dd4|Bepotastine|has_disposition|H1-receptor antagonist
+763684e3-f6d2-4a44-80fb-fe7811c61f9f|Bepotastine|has_conjugate_acid|Bepotastine(1+)
+7c697c83-0609-415e-a9ce-d9278fbf0a73|Bepotastine(1+)|has_conjugate_base|Bepotastine
+5d2589af-ceec-4de9-8469-a0ad0d592c03|Isoquinoline|isa|Molecule
+de73808e-a32c-4387-ba94-6bae20ed6587|Telavancin hydrochloride|isa|Hydrochloride
+45c96399-b2ee-4298-824f-ed02cffd36df|Telavancin|has_functional_parent|Vancomycin
+943dbf66-7ef6-456d-a609-678ea5159240|Pitavastatin calcium|isa|Calcium salt
+6561e49e-a7db-44bb-afb4-8bf32b4b6450|Pitavastatin|isa|Monocarboxylic acid
+b3cc2dc1-59bb-473b-bee5-efd4c1be69fa|Pitavastatin|has_disposition|HMG-CoA reductase inhibitor
+5cc2ff0e-dff6-49ab-a54b-317523d3cb97|Pitavastatin(1-)|isa|Monocarboxylic acid anion
+17f1e4c5-a86a-4944-9811-7a09d76f1332|Pitavastatin(1-)|has_conjugate_acid|Pitavastatin
+3550846a-5ddd-427d-9cbf-cdc798404be3|Pitavastatin|has_conjugate_base|Pitavastatin(1-)
+a1420c1e-885a-4367-a7a3-b995b9b88a67|Saxagliptin|isa|Aadamantane derivative
+af60c374-6c30-49fa-b0c4-a4968bc5620d|Saxagliptin|isa|Nitrile
+d7af7252-088a-425f-b467-2c70c68f5b96|Saxagliptin|isa|Azabicycloalkane
+269de5b4-712c-43b6-a832-bd2d498a81eb|Saxagliptin|isa|Alcohol
+a468a66d-c6b1-4833-ab31-a0601c5e91e8|Saxagliptin|has_disposition|Dipeptidyl peptidase IV inhibitor
+988f7fd2-5535-46ba-90c3-66b4414ee562|Fusidate|has_conjugate_acid|Fusidic acid
+50971ad4-940f-4007-9745-348d2ed8d3e9|Fusidic acid|has_conjugate_base|Fusidate
+aae0a6a1-89cd-426e-ab31-42bc57a52331|Fusidate|isa|Steroid acid anion
+5686e193-6123-48bf-8070-3816cf13a90f|Minocycline(1-)|has_conjugate_acid|Minocycline
+74c63379-6472-4353-ab43-fbe85da150e6|Minocycline|has_conjugate_base|Minocycline(1-)
+c9df494b-c55b-4605-949c-5457b9e0c64d|Minocycline(1-)|isa|Anion
+2d18f7d6-2bab-49d1-b02f-fe7b94f40a49|Novobiocin(1-)|has_conjugate_acid|Novobiocin
+cb62c713-19f1-4b6c-859a-3932231193a5|Novobiocin|has_conjugate_base|Novobiocin(1-)
+b3b01405-f5b9-4521-8790-a12cb4c0e05b|Novobiocin(1-)|isa|Anion
+74a34919-78bc-4880-919d-8914d13bbd00|Novobiocin|has_disposition|Deoxyribonucleic acid topoisomerase (adenosine triphosphate-hydrolysing) inhibitor
+da237157-9400-49ce-8147-ceefd02b1167|Tetracycline(1-)|has_conjugate_acid|Tetracycline
+25de39a5-7151-429e-b2cc-1f95a69c70a7|Tetracycline|has_conjugate_base|Tetracycline(1-)
+7724afce-02e4-4e0b-9042-e88ed12462f7|Tetracycline(1-)|isa|Anion
+ca66eb39-fcf4-4170-9b22-6bd1359a4250|Salbutamol|isa|Phenol derivative
+6f69257e-235c-4b42-a61e-c880e2a858bf|Alogliptin|isa|Nitrile
+f10003a7-3c3d-4ec9-a2af-e8313429d763|Alogliptin|isa|Piperidine derivative
+ccc29796-4d3d-4d6d-81ac-2b5c8360b0d7|Alogliptin|isa|Pyrimidine derivative
+b9712a9e-f89f-4987-a9ef-8972b0c53b9c|Alogliptin|has_disposition|Dipeptidyl peptidase IV inhibitor
+d61d5308-5d13-4871-a866-46b152700a16|Benzoate salt|isa|Salt
+f264df1e-4bf8-455c-8370-9368be8c1002|Alogliptin benzoate|isa|Benzoate salt
+4f23fdcb-ebd2-47aa-8eed-aa8dda31d197|Alogliptin(1+)|isa|Ammonium ion
+5ba01759-efac-4fb1-870e-bc4679be2dc7|Alogliptin(1+)|isa|Cation
+584c6cb2-6348-4399-b44d-c14dd7da882f|Alogliptin|has_conjugate_acid|Alogliptin(1+)
+2d8414cd-7541-4167-b098-b31c3f512816|Alogliptin(1+)|has_conjugate_base|Alogliptin
+97c8ee01-6fdf-42d5-a5bb-71c6e24820d2|Levobunolol|has_disposition|Nonselective beta adrenergic antagonist
+e9317891-1e4f-4288-8f8e-09d6d2ca89fb|Levobunolol|isa|Ether derivative
+7dc03936-b947-413f-aacf-c9fe0fa7400e|Levobunolol(1+)|isa|Ammonium ion
+1fd95503-aa50-4662-9747-56bc5f606710|Levobunolol(1+)|isa|Cation
+555f2e12-ac87-4b88-bb5b-251a29fdb2de|Levobunolol|has_conjugate_base|Levobunolol(1+)
+5e895413-f8dd-4b22-9169-26c77d219926|Levobunolol(1+)|has_conjugate_acid|Levobunolol
+fd516fee-1c98-414f-9e73-e0348f516d6b|Terbutaline|isa|Phenol derivative
+ebbb6f09-ada3-4dd2-b054-d8ef8d1ebd12|Terbutaline|has_disposition|Beta 2 adrenergic agonist
+eda08b6a-15c0-4b78-836e-b6e5c0a3c0bf|Terbutaline|has_disposition|Sympathomimetic
+b393e156-273d-4333-9384-50c126ad9c94|Sulfanilamide|has_disposition|Carbonic anhydrase inhibitor
+ebbe3420-7d42-429c-9436-3b77abb8beae|Sodium-glucose cotransporter subtype 2 inhibitor|isa|Disposition
+8027496e-427a-4f0d-a4e9-12daa4374bbf|Fumagillin|isa|Carboxylic ester
+95183783-0778-4e1a-a190-777ab3987d1d|Fumagillin|isa|Ether derivative
+5a9c2751-a072-4037-bb8c-8cf8eee7d366|Chlorphenamine|has_disposition|Serotonin re-uptake inhibitor
+ae0538a3-6d4b-49f8-a642-6b853fe3615d|Tobramycin(5+)|isa|Ammonium ion
+38078488-53c2-4917-8289-3c664fcbef42|Tobramycin(5+)|isa|Cation
+6380308e-ddf0-455a-b527-0b72d5d158bd|Tobramycin(5+)|has_conjugate_base|Tobramycin
+fd98d100-dc22-4705-aefc-2262a7153c5e|Tobramycin|has_conjugate_acid|Tobramycin(5+)
+04909cbe-47ad-4e26-a811-c2940bfe7635|Sulfadiazine|isa|Sulfonamide
+94037277-240e-423f-81a1-ebc74bcb1c42|Sulfamethoxazole|has_disposition|Cytochrome P450 inhibitor
+0476144c-b66e-4937-bc64-94b56ee11541|Vilanterol|isa|Ether derivative
+f2caac2c-85f2-41c9-8d0b-52bfe09f2deb|Vilanterol|has_disposition|Beta 2 adrenergic agonist
+c25b3b18-484e-4cec-b994-3d35ab8d3823|Vilanterol(1+)|isa|Cation
+202f4930-0050-4c2d-a376-9368a60e98ed|Vilanterol(1+)|isa|Ammonium ion
+3c16f660-5b1f-4578-965a-86fb0fa7071e|Vilanterol|has_conjugate_acid|Vilanterol(1+)
+f3ae6281-f7cf-47e9-99c5-8a5e7400ea42|Vilanterol(1+)|has_conjugate_base|Vilanterol
+410bbfd1-efd0-42ba-aafe-604898c0df51|Vilanterol trifenate|isa|Salt
+02ea3654-4b3e-4e45-8395-8f483a793318|Vilanterol trifenate|has_part|Vilanterol(1+)
+1a879457-3b4f-4ad9-bfae-ea4503e3d5d9|BRAF inhibitor|isa|Protein kinase inhibitor
+32840af5-90e0-4a32-b7b6-fad6d1a958c6|Ornidazole|isa|Imidazole
+f18b8309-6b53-4193-83b6-09597b695023|Ornidazole|isa|Alcohol
+984624c6-d5d0-433b-827c-fc5bfcaf8515|Ornidazole|isa|Chlorine compound
+d426c0fb-aca8-4d1b-be82-5287796ceb9f|Rifaximin|isa|Rifamycin
+e7bfe9a2-67dd-4e39-b3d9-cf16765eedc8|Rifaximin|isa|Lactam
+d38c96b0-a1d0-414a-bcfb-907a4106cc19|Pipemidic acid|isa|Monocarboxylic acid
+a9c2546e-fe10-44ec-ac05-b2a2bd799050|Pipemidic acid|isa|Piperazine derivative
+de710a42-bc11-4c33-81fc-addcadea4a79|Enoxacin|isa|Piperazine derivative
+aa824be8-f657-4e48-860e-7fdcab02f0ad|Pipemidic acid|has_disposition|DNA synthesis inhibitor
+31269aef-f94a-47e0-a710-c59488181546|Phentolamine|isa|Imidazole
+82ad385c-59f2-4dc2-972a-8924972f8e98|Phentolamine|isa|Phenol derivative
+33a11bdf-2cfe-4d32-8550-e0f951331e3b|Phenformin|has_functional_parent|Biguanide
+32200071-48ec-4a7a-9569-db8beee7b009|Nitrendipine|isa|Carboxylic ester
+d07cd856-966d-4d04-bd9e-6927a103bb4f|Nitrendipine|isa|Dihydropyridine
+78105f75-e43e-4563-ad00-ee2c829f8c0e|Isomerase inhibitor|isa|Enzyme inhibitor
+7d4c31f2-fc62-4d69-9ea5-f945c9901874|Vilanterol|isa|Phenol derivative
+23d50712-381f-4155-8e43-5beb55656fa8|Sitagliptin|has_disposition|Dipeptidyl peptidase IV inhibitor
+13055850-2b97-4606-bc81-8046abb0cb42|Fluconazole|has_disposition|Cytochrome P450 inhibitor
+fc4e9958-6e99-4026-937c-38bf1f488513|Transferase inhibitor|isa|Enzyme inhibitor
+7b9c36bf-50e4-4e7d-a890-8eef6a193bf7|Protein kinase inhibitor|isa|Transferase inhibitor
+541b9e91-f49a-49db-91d6-57b8cdc2a984|Oxidoreductase inhibitor|isa|Enzyme inhibitor
+26242c10-40ba-4657-a87f-7eb42a93a70d|Hydrolase inhibitor|isa|Enzyme inhibitor
+a5947d1a-8121-48c0-82e7-0718fe7e2266|Alpha-glucoside inhibitor|isa|Hydrolase inhibitor
+1e50f0ed-9361-4e59-9c98-a85fd89a6151|Coagulation factor Xa inhibitor|isa|Hydrolase inhibitor
+22770404-202b-4fb5-a4e5-da19d179271f|Angiotensin-converting enzyme inhibitor|isa|Hydrolase inhibitor
+63258250-3a23-47d8-aeb4-3ed641105037|Dipeptidyl peptidase IV inhibitor|isa|Hydrolase inhibitor
+8143cc36-601f-4eb3-8d1d-1580fb19ff2f|Pentosyltransferase inhibitor|isa|Transferase inhibitor
+e726a09d-9985-4ff0-ab36-77d3cf902181|Purine nucleoside phosphorylase inhibitor|isa|Pentosyltransferase inhibitor
+425d0f45-fe1b-49b4-bd6d-dbe1835808c8|Esomeprazole|has_disposition|Monoamine oxidase inhibitor
+48277284-519a-4b2b-8a3b-68d9ec0412f4|Nucleotidyltransferase inhibitor|isa|Transferase inhibitor
+e1ddd2df-5062-4e6d-ae37-c59b3b3def2e|Topoisomerase inhibitor|isa|Isomerase inhibitor
+7a215cb8-eae3-47d8-9203-4f4dbe159a12|HMG-CoA reductase inhibitor|isa|Oxidoreductase inhibitor
+a4a80721-ff57-43af-9ecc-09673e58c484|Aromatase inhibitor|isa|Oxidoreductase inhibitor
+b57de51d-e44f-4e55-a9e1-ee3d832a55e3|Prostaglandin-endoperoxide synthase inhibitor|isa|Oxidoreductase inhibitor
+9e20e9b6-2e85-427c-81b5-d6b43277d791|Xanthine oxidase inhibitor|isa|Oxidoreductase inhibitor
+cf830e3d-2359-4e4c-82c5-1e3b227509c5|Monoamine oxidase inhibitor|isa|Oxidoreductase inhibitor
+3150e74a-f770-42cf-bda4-dbc7b6063971|Thymidylate synthase inhibitor|isa|Transferase inhibitor
+2810a9a7-6eda-465f-aa02-cc275c023bb0|Cytochrome P450 inhibitor|isa|Oxidoreductase inhibitor
+ddd1656c-02c5-46b6-82cd-5d23bc88266e|Voriconazole|has_disposition|Cytochrome P450 inhibitor
+b9e11ba1-7864-48a3-9e16-b75ab1e6c36c|Carbonic anhydrase inhibitor|isa|Enzyme inhibitor
+d5fc8b61-4859-43cf-863e-a1f6bae7e81b|Nisoldipine|has_disposition|Platelet aggregation inhibitor
+e35ece2f-bd4c-4e4f-8ba0-d41bbe47edb6|Nisoldipine|isa|Dihydropyridine
+42a7613d-267c-4dc4-9db1-da3010bdb66a|(R)-nisoldipine|isa|Dihydropyridine
+47bec4c2-4ed5-48bf-9a72-680ea70bcb1f|(S)-nisoldipine|isa|Dihydropyridine
+3431d290-b355-49f1-a492-28397d030d14|Pathway inhibitor|isa|Enzyme inhibitor
+7340b0a1-3961-4daa-98e0-7856a36fe8fd|Protein synthesis inhibitor|isa|Pathway inhibitor
+6d15d487-78b0-4549-bb05-d6f34055804d|Proton pump inhibitor|isa|Hydrolase inhibitor
+ab9ee7dc-0cc0-4240-9819-d1494af449c3|DNA synthesis inhibitor|isa|Pathway inhibitor
+41ce89c3-16cc-4722-b348-aea7a73ae62b|Serine proteinase inhibitor|isa|Hydrolase inhibitor
+3fa35f1f-d055-416b-b499-f50fb47a216d|HIV-1 reverse transcriptase inhibitor|isa|Hydrolase inhibitor
+3dad6522-7dc3-4bb9-b23f-37df688c4962|N-sulfonylurea|isa|Sulfonamide
+fefa8da7-45bc-45f3-aec5-9f59101889ea|Acetohexamide|isa|N-sulfonylurea
+7487cd6b-2569-4a1b-9c99-c855a49bbe23|Chlorpropamide|isa|N-sulfonylurea
+fef0897a-e16a-4cbc-9133-ca313749cafb|Gliclazide|isa|N-sulfonylurea
+f420020e-02b7-4fb7-9e2e-ed311757e359|Glimepiride|isa|N-sulfonylurea
+f5df0bb4-0ad8-4133-9acb-720e564d5de8|Glyburide|isa|N-sulfonylurea
+737a08b5-ad65-4876-bb42-a621dc1cfa23|Tolbutamide|isa|N-sulfonylurea
+58f23367-c180-4bdd-944d-cd1e79b84cfb|Tolazamide|isa|N-sulfonylurea
+b89b5013-ba58-46b6-82d1-baaa6bffca97|Vancomycin(1+)|isa|Cation
+6c16d2be-9c9f-45d6-8ad6-1948b964c273|Vancomycin|has_conjugate_acid|Vancomycin(1+)
+30b38200-b6a6-4ea6-92cf-88dee12171b8|Vancomycin(1+)|has_conjugate_base|Vancomycin
+35eedb2e-35b5-44e2-b150-c5d952b00290|Tylosin(1+)|isa|Ammonium ion
+e94c2e4a-7d0e-43ae-bcb8-e07b00c8de22|Tylosin(1+)|isa|Cation
+fd4b49b1-0306-4ade-b4b8-ec9f18074aec|Tylosin(1+)|has_conjugate_base|Tylosin
+8e4cb3a8-ae7c-48b6-9576-0d7ddf6f0d92|Tylosin|has_conjugate_acid|Tylosin(1+)
+2e2ddaef-3869-448e-907c-3c547f9697c7|Tylosin|isa|Aldehyde
+0203c64b-d982-4a7a-a6cb-05b8efce84d2|Glipizide|isa|N-sulfonylurea
+b19d36c6-e3ac-47aa-a8f2-8ee075d985bb|Esomeprazole|isa|Benzimidazole
+d99ed03f-aea7-461c-8cda-5410158dbbb0|(R)-omeprazole|isa|Benzimidazole
+8903601a-e531-4d66-8d66-be581b3f20e7|Esomeprazole|has_enantiomer|(R)-omeprazole
+2d8d62dc-36b6-4337-9b54-22f541533260|(R)-omeprazole|has_enantiomer|Esomeprazole
+fc10d08e-f528-4f73-86af-850ce14c2278|Esomeprazole(1-)|isa|Anion
+096af73e-4567-4713-9fac-f8805f54fc24|Esomeprazole(1-)|has_conjugate_acid|Esomeprazole
+919cc90b-79bb-438c-88b1-01ac6fafc7a5|Esomeprazole|has_conjugate_base|Esomeprazole(1-)
+d8d7bbb9-97d0-4617-93b6-c57ef4c864b5|Esomeprazole magnesium|has_part|Esomeprazole(1-)
+7cbc9fe3-6e36-4067-8ad7-c607c771fc32|Cetirizine|isa|Piperazine derivative
+e2b2d9c5-3301-4c62-becd-d00deac774b7|Rosuvastatin calcium|isa|Calcium salt
+1d582623-b22d-4721-a2db-a94e671e588d|Rosuvastatin|isa|Monocarboxylic acid
+97e1bf1c-c764-41bd-a460-d765679e4f9c|Rosuvastatin(1-)|isa|Monocarboxylic acid anion
+ecc765d0-2722-41ee-a05c-0b20e9c180c6|Rosuvastatin(1-)|has_conjugate_acid|Rosuvastatin
+ea22ccb1-22bd-42a8-ac90-dee7cb33b934|Rosuvastatin|has_conjugate_base|Rosuvastatin(1-)
+453bdb47-fbf0-48b6-99ff-e1d0a981db27|Spectinomycin dihydrochloride|isa|Hydrochloride
+6f18fb3a-6b56-4e5f-bf16-63768b750fc7|Spectinomycin(2+)|isa|Cation
+b47817c5-7747-4083-b640-a7e7733ef172|Spectinomycin(2+)|isa|Ammonium ion
+0f00c865-1346-46e8-8626-a1daeeea0d1e|Spectinomycin|has_conjugate_acid|Spectinomycin(2+)
+c99e7f7a-0063-4248-86df-78ec87483fe9|Spectinomycin(2+)|has_conjugate_base|Spectinomycin
+4d8722b8-2115-44ad-a258-7aa6fa4ff215|Ramiprilat|has_disposition|Angiotensin-converting enzyme inhibitor
+3a1e27d5-ca6d-4643-99a0-a4d2735a6855|Ramiprilat|isa|Azabicycloalkane
+c80d89e8-1e06-4275-926e-340d45cd20b3|Ramiprilat|isa|Dipeptide
+2d735178-eca1-4444-88f1-113b0baed738|Ramiprilat|isa|Dicarboxylic acid
+69edda05-cf76-44a3-8e4d-81499f83ed15|Ramipril|isa|Dipeptide
+20272c27-8cf0-454a-851a-53f64e952062|Fenoterol|isa|Phenol derivative
+17fd3d5e-6aa0-420a-9784-a11d13738d99|Trovafloxacin|isa|Monocarboxylic acid
+86197de6-1d2d-4506-bc29-4757bf29db39|Trovafloxacin|isa|Azabicycloalkane
+6eb4dd54-db73-422d-b40f-edd8ad146bbe|Trovafloxacin|has_disposition|Topoisomerase IV inhibitor
+e7f62725-39b6-4084-95f8-07db2c2c0111|Trovafloxacin|has_disposition|DNA synthesis inhibitor
+698243b5-fad0-4c3d-a9d9-3560d692d834|Trovafloxacin mesylate|isa|Methanesulfonate salt
+8f93dd46-7217-4825-976c-b50689a72634|Trovafloxacin mesylate|has_disposition|DNA synthesis inhibitor
+f99f74ce-eb2f-403e-a86c-b59fe2a868dc|Trovafloxacin(1+)|isa|Ammonium ion
+0d81a9c1-5a30-43e7-945a-dda56dcaa0ea|Trovafloxacin(1+)|isa|Cation
+d5def439-565f-4255-a727-e937e0c7d43c|Trovafloxacin|has_conjugate_acid|Trovafloxacin(1+)
+1b129542-5aed-4237-b354-96c2b9ed6e81|Trovafloxacin(1+)|has_conjugate_base|Trovafloxacin
+e2d0a147-39a2-4731-91ad-2003d3576715|Glipizide|isa|Amide
+ee9178e7-78c8-4fb5-9bb9-cce3c1d9df3a|Glipizide|isa|Monocarboxylic acid amide
+692d4e3a-ba26-4818-9816-d33854768d61|Mirabegron|isa|Monocarboxylic acid amide
+bb6f5a88-ab4c-40b4-af0f-5d89517c08cc|Fluvastatin sodium|isa|Sodium salt
+d763f731-a37d-4b4b-9b55-ea4e451dad6b|Acebutolol|isa|Monocarboxylic acid amide
+afa5d775-feec-4103-b546-588ea1be1ba1|Acebutolol|isa|Amide
+046a4822-cfa4-4c94-bd02-a01cf7d5e6f2|Doxazosin|isa|Monocarboxylic acid amide
+0e547047-0419-44bb-9988-1694635445c7|Saxagliptin|isa|Monocarboxylic acid amide
+c0bd7bfa-ad11-413c-9fed-828966ba12f7|Prazosin|isa|Monocarboxylic acid amide
+018bdb84-b88f-4fcc-9370-310045f494b4|Prazosin|isa|Ether derivative
+4d5eecbf-42fc-495e-9549-a6ae58fdd0a5|Oxiconazole|isa|Imidazole
+6769a5cd-576b-4898-b9d6-d888201e4aaa|Oxiconazole|isa|Ether derivative
+cc11d867-7711-42e4-9efe-4e9d79b3a7e3|Oxiconazole(1+)|isa|Cation
+b82061ad-f35b-4115-9ca3-18654a6fcc10|Oxiconazole(1+)|has_conjugate_base|Oxiconazole
+066d0809-3a48-4db9-8167-1ab534fa0efb|Oxiconazole|has_conjugate_acid|Oxiconazole(1+)
+45f9858f-4c92-41e3-8df7-0922fdfe6e0e|Oxiconazole nitrate|has_part|Oxiconazole(1+)
+c3d3a57f-7ea8-412e-9f7e-6eb14aca6d91|Dexverapamil|isa|Nitrile
+a43f3bf6-7e29-4ddd-ac19-9053f6effb7e|(S)-verapamil|isa|Nitrile
+a621e76f-8a2b-46ce-a436-70c2060d198d|(S)-verapamil|has_enantiomer|Dexverapamil
+48da7c11-86ec-4f53-a9f9-31a1bafe29b7|Dexverapamil|has_enantiomer|(S)-verapamil
+f8770461-b0a1-456f-9ad2-723312d84e9e|Dexverapamil(1+)|isa|Ammonium ion
+3c4042e5-6817-4ec4-a67a-252ed7b5461f|Dexverapamil(1+)|has_conjugate_base|Dexverapamil
+aeb224f8-4486-4f92-bda3-348c744848b6|Dexverapamil|has_conjugate_acid|Dexverapamil(1+)
+a6373fec-e916-45e9-8290-2db8f3630e28|(S)-verapamil(1+)|isa|Ammonium ion
+8f694a5d-606b-44dd-b947-d3e306198fad|(S)-verapamil(1+)|has_conjugate_base|(S)-verapamil
+004e6ede-c3d7-4f85-9e2e-d77a9b442d6e|(S)-verapamil|has_conjugate_acid|(S)-verapamil(1+)
+3c0c1dc6-caa4-4eb7-8c6d-31e09baaabe2|(S)-verapamil(1+)|has_enantiomer|Dexverapamil(1+)
+57e01217-689c-4f15-a711-d68b67dde3dc|Dexverapamil(1+)|has_enantiomer|(S)-verapamil(1+)
+c1ef204d-0a13-406f-b591-7736feceb254|Dexverapamil hydrochloride|isa|Hydrochloride
+47dd24b4-2154-41c0-b08b-5f7d41e1e590|(S)-verapamil hydrochloride|isa|Hydrochloride
+fdd67e3b-96a5-4d6e-871b-6d638cdca638|(S)-verapamil hydrochloride|has_enantiomer|Dexverapamil hydrochloride
+a187b76f-f536-4bbb-beec-40ffab003c13|Dexverapamil hydrochloride|has_enantiomer|(S)-verapamil hydrochloride
+6255e5cb-21bc-4770-adfa-f5d35b78d083|Verapamil hydrochloride|has_part|(S)-verapamil hydrochloride
+94f505a1-4060-4d56-8f8b-d3df8e1cf1c0|Dexverapamil|has_disposition|Hydrolase inhibitor
+1dc81487-4ddc-42db-ad48-923d1bbf39ad|(R)-sulconazole|isa|Imidazole
+ac060000-a30c-4291-86f5-02499dacaefe|(S)-sulconazole|isa|Imidazole
+10bdeac7-c62d-43a8-b7fd-4ce3c75904d2|(S)-sulconazole|has_enantiomer|(R)-sulconazole
+b66cfea9-a902-48c9-ad9f-bc2ef5cd6bd8|(R)-sulconazole|has_enantiomer|(S)-sulconazole
+3ea46a78-fb6f-4bba-b357-e82361b30ce8|Sulfaphenazole|isa|Sulfonamide
+4ab4ff6d-b4de-43cd-8726-b61498a80a91|Sulfaphenazole|has_disposition|Cytochrome P450 inhibitor
+26f98e37-ec7b-40aa-aece-31946dd938cf|Temafloxacin|has_disposition|Deoxyribonucleic acid topoisomerase (adenosine triphosphate-hydrolysing) inhibitor
+2b5e0c90-c239-4977-82de-cc9e49e5629c|Perindopril|isa|Carboxylic ester
+2c6befbd-b747-4d94-95a3-cace5bb1b3d2|Clemizole|has_disposition|Histamine antagonist
+74d9f0c8-872b-4ecc-9c45-b9e8eccf09d1|(S)-tioconazole|isa|Imidazole
+3b500c74-4ef9-4ebe-9818-aeb2d92583d4|(R)-tioconazole|isa|Imidazole
+a1208ef7-d226-41d9-bc75-6a0c487929a7|Perindopril arginine|isa|Ammonium salt
+01ded966-fa73-4d0f-b02c-4594da80df54|Perindopril arginine|has_part|L-argininium(1+)
+2326bc53-c89e-480d-bba6-245df66a2172|Perindopril|isa|Molecule
+a8cc2ee6-b232-4a15-aa25-67bc07838eb2|Perindopril(1-)|isa|Monocarboxylic acid anion
+74a63756-52db-4046-ad69-88fded1ca8ef|Perindopril|has_conjugate_base|Perindopril(1-)
+659639fe-0a31-45d1-bb5f-038cecc53a63|Perindopril(1-)|has_conjugate_acid|Perindopril
+552a95a9-37a1-4d97-a169-496808377776|Perindopril erbumine|has_part|Perindopril(1-)
+31d074bd-6c78-41fe-804c-8b8cc05a7ef3|Perindopril arginine|has_part|Perindopril(1-)
+9c1b8175-aa82-4631-be20-1ff9d9f1447c|Sulfadimethoxine|isa|Sulfonamide
+b5a368fb-63fe-4883-b847-6cdeda18e7c8|Sulfadimethoxine|isa|Ether derivative
+1a23f35c-608e-47e6-928c-3d99054d4e2c|Sulfate salt|isa|Salt
+ae1e620f-3165-4ec9-86fc-bb8c0588888f|Nizatidine|isa|Thiazole
+0d3b706b-1f5b-4770-814d-22a01b137a6b|Nizatidine|has_disposition|H2-receptor antagonist
+8b2fb087-b062-4d43-bf5e-9b1f4c7f95ba|Nizatidine|has_disposition|Cholinergic
+080bb2ca-ba80-4c41-bd77-32c90014ca21|Mupirocin|isa|Monocarboxylic acid
+0f7fcc92-29b4-4639-b1d2-e44bdb12fe34|Mupirocin|isa|Ether derivative
+8bc95ad3-65f3-49db-9205-a244dfbddbee|Mupirocin|isa|Alcohol
+aecff8cc-96bc-4765-8f43-50ad7dd2c32a|Mupirocin|isa|Carboxylic ester
+c09eabf7-7c74-4733-b33d-44ab02c92d02|(R)-bifonazole|isa|Imidazole
+b6c1e8c5-ef20-4173-8a57-a41c85076fef|(S)-bifonazole|isa|Imidazole
+e7a49cf1-c302-439e-9338-ddc89d2233c1|(R)-bifonazole|has_enantiomer|(S)-bifonazole
+ba8ecce3-e372-49e8-b178-319bb78fd031|(S)-bifonazole|has_enantiomer|(R)-bifonazole
+b5012d1d-881b-4774-929d-4c0353c48177|Mupirocin|has_disposition|Protein synthesis inhibitor
+636024e4-03a8-4df0-baf3-0b9f8ca3a3ac|Fusidic acid|isa|Monocarboxylic acid
+4f6e8e40-6fdf-4510-a58e-472cfee95305|Bleomycin hydrochloride|isa|Hydrochloride
+53a5076b-d14e-4905-b687-06817968c3b6|Steroid acid anion|isa|Carboxylic acid anion
+e0a42504-f3ba-4873-b64a-e500f5cab990|Sulfamethoxydiazine|isa|Sulfonamide
+56b147f6-eeb1-4d39-bedd-239058cbc5e8|Sulfamethoxypyridazine|isa|Sulfonamide
+c1b28edb-675e-45ec-917f-fd27cef0df6d|Sulfisomidine|isa|Sulfonamide
+aa43ac49-e0b7-4a10-aa28-5f6e00dc099e|Zofenopril|isa|Ester
+36bc85fb-ba67-4f13-b6c3-56ed6ea9d263|Zofenopril|has_disposition|Angiotensin-converting enzyme inhibitor
+90d56b8c-7230-4b1d-917b-59c25665776a|Zofenopril|has_disposition|Apoptosis inhibitor
+bdea201d-2c55-4bc5-98b7-5ebbdfb6e9a1|Zofenopril calcium|isa|Calcium salt
+70fe6e6e-8616-4276-9d12-42599d089b12|Zofenopril calcium|has_disposition|Apoptosis inhibitor
+7df9b579-74fd-45bd-be7d-e1423a5bfa4e|Zofenopril(1-)|isa|Monocarboxylic acid anion
+1b5db826-ce3f-4d0d-88fb-fbd6cde00d74|Zofenopril|has_conjugate_base|Zofenopril(1-)
+4e8191ba-c01f-49b0-95d8-7aa35f8ea1b3|Zofenopril(1-)|has_conjugate_acid|Zofenopril
+dc06b4c9-77e1-43f5-8655-9101e9aa1f4d|Zofenopril calcium|has_part|Zofenopril(1-)
+243558ad-3141-4e77-9f47-2b0b0b03559f|Zofenoprilat|has_disposition|Apoptosis inhibitor
+9a294bac-22bb-4e9e-9a34-044784cb51bc|Zofenoprilat|has_disposition|Angiotensin-converting enzyme inhibitor
+24a930ed-8593-45a8-94c9-f8fff9a09ecb|Zofenoprilat arginine|isa|Ammonium salt
+c742f712-d075-4b95-a09e-98bce047c492|Zofenoprilat arginine|has_disposition|Apoptosis inhibitor
+122051a0-8123-4eb2-a330-8cb8718c2031|Zofenoprilat(1-)|isa|Monocarboxylic acid anion
+838dde68-37c2-4148-b183-55f07df98812|Zofenoprilat arginine|has_part|Zofenoprilat(1-)
+3f5e149a-fd34-4195-af4b-a18b51c32594|Zofenoprilat|has_conjugate_base|Zofenoprilat(1-)
+f8eb025d-ab91-47ab-a1e9-6357321e14d8|Zofenoprilat(1-)|has_conjugate_acid|Zofenoprilat
+ccdd2e23-67bd-44f1-b841-39e00b931c04|(R)-econazole nitrate|has_enantiomer|(S)-econazole nitrate
+63b9b201-d562-4236-9af8-431bb88def34|(S)-econazole nitrate|has_enantiomer|(R)-econazole nitrate
+7392766d-7249-406c-91d4-e12df0195ba1|(S)-econazole|isa|Imidazole
+e69c8ad9-5ddb-4e95-ad19-881dee20a60e|(S)-econazole nitrate|has_part|(S)-econazole
+86233a0b-74ab-44a6-b49c-c0c03e1dd351|(R)-econazole|isa|Imidazole
+fae7affb-ac9d-4708-b0d9-3948cf4ec568|(S)-econazole|has_enantiomer|(R)-econazole
+96f05c4a-c8d6-4909-a794-997364f4d8d9|(R)-econazole|has_enantiomer|(S)-econazole
+0ddbdc2c-3640-4f65-a70b-f7cb1f8f1e5c|(R)-econazole nitrate|has_part|(R)-econazole
+44c79d98-9aff-42a7-ab6d-d271603aab92|(R)-miconazole nitrate|has_enantiomer|(S)-miconazole nitrate
+f284bfb7-5b90-40af-a683-5ed2ee5de966|(S)-miconazole nitrate|has_enantiomer|(R)-miconazole nitrate
+80544ce9-ae69-4aa8-bf9e-e903dfc5423b|(R)-miconazole|isa|Imidazole
+dfde75a6-2011-4339-886a-dc56d48e43ce|(R)-miconazole nitrate|has_part|(R)-miconazole
+53c19e4e-eb47-48eb-b309-18aec863df88|(S)-miconazole|isa|Imidazole
+22aa2692-97b1-4e00-848a-a6a2a4251180|(R)-miconazole|has_enantiomer|(S)-miconazole
+ef61cf45-de03-468d-b816-b332751415d0|(S)-miconazole|has_enantiomer|(R)-miconazole
+839a7dd2-0193-45cb-8674-2faea3f2a92f|(S)-miconazole nitrate|has_part|(S)-miconazole
+0e1d5174-9084-4812-85fe-c5204dd832bf|(2R,4S)-terconazole|isa|Triazole
+e65ef66a-518c-478d-81d1-266b44104bab|(2S,4R)-terconazole|isa|Triazole
+bd302aac-e507-4af5-8a13-248941fba0e0|(2R,4S)-terconazole|has_enantiomer|(2S,4R)-terconazole
+c7c874f7-acca-4f9e-8496-1acfaa76fd81|(2S,4R)-terconazole|has_enantiomer|(2R,4S)-terconazole
+66bea9ff-1b75-418a-92ed-1540504b5b89|Olodaterol|isa|Phenol derivative
+1cea010b-7e28-4045-9b1a-df02ba526b04|Olodaterol|isa|Ether derivative
+ebe890d7-d67f-4480-83ab-d739180cd848|Olodaterol|isa|Alcohol
+42a5445e-f45a-437e-8404-6bd9f412a5e7|Olodaterol|has_disposition|Beta 2 adrenergic agonist
+f66ae76c-ce64-431c-bd66-92f7044fc293|Olodaterol hydrochloride|isa|Hydrochloride
+c166b03d-2cc8-4b2b-92cf-b14eee72b4fa|Tedizolid|isa|Pyridine derivative
+27b5b7b4-3fcf-465a-ac05-de4a7c337e33|Tedizolid|isa|Tetrazole
+c571a061-9219-430c-b115-56a622e1b757|Tedizolid|isa|Oxazolidinone
+ab42fc26-e1d3-4e1c-9d0f-a666bebb139a|Tedizolid|isa|Alcohol
+f0c4d934-a35f-4b4a-903b-e5d1861e3826|Tedizolid|has_disposition|Protein synthesis inhibitor
+a5306b31-5778-4d4e-b033-fc190f57461d|Efinaconazole|isa|Triazole
+334e5f6a-7bbb-479f-933e-0bb2e640fbcc|Efinaconazole|isa|Piperidine derivative
+0aa41d0b-3e20-4307-8ad8-689cdf25b55d|Efinaconazole|isa|Alcohol
+e8c36005-1dc4-4971-bc15-382e52366704|Efinaconazole|has_disposition|Oxidoreductase inhibitor
+16e6932f-ba3b-42a3-a4fa-0fcee11ef678|(R)-orciprenaline|isa|Phenol derivative
+74930d99-4b7b-48b6-8752-e0723898d2bf|(S)-orciprenaline|isa|Phenol derivative
+a4a26f2f-23a9-4a9e-ae1c-e9d9f96d744e|(R)-orciprenaline|has_enantiomer|(S)-orciprenaline
+b4a906ee-da11-4f16-a538-52db88af1c8c|(S)-orciprenaline|has_enantiomer|(R)-orciprenaline
+421cd975-cecd-4707-9e8b-be509a6c21a7|(R)-orciprenaline sulfate|isa|Sulfate salt
+c3f00760-56a8-4506-bd12-3c6f556d29a3|(S)-orciprenaline sulfate|isa|Sulfate salt
+bf74fb94-885d-4f30-b2ca-70c1f8237a27|(S)-orciprenaline sulfate|has_enantiomer|(R)-orciprenaline sulfate
+3dab50a9-570e-4dd1-ac0a-6d1076bc7772|(R)-orciprenaline sulfate|has_enantiomer|(S)-orciprenaline sulfate
+16a7f798-2617-46ae-8b40-69e1f4fbdd6c|(S)-orciprenaline(1+)|isa|Ammonium ion
+d0cd2964-b4d2-4ab0-a986-171ac723d3a0|(S)-orciprenaline(1+)|isa|Cation
+bacde653-a5b0-4e8a-9419-1db3ce05a1d4|(S)-orciprenaline sulfate|has_part|(S)-orciprenaline(1+)
+251f9423-02ff-4624-b2b2-e5adb258e2f4|(S)-orciprenaline|has_conjugate_acid|(S)-orciprenaline(1+)
+4267d086-dc25-4d80-8888-45e7287cc5cd|(S)-orciprenaline(1+)|has_conjugate_base|(S)-orciprenaline
+e91d24db-4087-459a-95d1-f9f2dacb4590|(R)-orciprenaline(1+)|isa|Ammonium ion
+171bf44e-3954-4600-82f0-dd8f14b1215d|(R)-orciprenaline(1+)|isa|Cation
+ec9fa27d-72b8-482c-8ece-35c97f2f502c|(S)-orciprenaline(1+)|has_enantiomer|(R)-orciprenaline(1+)
+4e52594f-7397-4da0-abaf-d42893165f53|(R)-orciprenaline(1+)|has_enantiomer|(S)-orciprenaline(1+)
+795c89a3-dfe6-447e-b823-1532d17d4a51|(R)-orciprenaline sulfate|has_part|(R)-orciprenaline(1+)
+e8ac091f-5c0a-4084-bdf5-41beb8a84dc5|(R)-orciprenaline(1+)|has_conjugate_base|(R)-orciprenaline
+186e12c5-0675-416e-9cc7-5c7290a7f0b8|(R)-orciprenaline|has_conjugate_acid|(R)-orciprenaline(1+)
+aa4e8e99-8a54-4774-9af3-3ef520b0afc4|Chlorobenzene derivative|isa|Chlorine compound
+05f6708b-441c-47c9-8fad-eb189187bd86|Felodipine|isa|Benzene derivative
+178a49b3-f5bb-4d29-96b9-906f9c1df162|Ketoconazole|isa|Benzene derivative
+cadc377a-74e3-46e0-9aa8-72612f08bce1|Clenbuterol|isa|Benzene derivative
+b8cd7169-05af-4708-8a46-284f42293421|Dicloxacillin|isa|Benzene derivative
+dafa8c4e-7f92-4db2-8cdb-5e9d8408ecd4|Itraconazole|isa|Benzene derivative
+632541a0-6fb8-4817-a8cf-64bae7a84edb|Oxiconazole|isa|Benzene derivative
+9b1db1bb-7277-446f-95a5-36f5b144a323|Vilanterol|isa|Benzene derivative
+5a977878-e978-4da4-afdb-9aaa9a8c30c7|Monochlorobenzene derivative|isa|Chlorobenzene derivative
+7540795d-a2b9-49d5-bd92-c3c50506d265|Amlodipine|isa|Monochlorobenzene derivative
+bcc399b6-1fae-4fec-afe2-2d3480654844|Azelastine|isa|Monochlorobenzene derivative
+4f98bb4f-4256-48a5-b0ba-50119f3787ca|Carbinoxamine|isa|Monochlorobenzene derivative
+3e321405-9426-4692-92df-6d963c033c54|Oxytetracycline|has_disposition|Protein synthesis inhibitor
+c935343c-f9c5-4ef6-9be9-5e5d2d435a6e|Bepotastine|isa|Monochlorobenzene derivative
+629d3d06-78d4-4099-87ab-9a724cca5134|Buclizine|isa|Monochlorobenzene derivative
+5bb6fb26-53c7-4c00-92d1-423663a400b5|Cetirizine|isa|Monochlorobenzene derivative
+ada9a7ad-808c-48a9-9c4a-dec741b9008a|Chlorpropamide|isa|Monochlorobenzene derivative
+4406ebb0-b5ba-46cf-b55a-d783bcccc164|Clemastine|isa|Monochlorobenzene derivative
+c494e39b-54e3-4d75-a7e3-9e2870fdcd2d|Clemizole|isa|Monochlorobenzene derivative
+9b29b949-0cd2-4e58-b1f9-5680dd1acca3|Clofazimine|isa|Monochlorobenzene derivative
+4ebd07b9-8c54-4828-b026-80146ceef169|Clotrimazole|isa|Monochlorobenzene derivative
+256bdbd8-a2a4-4fe2-bdaa-a54b7ebdc525|Chlorphenamine|isa|Monochlorobenzene derivative
+b7df691f-5dcf-4672-bf3d-7cb3cbfe8eaa|Glyburide|isa|Monochlorobenzene derivative
+2529708f-6a11-437b-b50d-6975340b9da4|Hydroxyzine|isa|Monochlorobenzene derivative
+543c1401-cb66-4eb6-88ff-ad3b6227c3fe|Cetirizine|isa|Ether derivative
+15469013-7cfb-4b0a-ae60-92fa98f04a6b|Clindamycin|isa|Chlorine compound
+3117fee7-df7e-4012-bd77-14b347e3b3ed|Clindamycin|has_functional_parent|Lincomycin
+a204aece-429b-405b-bf39-987ef8954278|Eprosartan|isa|Dicarboxylic acid
+8a422820-ca6b-4de1-b58d-ffc74e2a4a12|Eprosartan|isa|Imidazole
+896b496c-239b-4577-98d8-0be52ab466aa|Eprosartan|isa|Thiophene
+cbad1a84-cff8-405c-8143-91a0b57ffc2f|Pantoprazole|isa|Pyridine derivative
+67cdf4cb-7252-48b2-a7ab-7ed71a4ccccb|Pantoprazole|isa|Ether derivative
+97da3e3a-c8d6-4dd7-b075-b79b117c3151|Telmisartan|isa|Benzimidazole
+e89fdc21-87ca-4393-92e0-487f116dedfb|Atorvastatin|isa|Amide
+ffdd5359-f2a7-4e78-90d0-9d9ea21f3dc2|Sitagliptin|isa|Benzene derivative
+99ab5c87-c80e-475b-ac7f-6d3886e16790|Fluconazole|isa|Benzene derivative
+e6d55bf2-aaea-494f-8827-61cc425ea89d|(R)-eberconazole|isa|Imidazole
+3eed31d2-655d-4bc4-9fba-48974d0a674b|(S)-eberconazole|isa|Imidazole
+48812a4f-76cd-4e5c-a35a-5035bda7e1ed|(R)-eberconazole|has_enantiomer|(S)-eberconazole
+a7b7c067-e9d3-4131-a119-87fdfe8d4098|(S)-eberconazole|has_enantiomer|(R)-eberconazole
+b8c84452-84e8-4bac-9baf-a94a8f8e8644|(S)-eberconazole(1+)|isa|Cation
+8558e14f-f73a-407d-8677-127dd0bf2654|(S)-eberconazole nitrate|has_part|(S)-eberconazole(1+)
+c1977276-8aae-4b53-8eea-f20644a36b16|(S)-eberconazole(1+)|has_conjugate_base|(S)-eberconazole
+33834c67-31f2-465e-9407-2e9143c0a08d|(S)-eberconazole|has_conjugate_acid|(S)-eberconazole(1+)
+fd042fe3-92ec-406a-b1ee-a09465902f1b|(R)-eberconazole(1+)|isa|Cation
+2adb78c0-849b-475a-8879-e0081b27fb5e|(R)-eberconazole(1+)|has_enantiomer|(S)-eberconazole(1+)
+c21e12f7-9e6b-4284-a1ad-1472a706b501|(S)-eberconazole(1+)|has_enantiomer|(R)-eberconazole(1+)
+975a58c9-c4f7-44aa-bad7-5968843047e8|(R)-eberconazole|has_conjugate_acid|(R)-eberconazole(1+)
+8bcb305f-69a6-43ea-9b34-b3bdfa35c395|(R)-eberconazole(1+)|has_conjugate_base|(R)-eberconazole
+ffe0f539-4049-4128-b22f-34b747dad19d|Imidazole|isa|Benzene derivative
+a0be8123-13d6-4b57-9782-29316ad41b86|Imidazole|isa|Ether derivative
+21219d9f-bed7-4e6b-8646-0da21a27233b|(S)-fenticonazole|isa|Imidazole
+cb0d874b-09db-4c1a-8e31-09ba2732ec4f|(R)-fenticonazole|isa|Imidazole
+72017bd7-f7a4-4404-8bfc-47bf07e4d729|(S)-fenticonazole|has_enantiomer|(R)-fenticonazole
+8d30be84-c9eb-4397-b712-16a25a218337|(R)-fenticonazole|has_enantiomer|(S)-fenticonazole
+c2208dcf-a7dd-433b-b865-17084e18989b|(S)-fenticonazole nitrate|has_enantiomer|(R)-fenticonazole nitrate
+3b223955-5626-4838-9930-2cdb34e1d094|(R)-fenticonazole nitrate|has_enantiomer|(S)-fenticonazole nitrate
+7d8f73b8-997a-43ef-85cd-f3f3a9812047|(R)-fenticonazole(1+)|isa|Cation
+6ccc9e48-be0d-4707-b869-e5c667c15de8|(R)-fenticonazole(1+)|has_conjugate_base|(R)-fenticonazole
+f4e20d50-97dc-4617-bc41-a4746d9a6672|(R)-fenticonazole|has_conjugate_acid|(R)-fenticonazole(1+)
+75a24229-2379-4d78-aa84-2ab67d1528cb|(S)-fenticonazole(1+)|isa|Cation
+3df2b6e5-2322-4f56-a8e0-3c4700a2c704|(R)-fenticonazole(1+)|has_enantiomer|(S)-fenticonazole(1+)
+a2a9c535-22f7-4d99-b6a7-e2b698ad67b2|(S)-fenticonazole(1+)|has_enantiomer|(R)-fenticonazole(1+)
+f717da4b-f08a-4642-90cc-f9d3fe34797d|(S)-fenticonazole nitrate|has_part|(S)-fenticonazole(1+)
+d83e6025-dea7-4b8a-87a1-a94f6d881951|(S)-fenticonazole|has_conjugate_acid|(S)-fenticonazole(1+)
+328fde52-01db-4605-bc2c-d52cb01db618|(S)-fenticonazole(1+)|has_conjugate_base|(S)-fenticonazole
+d739569b-576d-4f95-be20-162df0279394|Flutrimazole|isa|Imidazole
+cd87293f-4491-4585-9ef1-69cc3a8b167e|Flutrimazole|has_disposition|Oxidoreductase inhibitor
+910f5f2f-d4c0-4517-846e-d90617570463|(R)-isoconazole|isa|Imidazole
+2a8e362c-01eb-4cc9-abf1-085e2628740f|(S)-isoconazole|isa|Imidazole
+f0baca4b-f8c0-49b6-9aca-c150ed27e77d|(R)-isoconazole|has_enantiomer|(S)-isoconazole
+0e242c25-77e9-40b0-b850-ad0845a2de93|(S)-isoconazole|has_enantiomer|(R)-isoconazole
+6bdad89a-4a54-4285-8977-c9dee9f8b024|(R)-isoconazole nitrate|has_enantiomer|(S)-isoconazole nitrate
+5c6c2284-ae99-40dc-a249-5ea693178e1d|(S)-isoconazole nitrate|has_enantiomer|(R)-isoconazole nitrate
+d1698c6b-5ea3-46c2-9e06-51ab3beb093b|(S)-isoconazole(1+)|isa|Cation
+8d39fb5e-1ef8-4f4f-99f8-9c1854381a44|(S)-isoconazole nitrate|has_part|(S)-isoconazole(1+)
+2a466de9-d5dd-4408-bfb5-f1686e409dcd|(S)-isoconazole|has_conjugate_acid|(S)-isoconazole(1+)
+98d71e25-5405-4b22-8451-daeaca34a1ab|(S)-isoconazole(1+)|has_conjugate_base|(S)-isoconazole
+e5d42ee9-bd7d-4ae6-994c-b41739b452d5|(R)-isoconazole(1+)|isa|Cation
+181badbb-9fb2-4991-b4d3-1f6c78b1e9e7|(S)-isoconazole(1+)|has_enantiomer|(R)-isoconazole(1+)
+cb829190-fb57-4424-899d-cd65f19528e1|(R)-isoconazole(1+)|has_enantiomer|(S)-isoconazole(1+)
+c2daabbb-103b-4cd9-a1d8-675b94c11ec2|(R)-isoconazole|has_conjugate_acid|(R)-isoconazole(1+)
+f5b5479f-d40f-4ce4-935b-32afd122af9e|(R)-isoconazole(1+)|has_conjugate_base|(R)-isoconazole
+4b77e398-619d-4520-bff0-a45c73cf165a|(S)-sertaconazole|isa|Imidazole
+a86b66be-394f-4999-8ffc-719505d1489f|Arasertaconazole|isa|Imidazole
+a02fc2f3-b7a7-4132-adef-ce8b59efde78|Arasertaconazole|has_enantiomer|(S)-sertaconazole
+e29e66ca-e626-450e-8f79-dc136a697fc3|(S)-sertaconazole|has_enantiomer|Arasertaconazole
+073ca1f8-a7a3-4273-b4ba-c32ceb0e7605|Arasertaconazole|has_disposition|Oxidoreductase inhibitor
+36ca654a-7c7d-4f81-94ec-9d8aa384e541|Arasertaconazole nitrate|has_enantiomer|(S)-sertaconazole nitrate
+885ee96c-df4b-4094-a337-e7a08bbc8305|(S)-sertaconazole nitrate|has_enantiomer|Arasertaconazole nitrate
+7f91daa0-26d7-43bc-84fe-de7e037c6239|(S)-sertaconazole(1+)|isa|Cation
+0dcf9091-f33c-43c7-9bd4-e1d6566058e9|(S)-sertaconazole nitrate|has_part|(S)-sertaconazole(1+)
+c0596a87-06a7-4523-84f8-7a2aec30b2e4|(S)-sertaconazole(1+)|has_conjugate_base|(S)-sertaconazole
+dde49e31-f109-4864-ab79-5954803bcce4|(S)-sertaconazole|has_conjugate_acid|(S)-sertaconazole(1+)
+82ab8c11-b2fd-4c5c-8f75-a61cd3c152fd|Valsartan|isa|Monocarboxylic acid amide
+a8e1040b-3cde-4461-b454-a27827c5d80f|Valsartan|isa|Monocarboxylic acid
+37a9f4be-3a29-49da-a0db-184d4a730117|Acrivastine|isa|Monocarboxylic acid
+f89af10b-3f2c-47b4-b05d-e93d1fc6a512|Acrivastine|isa|Pyridine derivative
+447b4ffa-ce46-42d8-bab5-cdae7c3eaec4|Acrivastine|isa|N-alkylpyrrolidine derivative
+10d00d87-121c-43b1-b6e0-fbc0f3b9f6ee|Acrivastine|has_disposition|H1-receptor antagonist
+9c2373e8-b128-43cb-ac39-ad8b9e6c6bc7|Triprolidine|isa|N-alkylpyrrolidine derivative
+255fbf12-2aa3-4d6e-9fcb-ca299c5d9216|Triprolidine|isa|Pyridine derivative
+83e7edc2-0718-40e6-80ab-f90af7761d0f|Triprolidine|has_disposition|H1-receptor antagonist
+c51f8956-fd81-4a2a-9a76-0f6cea79225b|Triprolidine(1+)|has_conjugate_base|Triprolidine
+b85cff9e-972e-4991-a1ae-d66059748cd1|Triprolidine|has_conjugate_acid|Triprolidine(1+)
+2f31e32e-0110-40cc-a6d7-69f307437e62|Triprolidine(1+)|isa|Ammonium ion
+bb0cff14-cc50-49d5-a52b-4e1cc1840feb|Triprolidine hydrochloride|isa|Hydrochloride
+63ea6b98-3e6e-4d7b-a7fe-2edb025491f2|Triprolidine(1+)|has_disposition|H1-receptor antagonist
+4666508a-c930-4aa9-b650-7d629eca8145|Proline derivative|isa|Molecular entity
+b19b087e-6887-410a-9c21-db1c1acf0501|Zofenopril|isa|Proline derivative
+179edf0e-4d2d-4997-b5d9-d3f464064fbc|Zofenoprilat|isa|Proline derivative
+a799d9b9-34d3-4f76-8fa9-7f64639eba7f|Fosinopril|isa|Proline derivative
+bd7c9eab-6a81-4b63-84fa-fe49b2d5d3c4|Captopril|isa|Proline derivative
+e52971f1-3f38-4298-898d-cd18af4332ff|Lincomycin|isa|Proline derivative
+7b277266-bb05-4468-9b7b-408f71872b44|Disposition|isa|Realizable entity
+b7ca60f0-af33-4a33-8773-a59a18426326|Amikacin(4+)|isa|Ammonium ion
+0a8da7f3-b959-437e-8011-b7c17a5c815f|Amikacin|has_conjugate_acid|Amikacin(4+)
+d5c45dac-e1da-4c4c-ae1f-3be37dcd30ec|Amikacin(4+)|has_conjugate_base|Amikacin
+bba691ad-7a2f-47bf-b7b8-40b6d41b5fbe|Neomycin sulfate|isa|Sulfate salt
+afa97864-2de3-47e9-aa6f-032eccbb52b7|Spectinomycin|isa|Aminoglycoside
+692c4879-a592-4d68-90d3-4e314a3f89f0|Aminoglycoside|isa|Molecule
+6ad2c3bf-b45c-40b4-881b-15636ea11927|Amino cyclitol glycoside|isa|Molecule
+53cfcf32-f838-481e-951f-d4b8db45f470|Pyridine derivative|isa|Molecule
+f3d99771-2cb6-4fee-a818-e96469edb7b8|Carboxylic acid|isa|Molecule
+0650b469-e26d-4ad4-8caa-227bc4a426d2|Histaminergic|isa|Disposition
+b3495a77-de8f-4cf2-97e7-2b117e307c35|Piperidine derivative|isa|Molecule
+ed1badba-a495-4382-859b-2d9243c3b544|Aldehyde|isa|Molecule
+e4c9e467-2a9a-4513-bd2e-8c9187ab4992|Benzocycloheptapyridine|isa|Molecule
+32d626d1-51b3-43ac-be1c-cdbe3d131e14|Platelet aggregation inhibitor|isa|Disposition
+56ea3746-68fd-4db4-b4a9-0ad62f749c56|Ether derivative|isa|Molecule
+8be33b36-df02-4e6a-b7fc-c794adde41bf|Pyrrolidine derivative|isa|Molecule
+b881656f-4fa2-46b4-acec-458ea138bc20|Piperazine derivative|isa|Molecule
+168020ef-2fd9-4686-b20b-e0ca9d5dfbeb|Guanidine derivative|isa|Molecule
+be5fcca7-9977-48bc-8242-8c4e495e1b1c|Phenothiazine derivative|isa|Molecule
+c65017f1-f612-468f-b31b-34afcd91b702|Sodium salt|isa|Salt
+be6429e2-a412-4dd5-a73d-2281948aa730|Cyproheptadine hydrochloride|isa|Hydrochloride
+a5f52a0b-0029-4343-821c-4cf73d74c384|Hydroxyzine pamoate|isa|Salt
+fffa3bd4-9dc3-4136-98e9-d13cc866cab6|Thiadiazole derivative|isa|Molecule
+6cba12fe-2e86-428d-a5a6-7c049d947df6|Lactam|isa|Molecule
+94b30900-80f4-4479-9b0b-d61ba8a6aae4|Penicillin|isa|Beta-lactam
+865d92cd-fa77-4fac-a137-a20a60f3ca16|Macrolide|isa|Molecule
+e416e71c-4003-4cd5-b820-d3b2afbdf5ed|Hydrate|isa|Heteroatomic molecular entity
+13d00516-c128-4056-a4d8-1d8570ee38d5|Fourth generation cephalosporin|isa|Cephalosporin
+353b0e00-30b0-42af-a912-a676b8c9d813|Third generation cephalosporin|isa|Cephalosporin
+3c99ae05-e3f8-4d64-a519-0135e6f74f9a|Second generation cephalosporin|isa|Cephalosporin
+a4ef426b-4082-4de6-bd70-53e0ca3aac9d|First generation cephalosporin|isa|Cephalosporin
+fff000e6-69b3-41a7-a188-e247cb7bc039|Azole|isa|Molecule
+755dd3b0-562b-4962-ab71-23e7f6706b86|Ertapenem|isa|Carbapenem
+8a642286-b4b4-4aa9-9592-820ef50556d3|Meropenem|isa|Carbapenem
+ee78a0bb-2456-4854-92e6-9228c38bfd2d|Triazine derivative|isa|Molecule
+f58288f0-d033-4710-bc40-f60c281cccb7|Oleandomycin|isa|Macrolide
+93484438-9e28-41b4-9442-10c0fc22e9b9|Erythromycin|isa|Macrolide
+3194037b-d351-4f54-8e8f-97d528726331|Ester|isa|Molecule
+1cc889a1-b6ca-48ac-b53b-8f763e5b6879|Oxazolidine derivative|isa|Molecule
+4e386155-4b3a-46bd-aedd-eeb2a18b594c|Temafloxacin|isa|Carboxylic acid
+baa3b483-c601-4f68-b920-7c6f65c60113|Verapamil hydrochloride|isa|Hydrochloride
+374831ab-78f4-4a1c-be29-8bdd6b53b2ec|Alpha 1 adrenergic antagonist|isa|Alpha adrenergic antagonist
+f4c61e4a-961f-410a-926a-dc374e5588ad|Alpha 2 adrenergic antagonist|isa|Alpha adrenergic antagonist
+6e86efea-5c0e-41f9-b48c-e7e5c6693743|Nonselective alpha adrenergic antagonist|isa|Alpha adrenergic antagonist
+aeb0880b-43b1-445c-a565-ffc7ce75cd93|Alpha adrenergic antagonist|isa|Adrenergic antagonist
+3e23562a-8be4-4e6d-ac41-1857eb15570e|Triazole|isa|Azole
+4b70fc97-2c16-4be0-b0b0-e720adf9a8f9|(S)-econazole nitrate|isa|Nitrate salt
+1da909fb-b5e2-42d8-9baf-7aa899b8eaaf|(R)-econazole nitrate|isa|Nitrate salt
+e22c61f7-ce6a-4c77-b750-f6142ba3f9f9|Nitrate salt|isa|Salt
+4295244f-cd95-4129-a489-49ac330fea02|(S)-fenticonazole nitrate|isa|Nitrate salt
+cbe36a4b-5e8b-41d8-9841-f210995a0e02|(R)-fenticonazole nitrate|isa|Nitrate salt
+25ef56d1-9058-4b72-bc04-fd25841b4787|(S)-isoconazole nitrate|isa|Nitrate salt
+2dbe735d-9260-4b6f-b8b7-5235a1dedc1c|(R)-isoconazole nitrate|isa|Nitrate salt
+427cd737-1c44-4a37-bb2f-220ad7cd7c88|(S)-miconazole nitrate|isa|Nitrate salt
+e4e2639b-7267-46f7-aca5-b88685b27132|(R)-miconazole nitrate|isa|Nitrate salt
+191dd029-6492-47a2-b698-05441b17aa21|(R)-tioconazole|has_enantiomer|(S)-tioconazole
+7b756910-2dd0-4548-a1cb-86ebabd0fcc5|(S)-tioconazole|has_enantiomer|(R)-tioconazole
+a42b11fe-948c-46fa-a6d4-29f9959d4f99|(R)-eberconazole nitrate|has_part|(R)-eberconazole(1+)
+72e4f2ce-ed14-4c30-a56f-52c7df07daa4|(R)-eberconazole nitrate|isa|Nitrate salt
+3fa756c4-9895-44f0-bdf0-1190f538fb12|(S)-eberconazole nitrate|isa|Nitrate salt
+e3a09182-2d47-4dc7-a378-324738dcd173|(S)-sertaconazole nitrate|isa|Nitrate salt
+52704393-0efe-4a8d-8f3d-f073391b6be9|Arasertaconazole nitrate|isa|Nitrate salt
+ae467278-4d31-4746-9df5-03c7720039ad|Arasertaconazole(1+)|isa|Cation
+c7a7793a-8e1c-4cd5-8d80-049fb6505d8b|Arasertaconazole(1+)|has_enantiomer|(S)-sertaconazole(1+)
+8c50400a-dff6-425d-8e40-22485526f7ad|Arasertaconazole(1+)|has_conjugate_base|Arasertaconazole
+3ff0c1c2-f235-4719-ae1a-f692ac1a930b|Arasertaconazole|has_conjugate_acid|Arasertaconazole(1+)
+8e365f93-990e-4203-84f8-12f77eccbc74|Oxiconazole nitrate|isa|Nitrate salt
+7c992429-6a36-41c7-b1b5-6fca4e5ba9ac|Ammonium salt|isa|Salt
+ef0c8576-7042-4545-b803-9395f2e03111|Benazepril|isa|Carboxylic acid
+87ab309c-23a1-4c6d-aaeb-50bed7f485bb|Ramipril|isa|Carboxylic acid
+a8ba9ed3-f40f-4379-9f8d-a79f2f0e5df7|Enalaprilat|isa|Carboxylic acid
+f7ba6eec-15b4-4b2b-a6d8-c806f2f1dc7b|Fumagillin|isa|Carboxylic acid
+04732e97-8120-4242-b4f3-9143acfcbb1a|Perindopril|isa|Carboxylic acid
+6600ee4f-d099-4f7d-a75d-fb29b021ecb9|Beta 1 adrenergic agonist|isa|Beta adrenergic agonist
+2c2430e7-7c8a-4dfa-93b9-613c6d224890|Beta 2 adrenergic agonist|isa|Beta adrenergic agonist
+0c1b9a8b-3991-47e8-badd-f4de04b75d12|Nonselective beta adrenergic agonist|isa|Beta adrenergic agonist
+7773f551-d615-4446-af75-f9f19fd9fb84|(R)-orciprenaline sulfate|isa|Ammonium salt
+26059742-c36a-4b82-a7e3-78d483a25618|Angiotensin II receptor antagonist|isa|Angiotensin receptor antagonist
+b602f03e-90df-4bbe-9536-6e0c4cd9e3bd|Candesartan|isa|Carboxylic acid
+64ffdf64-3046-4d66-afe6-eccee1456882|Azilsartan|isa|Carboxylic acid
+153db96f-50c6-46a8-9670-1cb31982f4ed|Beta 3 adrenergic agonist|isa|Beta adrenergic agonist
+98ff66b9-55c8-4b24-939c-a29904fa0b86|Antipseudomonal penicillin|isa|Penicillin
+e3af358f-1f61-481b-8aa5-625f95012250|Broad spectrum penicillin|isa|Penicillin
+5d12ca11-9e33-4dd8-834e-94498c3f53aa|Extended spectrum penicillin|isa|Penicillin
+42e647f4-af43-46f2-ba05-511b53e27741|Natural penicillin|isa|Penicillin
+5429425e-b7aa-4b2a-8037-3f4f8d8a833a|Penicillinase sensitive penicillin|isa|Penicillin
+de72df96-ed87-4e89-8a95-8c3ede79c53a|Penicillinase-resistant penicillin|isa|Penicillin
+1194d09b-3299-4c81-86dd-7051421efa78|Beta 1 adrenergic antagonist|isa|Beta adrenergic antagonist
+8750ef7f-dd80-4818-bcdb-7cb24d24cd9e|Beta 2 adrenergic antagonist|isa|Beta adrenergic antagonist
+ba056496-0022-43be-8ef2-823ab9f5081a|Nonselective beta adrenergic antagonist|isa|Beta adrenergic antagonist
