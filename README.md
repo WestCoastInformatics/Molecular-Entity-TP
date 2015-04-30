@@ -5,10 +5,6 @@ STEP 0: download and install the RF2 snorocket and json conversion utilities
         dependencies).
 * https://github.com/IHTSDO/rf2-classification-snorocket.git
 * https://github.com/IHTSDO/rf2-to-json-conversion.git
-** Change like 92 of FileHelper to read from a system property rather than system class loader
-			XMLConfiguration xmlConfig = new XMLConfiguration(new File(System.getProperty("validation.rules.file")).toURI().toURL());
-
-
 
 STEP 1: initialize - run to assign UUIDs to the files in src/main/resources
 

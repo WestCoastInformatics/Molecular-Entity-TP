@@ -38,7 +38,6 @@
     <dependency>
       <groupId>org.ihtsdo</groupId>
       <artifactId>rf2-to-json-conversion</artifactId>
-
     </dependency>
   </dependencies>
 
@@ -132,11 +131,6 @@
                 </configuration>
               </execution>
 
-              <!-- No need to combine because tooling takes multiple folders -->
-
-              <!-- Convert RF2 to json <execution> <id>rf2-json</id> <phase>compile</phase> 
-                <goals> <goal>rf2-json</goal> </goals> <configuration> <configFile>${project.build.directory}/config/jsonConfig.xml</configFile> 
-                </configuration> </execution> -->
             </executions>
           </plugin>
 
