@@ -382,10 +382,12 @@ public class TechnologyPreviewGeneratorMojo extends AbstractMojo {
           // throw new Exception("PT concept cannot be found: " + pt2);
           getLog().error("PT concept cannot be found: " + pt2);
         }
-        relsSourceConceptIdMap.put(UUID.fromString(uuid), pt1Concept);
-        relsTypeIdMap.put(UUID.fromString(uuid), relConcept);
-        relsDestinationConceptIdMap.put(UUID.fromString(uuid), pt2Concept);
-
+        if (ptConceptMap.containsKey(pt1) && ptConceptMap.containsKey(pt2)
+            && ptConceptMap.containsKey(rel)) {
+          relsSourceConceptIdMap.put(UUID.fromString(uuid), pt1Concept);
+          relsTypeIdMap.put(UUID.fromString(uuid), relConcept);
+          relsDestinationConceptIdMap.put(UUID.fromString(uuid), pt2Concept);
+        }
       }
       relsIn.close();
 
